@@ -1,8 +1,5 @@
-<style>
-img.logo { vertical-align: sub; }
-</style>
 <p> Studying Software Engineering at the 
-<img class="logo" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
+<img align="center" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
 UPC (Barcelona).</p>
 
 I ❤️ designing and building homebrew CPUs from scratch, inventing my own assembly language and using only discrete logic chips.

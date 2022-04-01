@@ -1,6 +1,6 @@
 <p> Studying Software Engineering at the 
 <img align="center" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
-UPC (Barcelona).</p>
+UPC (Barcelona Tech).</p>
 
 I ❤️ designing and building homebrew CPUs from scratch, all while inventing my own assembly language and using only discrete logic chips.
 
@@ -15,3 +15,9 @@ I ❤️ designing and building homebrew CPUs from scratch, all while inventing 
 
 **CESC:** Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. An 8-bit architecture with a very simple instruction set.
 - [Main repository](https://github.com/p-rivero/CESCA) with documentation, images and some tools.
+
+## Some tools you may find useful:
+
+**[Discord Audio Stream:](https://github.com/p-rivero/DiscordAudioStream)** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.
+
+**[Arduino VGA Terminal:](https://github.com/p-rivero/ArduinoVGA)** Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.

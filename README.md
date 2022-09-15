@@ -1,10 +1,24 @@
-<p> Studying Software Engineering at the 
-<img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
-UPC (BarcelonaTech).</p>
+Hey there! Here's what you should know about me:
 
-I ❤️ designing and building homebrew CPUs from scratch, all while inventing my own assembly language and using only discrete logic chips.
+<ul>
+  <li>He/Him, $[CURRENT_AGE] years old</li>
+  <li>
+    <p> Currently studying Software Engineering at the 
+      <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
+      UPC (BarcelonaTech). </p>
+  </li>
+</ul> 
 
-I'm also a big fan of C# and Java, and I'm currently learning JavaScript to try something new.
+
+**Things I ❤️:**
+- Designing and building homebrew CPUs from scratch, using only discrete logic chips
+- Inventing my own assembly language
+- C# and Java (and recently JavaScript)
+
+**Things I'm learning 💡:**
+- JavaScript / TypeScript
+- Chess ♟️
+
 
 ## Some of my projects:
 

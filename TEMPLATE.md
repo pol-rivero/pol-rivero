@@ -2,12 +2,12 @@ Hey there! Here's what you should know about me:
 
 <ul>
   <li>He/Him, $[CURRENT_AGE] years old (as of $[CURRENT_DATE])</li>
-  <li>I made $[NUM_COMMITS] public GitHub commits last month ($[LAST_MONTH]). $[COMMITS_COMMENT]</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
+  <li>I made $[NUM_COMMITS] public GitHub commits during $[LAST_MONTH]. $[COMMITS_COMMENT]</li>
 </ul> 
 
 

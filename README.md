@@ -2,12 +2,12 @@ Hey there! Here's what you should know about me:
 
 <ul>
   <li>He/Him, 21 years old (as of September 22, 2022)</li>
-  <li>I made 0 public GitHub commits last month (August 2022). I was probably taking a break ⛱</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
+  <li>I made 0 public GitHub commits during August 2022. I was probably taking a break ⛱</li>
 </ul> 
 
 

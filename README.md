@@ -1,7 +1,7 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of September 21, 2022)</li>
+  <li>He/Him, 21 years old (as of September 22, 2022)</li>
   <li>I made 0 public GitHub commits last month (August 2022). I was probably taking a break ⛱</li>
   <li>
     <p>I'm currently studying Software Engineering at the 

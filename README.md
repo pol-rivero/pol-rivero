@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of October 01, 2022)</li>
+  <li>He/Him, 21 years old (as of October 02, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 22 public GitHub commits during September 2022. Fun fact: 22 is an even composite number, its proper divisors being 1, 2 and 11. 🤓</li>
+  <li>I made 22 public GitHub commits during September 2022. Fun fact: 22 is the number of letters in the Hebrew alphabet. 🤓</li>
 </ul> 
 
 

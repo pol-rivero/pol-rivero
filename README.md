@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of October 07, 2022)</li>
+  <li>He/Him, 21 years old (as of October 08, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is the first prime P for which unique factorization of cyclotomic integers based on the Pth root of unity breaks down. 🤓</li>
+  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is the number of chromosomes normal human sex cells have. 🤓</li>
 </ul> 
 
 

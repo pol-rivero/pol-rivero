@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of October 19, 2022)</li>
+  <li>He/Him, 21 years old (as of October 20, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is the number of enigma that plays a prominent role in the plot of The Illuminatus! Trilogy by Robert Shea and Robert Anton Wilson. 🤓</li>
+  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is a Wedderburn–Etherington number. 🤓</li>
 </ul> 
 
 

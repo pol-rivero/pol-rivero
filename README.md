@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of October 25, 2022)</li>
+  <li>He/Him, 21 years old (as of October 26, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is the smallest number of integer-sided boxes that tile a box so that no two boxes share a common length. 🤓</li>
+  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is a Wedderburn–Etherington number. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of October 31, 2022)</li>
+  <li>He/Him, 21 years old (as of November 01, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 23 public GitHub commits during September 2022. Fun fact: 23 is the number of minutes that all flashbacks take place before the assassination attempt on the president in the film Vantage Point. 🤓</li>
+  <li>I made 5 public GitHub commits during October 2022. Fun fact: 5 is the second Sierpinski number of the first kind, and can be written as S2=(22)+1. 🤓</li>
 </ul> 
 
 

@@ -3,24 +3,32 @@
 import os
 import random
 import requests
-import datetime
+from datetime import *
+
+# If there's a special template for today, use that. Otherwise, use the default template
+def get_template():
+    special_template = "special/" + date.today().strftime("%m-%d") + ".md"
+    if os.path.isfile(special_template):
+        return special_template
+    return "TEMPLATE.md"
+
 
 # Get the input and output filenames
 current_dir = os.path.dirname(os.path.realpath(__file__))
-template_file = os.path.join(current_dir, "TEMPLATE.md")
+input_file = os.path.join(current_dir, get_template())
 output_file = os.path.join(current_dir, "README.md")
 
 # Read the template file
-with open(template_file, "r") as f:
+with open(input_file, "r") as f:
     content = f.read()
 
 # Get the current date
-current_date = datetime.datetime.now().strftime("%B %d, %Y")
-content = content.replace("$[CURRENT_DATE]", current_date)
+content = content.replace("$[CURRENT_DATE]", datetime.now().strftime("%B %-d, %Y"))
+content = content.replace("$[CURRENT_YEAR]", datetime.now().strftime("%Y"))
 
 # Compute my age
-birthday = datetime.datetime(2001, 6, 25)
-age = (datetime.datetime.now() - birthday).days // 365
+birthday = datetime(2001, 6, 25)
+age = (datetime.now() - birthday).days // 365
 content = content.replace("$[CURRENT_AGE]", str(age))
 
 
@@ -32,11 +40,13 @@ def get_commits(start_date, end_date):
     params = {"q": "author:p-rivero committer-date:" + start_date.strftime("%Y-%m-%d") + ".." + end_date.strftime("%Y-%m-%d")}
     response = requests.get(url, headers=headers, params=params)
     if response.status_code != 200:
+        print("Could not get commits:")
+        print(response.text)
         return "N/A"
     else:
         return response.json()["total_count"]
 
-this_month = datetime.datetime.now().replace(day=1)
+this_month = datetime.now().replace(day=1)
 last_month = this_month.replace(month=this_month.month - 1)
 num_commits = get_commits(last_month, this_month)
 
@@ -53,6 +63,8 @@ def get_fact(num):
         url = "http://numbersapi.com/" + str(num) + "/trivia"
     response = requests.get(url)
     if response.status_code != 200:
+        print("Could not get fact:")
+        print(response.text)
         return "N/A"
     else:
         return str(response.text)
@@ -62,13 +74,27 @@ if (num_commits == "N/A"):
 elif (num_commits == 0):
     commits_comment = "I was probably taking a break ⛱"
 elif (num_commits == 1):
-    commits_comment = "I bet it feels lonely..."
+    commits_comment = "I bet it's feeling lonely..."
 else:
     commits_comment = "Fun fact: " + get_fact(num_commits) + " 🤓"
     
 content = content.replace("$[COMMITS_COMMENT]", commits_comment)
 
 
+def piratify(text):
+    url = "https://api.funtranslations.com/translate/pirate.json"
+    response = requests.post(url, data={"text": text})
+    if response.status_code != 200:
+        print("Could not piratify text:")
+        print(response.text)
+        return text
+    else:
+        start = "Ahoy matey! Happy [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)!\n\n"
+        return start + response.json()["contents"]["translated"]
+
+# September 19th is International Talk Like a Pirate Day
+if (date.today().month == 9 and date.today().day == 19):    
+    content = piratify(content)
 
 # Write the output file
 with open(output_file, "w") as f:

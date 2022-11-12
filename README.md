@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of November 11, 2022)</li>
+  <li>He/Him, 21 years old (as of November 12, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 5 public GitHub commits during October 2022. Fun fact: 5 is the number of Platonic solids. 🤓</li>
+  <li>I made 5 public GitHub commits during October 2022. Fun fact: 5 is the number of permanent members with veto power on the United Nations Security Council. 🤓</li>
 </ul> 
 
 

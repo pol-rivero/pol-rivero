@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of December 4, 2022)</li>
+  <li>He/Him, 21 years old (as of December 5, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the first odd prime number, and the second smallest prime. 🤓</li>
+  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the second triangular number and it is the only prime triangular number. 🤓</li>
 </ul> 
 
 

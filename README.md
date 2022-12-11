@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of December 10, 2022)</li>
+  <li>He/Him, 21 years old (as of December 11, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the minimum odd number of voting components for simple easy redundancy checks by direct comparison. 🤓</li>
+  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the first number, according to the Pythagoreans, and the first male number. 🤓</li>
 </ul> 
 
 

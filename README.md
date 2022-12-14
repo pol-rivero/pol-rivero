@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of December 13, 2022)</li>
+  <li>He/Him, 21 years old (as of December 14, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the third Heegner number. 🤓</li>
+  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the number of points received for a successful field goal in both American football and Canadian football. 🤓</li>
 </ul> 
 
 

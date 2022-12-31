@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of December 30, 2022)</li>
+  <li>He/Him, 21 years old (as of December 31, 2022)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the first unique prime due to the properties of its reciprocal. 🤓</li>
+  <li>I made 3 public GitHub commits during November 2022. Fun fact: 3 is the number of spatial dimensions we perceive our universe to have. 🤓</li>
 </ul> 
 
 

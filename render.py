@@ -47,7 +47,10 @@ def get_commits(start_date, end_date):
         return response.json()["total_count"]
 
 this_month = datetime.now().replace(day=1)
-last_month = this_month.replace(month=this_month.month - 1)
+if this_month.month == 1:
+    last_month = this_month.replace(year=this_month.year - 1, month=12)
+else:
+    last_month = this_month.replace(month=this_month.month - 1)
 num_commits = get_commits(last_month, this_month)
 
 content = content.replace("$[NUM_COMMITS]", str(num_commits))

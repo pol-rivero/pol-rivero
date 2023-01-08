@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of January 7, 2023)</li>
+  <li>He/Him, 21 years old (as of January 8, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 39 public GitHub commits during December 2022. Fun fact: 39 is the number of Scud missiles which Iraq fired at Israel during the Gulf War in 1991. 🤓</li>
+  <li>I made 39 public GitHub commits during December 2022. Fun fact: 39 is the number of mentions of work or labor in the Torah. 🤓</li>
 </ul> 
 
 

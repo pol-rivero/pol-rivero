@@ -28,7 +28,7 @@ Hey there! Here's what you should know about me:
 I had a vague idea of what I wanted, so I asked ChatGPT:
 ```
 I'm trying to use dalle 2 to generate a profile picture.
-Could you give me some prompts I could use? I want a the profile picture
+Could you give me some prompts I could use? I want the profile picture
 to be minimalist and geeky or somewhat related to programming.
 ```
 ChatGPT responded with:
@@ -53,7 +53,7 @@ Out of all the prompts, `"A minimalist portrait of a programmer"` worked [except
 Other honorable mentions:
 - `"A minimalist portrait of a programmer"`: [Picture 1](https://labs.openai.com/s/TsMXREA9KyGmkq6shFyu1GZX), [Picture 2](https://labs.openai.com/s/28sbF5Zl2lykmKrJxl26Ek3N).
 - `"Minimalistic representation of a computer chip"`: [A bit too simple, but looks good](https://labs.openai.com/s/YfdwPcA6EXpv4arpExMmSbDR).
-- `"A minimalist representation of a computer keyboard"`: [Ń̴̩̒OL̶̢͝҉̛H keyboard layout](https://labs.openai.com/s/YfdwPcA6EXpv4arpExMmSbDR).
+- `"A minimalist representation of a computer keyboard"`: [Ń̴̩̒OL̶̢͝҉̛H keyboard layout](https://labs.openai.com/s/nIDzLez4eQF2Q3Q7SEPOLCIu).
 ---
 
 </details>

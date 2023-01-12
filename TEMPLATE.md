@@ -21,6 +21,44 @@ Hey there! Here's what you should know about me:
 - Rust
 - Chess ♟️
 
+<details>
+<summary><b>About my profile picture ❓</b></summary>
+<br>
+
+I had a vague idea of what I wanted, so I asked ChatGPT:
+```
+I'm trying to use dalle 2 to generate a profile picture.
+Could you give me some prompts I could use? I want a the profile picture
+to be minimalist and geeky or somewhat related to programming.
+```
+ChatGPT responded with:
+```
+Here are a few prompts you can use with DALL-E 2 to generate minimalist,
+geeky or programming-related profile pictures:
+
+"Minimalistic computer coding symbol"
+"Simple geometric shape with a programming language keyword"
+"Minimalistic representation of a computer chip"
+"A minimalist portrait of a programmer"
+"A minimalist representation of a computer keyboard"
+"A minimalist representation of a computer mouse"
+"A minimalist representation of a computer screen with a code snippet"
+"A minimalist representation of a computer network"
+"A minimalist representation of a computer server"
+Keep in mind that DALL-E 2 is a powerful model but it is not perfect, the results may vary and
+it might take multiple attempts to get a good image.
+```
+Out of all the prompts, `"A minimalist portrait of a programmer"` worked [exceptionally well](https://labs.openai.com/s/wnroTIM2KFrlf4AD2ZqZEiWr), and it even resembles me a bit. With very little editing (mainly to remove a very distracting left eye) I got my current picture.
+
+Other honorable mentions:
+- `"A minimalist portrait of a programmer"`: [Picture 1](https://labs.openai.com/s/TsMXREA9KyGmkq6shFyu1GZX), [Picture 2](https://labs.openai.com/s/28sbF5Zl2lykmKrJxl26Ek3N).
+- `"Minimalistic representation of a computer chip"`: [A bit too simple, but looks good](https://labs.openai.com/s/YfdwPcA6EXpv4arpExMmSbDR).
+- `"A minimalist representation of a computer keyboard"`: [Ń̴̩̒OL̶̢͝҉̛H keyboard layout](https://labs.openai.com/s/YfdwPcA6EXpv4arpExMmSbDR).
+---
+
+</details>
+
+
 
 ## Some of my projects:
 

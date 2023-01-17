@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of January 16, 2023)</li>
+  <li>He/Him, 21 years old (as of January 17, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 39 public GitHub commits during December 2022. Fun fact: 39 is the sum of five consecutive primes (3 + 5 + 7 + 11 + 13) and the sum of the first three powers of 3 (31 + 32 + 33). 🤓</li>
+  <li>I made 39 public GitHub commits during December 2022. Fun fact: 39 is the number of signers to the United States Constitution, out of 55 members of the Philadelphia Convention delegates. 🤓</li>
 </ul> 
 
 

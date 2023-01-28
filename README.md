@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of January 27, 2023)</li>
+  <li>He/Him, 21 years old (as of January 28, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 39 public GitHub commits during December 2022. Fun fact: 39 is the traditional number of times citizens of Ancient Rome hit their slaves when beating them, referred to as "Forty save one". 🤓</li>
+  <li>I made 39 public GitHub commits during December 2022. Fun fact: 39 is the number of signers to the United States Constitution, out of 55 members of the Philadelphia Convention delegates. 🤓</li>
 </ul> 
 
 

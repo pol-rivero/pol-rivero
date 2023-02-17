@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of February 16, 2023)</li>
+  <li>He/Him, 21 years old (as of February 17, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 92 public GitHub commits during January 2023. Fun fact: 92 is the number of pounds of sugar the average American child consumes per year. 🤓</li>
+  <li>I made 92 public GitHub commits during January 2023. Fun fact: 92 is the number of different arrangements of 8 non-attacking queens on an 8×8 chessboard. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of March 4, 2023)</li>
+  <li>He/Him, 21 years old (as of March 5, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 25 public GitHub commits during February 2023. Fun fact: 25 is a square number, being 5² = 5 × 5. 🤓</li>
+  <li>I made 25 public GitHub commits during February 2023. Fun fact: 25 is a centered octagonal number, a centered square number, and an automorphic number. 🤓</li>
 </ul> 
 
 

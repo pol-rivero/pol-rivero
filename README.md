@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of March 7, 2023)</li>
+  <li>He/Him, 21 years old (as of March 8, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 25 public GitHub commits during February 2023. Fun fact: 25 is an aliquot sum of 6 and number 6 is the first (or smallest) number to have an aliquot sequence that does not culminate in 0 through a prime. 🤓</li>
+  <li>I made 81 public GitHub commits during February 2023. Fun fact: 81 is the square of 9 and the fourth power of 3. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of March 23, 2023)</li>
+  <li>He/Him, 21 years old (as of March 24, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 81 public GitHub commits during February 2023. Fun fact: 81 is the number of stanzas or chapters in the Tao te Ching (in the most common arrangements). 🤓</li>
+  <li>I made 81 public GitHub commits during February 2023. Fun fact: 81 is the number of prayers said in the Rosary in each night. 🤓</li>
 </ul> 
 
 

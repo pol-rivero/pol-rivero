@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of April 19, 2023)</li>
+  <li>He/Him, 21 years old (as of April 20, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 250 public GitHub commits during March 2023. Fun fact: 250 is the number of Pokémon originally available in Pokémon Gold and Silver before Celebi was added. 🤓</li>
+  <li>I made 250 public GitHub commits during March 2023. Fun fact: 250 is the smallest multi-digit number so that the sum of the squares of its prime factors equals the sum of the squares of its digits. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of April 30, 2023)</li>
+  <li>He/Him, 21 years old (as of May 1, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 250 public GitHub commits during March 2023. Fun fact: 250 is the smallest multi-digit number so that the sum of the squares of its prime factors equals the sum of the squares of its digits. 🤓</li>
+  <li>I made 147 public GitHub commits during April 2023. Fun fact: 147 is the final score of the losing team in the NBA game in which Wilt Chamberlain scored 100 points. 🤓</li>
 </ul> 
 
 

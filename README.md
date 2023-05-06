@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of May 5, 2023)</li>
+  <li>He/Him, 21 years old (as of May 6, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 177 public GitHub commits during April 2023. Fun fact: 177 is the magic constant of a magic square using only Chen primes. 🤓</li>
+  <li>I made 177 public GitHub commits during April 2023. Fun fact: 177 is the number of graphs with 7 edges. 🤓</li>
 </ul> 
 
 

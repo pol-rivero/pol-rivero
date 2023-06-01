@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of May 31, 2023)</li>
+  <li>He/Him, 21 years old (as of June 1, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 177 public GitHub commits during April 2023. Fun fact: 177 is the rank of Netherlands Antilles in world population. 🤓</li>
+  <li>I made 149 public GitHub commits during May 2023. Fun fact: 149 is the number of legal proceedings against 149 communists in Estonia in 1924. 🤓</li>
 </ul> 
 
 

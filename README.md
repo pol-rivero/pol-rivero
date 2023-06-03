@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of June 2, 2023)</li>
+  <li>He/Him, 21 years old (as of June 3, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 150 public GitHub commits during May 2023. Fun fact: 150 is the number of runs in cricket that's a milestone for a batsman. 🤓</li>
+  <li>I made 150 public GitHub commits during May 2023. Fun fact: 150 is the number of degrees in the quincunx astrological aspect explored by Johannes Kepler. 🤓</li>
 </ul> 
 
 

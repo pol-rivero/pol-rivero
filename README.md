@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 21 years old (as of June 3, 2023)</li>
+  <li>He/Him, 21 years old (as of June 4, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 150 public GitHub commits during May 2023. Fun fact: 150 is the number of degrees in the quincunx astrological aspect explored by Johannes Kepler. 🤓</li>
+  <li>I made 152 public GitHub commits during May 2023. Fun fact: 152 is the sum of four consecutive primes (31 + 37 + 41 + 43). 🤓</li>
 </ul> 
 
 

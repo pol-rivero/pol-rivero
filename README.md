@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of June 23, 2023)</li>
+  <li>He/Him, 22 years old (as of June 24, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 152 public GitHub commits during May 2023. Fun fact: 152 is the number of diapers solder in a Pampers Swaddlers pack. 🤓</li>
+  <li>I made 152 public GitHub commits during May 2023. Fun fact: 152 is the sum of four consecutive primes (31 + 37 + 41 + 43). 🤓</li>
 </ul> 
 
 

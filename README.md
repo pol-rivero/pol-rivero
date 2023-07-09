@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of July 8, 2023)</li>
+  <li>He/Him, 22 years old (as of July 9, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 94 public GitHub commits during June 2023. Fun fact: 94 is a 17-gonal number and a nontotient. 🤓</li>
+  <li>I made 94 public GitHub commits during June 2023. Fun fact: 94 is the twenty-ninth distinct semiprime and the fourteenth of the form (2.q). 🤓</li>
 </ul> 
 
 

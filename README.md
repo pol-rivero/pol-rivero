@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of July 22, 2023)</li>
+  <li>He/Him, 22 years old (as of July 23, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 95 public GitHub commits during June 2023. Fun fact: 95 is the number of planar partitions of 10. 🤓</li>
+  <li>I made 95 public GitHub commits during June 2023. Fun fact: 95 is the atomic number of americium. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of July 23, 2023)</li>
+  <li>He/Him, 22 years old (as of July 24, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 95 public GitHub commits during June 2023. Fun fact: 95 is the atomic number of americium. 🤓</li>
+  <li>I made 95 public GitHub commits during June 2023. Fun fact: 95 is the NBA record for Most Assists in a 7-game playoff series (by Magic Johnson of the Los Angeles Lakers in 1984). 🤓</li>
 </ul> 
 
 

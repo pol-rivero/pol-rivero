@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of August 3, 2023)</li>
+  <li>He/Him, 22 years old (as of August 4, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 13 public GitHub commits during July 2023. Fun fact: 13 is the number of Archimedian solids. 🤓</li>
+  <li>I made 13 public GitHub commits during July 2023. Fun fact: 13 is the number of steps in the gallows. 🤓</li>
 </ul> 
 
 

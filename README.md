@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of September 1, 2023)</li>
+  <li>He/Him, 22 years old (as of September 2, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 4 public GitHub commits during August 2023. Fun fact: 4 is the number of characters in a canonical four-character idiom in Chinese. 🤓</li>
+  <li>I made 4 public GitHub commits during August 2023. Fun fact: 4 is the number of nucleobase types in DNA and RNA – adenine, guanine, cytosine, thymine (uracil in RNA). 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of September 5, 2023)</li>
+  <li>He/Him, 22 years old (as of September 6, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 4 public GitHub commits during August 2023. Fun fact: 4 is also a Motzkin number. 🤓</li>
+  <li>I made 4 public GitHub commits during August 2023. Fun fact: 4 is the smallest composite number that is equal to the sum of its prime factors. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of September 21, 2023)</li>
+  <li>He/Him, 22 years old (as of September 22, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 5 public GitHub commits during August 2023. Fun fact: 5 is the number of appendages on most starfish, which exhibit pentamerism. 🤓</li>
+  <li>I made 5 public GitHub commits during August 2023. Fun fact: 5 is the number of Platonic solids. 🤓</li>
 </ul> 
 
 

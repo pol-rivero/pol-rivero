@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of September 24, 2023)</li>
+  <li>He/Him, 22 years old (as of September 25, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 5 public GitHub commits during August 2023. Fun fact: 5 is the number of interlocked rings in the symbol of the Olympic Games, representing the number of inhabited continents represented by the Olympians (counting North America and South America as one continent). 🤓</li>
+  <li>I made 5 public GitHub commits during August 2023. Fun fact: 5 is the second Sierpinski number of the first kind, and can be written as S2=(22)+1. 🤓</li>
 </ul> 
 
 

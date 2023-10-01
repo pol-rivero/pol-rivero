@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of September 30, 2023)</li>
+  <li>He/Him, 22 years old (as of October 1, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 5 public GitHub commits during August 2023. Fun fact: 5 is also the number of Platonic solids. 🤓</li>
+  <li>I made 21 public GitHub commits during September 2023. Fun fact: 21 is the number of points required to win a game in badminton and table tennis (before 2001). 🤓</li>
 </ul> 
 
 

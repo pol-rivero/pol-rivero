@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of October 30, 2023)</li>
+  <li>He/Him, 22 years old (as of October 31, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 27 public GitHub commits during September 2023. Fun fact: 27 is the number of grains in some Buddhist rosary (108 divided by 4). 🤓</li>
+  <li>I made 27 public GitHub commits during September 2023. Fun fact: 27 is the total number of letters in the Spanish alphabet (5 vowels and 22 consonants). 🤓</li>
 </ul> 
 
 

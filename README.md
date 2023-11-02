@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of November 1, 2023)</li>
+  <li>He/Him, 22 years old (as of November 2, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 49 public GitHub commits during October 2023. Fun fact: 49 is the number of days and night Siddhartha Gautama spent meditating as a holy man. 🤓</li>
+  <li>I made 67 public GitHub commits during October 2023. Fun fact: 67 is the highest two-digit odd number not presently designating any highway in the Interstate Highway System of the United States. 🤓</li>
 </ul> 
 
 

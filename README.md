@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of December 30, 2023)</li>
+  <li>He/Him, 22 years old (as of December 31, 2023)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 48 public GitHub commits during November 2023. Fun fact: 48 is in abundance having an aliquot sum of 76. 🤓</li>
+  <li>I made 48 public GitHub commits during November 2023. Fun fact: 48 is a double factorial of 6, a highly composite number. 🤓</li>
 </ul> 
 
 

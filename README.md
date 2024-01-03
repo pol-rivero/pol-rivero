@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of January 2, 2024)</li>
+  <li>He/Him, 22 years old (as of January 3, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 28 public GitHub commits during December 2023. Fun fact: 28 is a composite number, its proper divisors being 1, 2, 4, 7, and 14. 🤓</li>
+  <li>I made 28 public GitHub commits during December 2023. Fun fact: 28 is the number of dominoes in standard domino sets. 🤓</li>
 </ul> 
 
 

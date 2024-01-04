@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of January 3, 2024)</li>
+  <li>He/Him, 22 years old (as of January 4, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 28 public GitHub commits during December 2023. Fun fact: 28 is the number of dominoes in standard domino sets. 🤓</li>
+  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the largest number with the property that all smaller numbers relatively prime to it are prime. 🤓</li>
 </ul> 
 
 

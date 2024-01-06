@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of January 5, 2024)</li>
+  <li>He/Him, 22 years old (as of January 6, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the largest number such that all coprimes smaller than itself, except for 1, are prime. 🤓</li>
+  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the smallest sphenic number, and the smallest of the form where r is a prime greater than 3. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of January 8, 2024)</li>
+  <li>He/Him, 22 years old (as of January 9, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the number of days in the months April, June, September and November (and in unusual circumstances February). 🤓</li>
+  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the number of uprights that formed the Sarsen Circle at Stonehenge, also the supposed number of holes forming the arrays of Y and Z Holes at Stonehenge. 🤓</li>
 </ul> 
 
 

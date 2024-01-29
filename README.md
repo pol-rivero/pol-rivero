@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of January 28, 2024)</li>
+  <li>He/Him, 22 years old (as of January 29, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the percentage of methane on Earth produced from the flatulence of domesticated cows. 🤓</li>
+  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the height in feet that stalks of sugar cane can reach up to. 🤓</li>
 </ul> 
 
 

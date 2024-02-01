@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of January 31, 2024)</li>
+  <li>He/Him, 22 years old (as of February 1, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 30 public GitHub commits during December 2023. Fun fact: 30 is the largest number such that all coprimes smaller than itself, except for 1, are prime. 🤓</li>
+  <li>I made 29 public GitHub commits during January 2024. Fun fact: 29 is the number of cups of milk needed to make one pound of butter. 🤓</li>
 </ul> 
 
 

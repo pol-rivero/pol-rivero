@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of February 7, 2024)</li>
+  <li>He/Him, 22 years old (as of February 8, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 29 public GitHub commits during January 2024. Fun fact: 29 is the number of attributes existing according to The Strokes in You Only Live Once. 🤓</li>
+  <li>I made 29 public GitHub commits during January 2024. Fun fact: 29 is the number of Knuts in one Sickle in the fictional currency in the Harry Potter novels. 🤓</li>
 </ul> 
 
 

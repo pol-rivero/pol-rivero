@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of February 29, 2024)</li>
+  <li>He/Him, 22 years old (as of March 1, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 29 public GitHub commits during January 2024. Fun fact: 29 is the number of cups of milk needed to make one pound of butter. 🤓</li>
+  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is the first odd prime number, and the second smallest prime. 🤓</li>
 </ul> 
 
 

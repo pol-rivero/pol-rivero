@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of March 2, 2024)</li>
+  <li>He/Him, 22 years old (as of March 3, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is a triangle is the only figure which, if all endpoints have hinges, will never change its shape unless the sides themselves are bent. 🤓</li>
+  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is cans of Spam consumed every second in the United States. 🤓</li>
 </ul> 
 
 

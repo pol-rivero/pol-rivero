@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of March 6, 2024)</li>
+  <li>He/Him, 22 years old (as of March 7, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is number of performers in a trio. 🤓</li>
+  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is the minimum odd number of voting components for simple easy redundancy checks by direct comparison. 🤓</li>
 </ul> 
 
 

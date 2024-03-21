@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of March 20, 2024)</li>
+  <li>He/Him, 22 years old (as of March 21, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is the number of witches in William Shakespeare's Macbeth. 🤓</li>
+  <li>I made 3 public GitHub commits during February 2024. Fun fact: 3 is number of performers in a trio. 🤓</li>
 </ul> 
 
 

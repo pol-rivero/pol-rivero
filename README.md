@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of April 12, 2024)</li>
+  <li>He/Him, 22 years old (as of April 13, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 40 public GitHub commits during March 2024. Fun fact: 40 is the number of weeks for an average term of pregnancy, counting from the woman’s last menstrual period. 🤓</li>
+  <li>I made 40 public GitHub commits during March 2024. Fun fact: 40 is the customary number of hours in a regular workweek in some Western countries. 🤓</li>
 </ul> 
 
 

@@ -1,13 +1,13 @@
 Hey there! Here's what you should know about me:
 
 <ul>
-  <li>He/Him, 22 years old (as of April 18, 2024)</li>
+  <li>He/Him, 22 years old (as of April 19, 2024)</li>
   <li>
     <p>I'm currently studying Software Engineering at the 
       <img align="top" src="img/UPC_logo.png" alt="UPC Logo" width="20" height="20">
       UPC (BarcelonaTech).</p>
   </li>
-  <li>I made 40 public GitHub commits during March 2024. Fun fact: 40 is the number of n-queens problem solutions for n = 7. 🤓</li>
+  <li>I made 40 public GitHub commits during March 2024. Fun fact: 40 is the only number whose letters are in alphabetical order. 🤓</li>
 </ul> 
 
 

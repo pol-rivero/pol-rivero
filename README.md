@@ -1,9 +1,9 @@
 
-Today's tech haiku:
+**Today's tech haiku:**
 ```
-Failed API call,
-Bits and bytes lost in the void,
-Silent tech news cries.
+Virtual avatars,
+One photo speaks, deepfake tales,
+Tech shapeshifting wails.
 ```
 
 ## Some of my projects:

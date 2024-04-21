@@ -24,8 +24,8 @@ jobs:
 
       - name: Set up env variables from secrets
         run: |
-          export OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
-          export NEWSAPI_KEY=${{ secrets.NEWSAPI_KEY }}
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+          echo "NEWSAPI_KEY=${{ secrets.NEWSAPI_KEY }}" >> $GITHUB_ENV
       
       - name: Render README.md
         run: |

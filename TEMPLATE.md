@@ -1,5 +1,5 @@
 
-Today's tech haiku:
+**Today's tech haiku:**
 ```
 $[TECH_HAIKU]
 ```

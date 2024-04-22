@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Microsoft's VASA-1,
-From one photo and sound,
-Creating deepfake art.
+Deepfake whispers paint,
+One photo, one voice, it moves,
+Illusions dance true.
 ```
 
 Reference:

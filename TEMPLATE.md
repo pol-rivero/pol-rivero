@@ -4,6 +4,10 @@
 $[TECH_HAIKU]
 ```
 
+Reference:
+
+$[TECH_HAIKU_URLS]
+
 ## Some of my projects:
 
 - **[Discord Audio Stream](https://github.com/p-rivero/DiscordAudioStream):** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.

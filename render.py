@@ -50,12 +50,12 @@ def get_commits(start_date, end_date):
 
 # Generate haiku based on tech news
 def get_tech_haiku():
-    def get_tech_news(api_key, num_stories=5):
+    def get_tech_news(api_key, num_stories=4):
         current_date = datetime.now()
         from_date = (current_date - timedelta(days=5)).strftime("%Y-%m-%d")
         to_date = current_date.strftime("%Y-%m-%d")
         try:
-            url = f"https://newsapi.ai/api/v1/event/getEvents?query=%7B%22%24query%22%3A%7B%22%24and%22%3A%5B%7B%22categoryUri%22%3A%22dmoz%2FComputers%22%7D%2C%7B%22sourceUri%22%3A%22arstechnica.com%22%7D%2C%7B%22dateStart%22%3A%22{from_date}%22%2C%22dateEnd%22%3A%22{to_date}%22%2C%22lang%22%3A%22eng%22%7D%5D%7D%7D&resultType=events&eventsSortBy=date&includeEventSummary=true&includeEventLocation=false&includeEventArticleCounts=false&includeEventConcepts=false&includeEventCategories=false&eventImageCount=1&storyImageCount=1&apiKey={api_key}"
+            url = f"https://newsapi.ai/api/v1/event/getEvents?query=%7B%22%24query%22%3A%7B%22%24and%22%3A%5B%7B%22categoryUri%22%3A%22dmoz%2FComputers%22%7D%2C%7B%22sourceUri%22%3A%22arstechnica.com%22%7D%2C%7B%22dateStart%22%3A%22{from_date}%22%2C%22dateEnd%22%3A%22{to_date}%22%2C%22lang%22%3A%22eng%22%7D%5D%7D%7D&resultType=events&eventsSortBy=date&includeEventSummary=true&includeEventLocation=false&includeEventArticleCounts=false&includeEventStories=true&includeStoryMedoidArticle=true&includeEventConcepts=false&includeEventCategories=false&eventImageCount=1&storyImageCount=1&apiKey={api_key}"
             response = requests.get(url)
             if response.status_code != 200:
                 print("Could not get tech news:")
@@ -65,7 +65,12 @@ def get_tech_haiku():
             if len(events) == 0:
                 print("No tech news found")
                 return None
-            return [event["title"]["eng"] + "\n" + event["summary"]["eng"] + "\nEND STORY" for event in events[:num_stories]]
+            def str_event(event):
+                title = event["title"]["eng"]
+                summary = event["summary"]["eng"]
+                url = event["stories"][0]["medoidArticle"]["url"]
+                return f"{title}\n{summary}\nURL: {url}\nEND STORY"
+            return [str_event(event) for event in events[:num_stories]]
         except Exception as e:
             print("Error getting tech news:")
             print(e)
@@ -74,7 +79,7 @@ def get_tech_haiku():
     def get_haiku(news):
         if news is None:
             return "Failed API call,\nBits and bytes lost in the void,\nSilent tech news cries."
-        system_prompt = "You are an AI poet writing haikus. The user provides a summary of some tech news stories, and you respond with only one haiku, which should be about one or more of the stories."
+        system_prompt = "You are an AI poet writing haikus. The user provides a summary of some tech news stories, and you respond with only one (1) haiku, which should be about one or more of the stories. After the 3 lines of the haiku, add one or more lines with the URL of the story or stories you wrote about."
         client = OpenAI()
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",
@@ -83,7 +88,11 @@ def get_tech_haiku():
                 {"role": "user", "content": "\n\n".join(news)},
             ]
         )
-        return completion.choices[0].message.content
+        response_lines = completion.choices[0].message.content.split("\n")
+        haiku = "\n".join(response_lines[:3])
+        urls = [line.removeprefix("URL:").strip() for line in response_lines[3:]]
+        return (haiku, urls)
+
 
     newsapi_key = os.getenv("NEWSAPI_KEY")
     return get_haiku(get_tech_news(newsapi_key))
@@ -109,7 +118,9 @@ num_commits = get_commits(last_month, this_month)
 content = content.replace("$[NUM_COMMITS]", str(num_commits))
 content = content.replace("$[LAST_MONTH]", last_month.strftime("%B %Y"))
 if "$[TECH_HAIKU]" in content:
-    content = content.replace("$[TECH_HAIKU]", get_tech_haiku())
+    haiku, urls = get_tech_haiku()
+    content = content.replace("$[TECH_HAIKU]", haiku)
+    content = content.replace("$[TECH_HAIKU_URLS]", "\n\n".join(urls))
 
 # September 19th is International Talk Like a Pirate Day
 if (date.today().month == 9 and date.today().day == 19):    

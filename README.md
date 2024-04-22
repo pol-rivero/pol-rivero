@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Virtual avatars,
-One photo speaks, deepfake tales,
-Tech shapeshifting wails.
+Deepfake tech advances,
+Microsoft's VASA-1 creates
+Avatars from one frame.
 ```
 
 ## Some of my projects:

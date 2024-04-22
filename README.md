@@ -1,10 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Deepfake tech advances,
-Microsoft's VASA-1 creates
-Avatars from one frame.
+Microsoft's VASA-1,
+From one photo and sound,
+Creating deepfake art.
 ```
+
+Reference:
+
+
+
+https://analyticsindiamag.com/microsoft-unveils-vasa-1-creating-deepfake-videos-with-a-single-image/
 
 ## Some of my projects:
 

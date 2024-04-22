@@ -94,8 +94,12 @@ def get_tech_haiku():
         return (haiku, urls)
 
 
-    newsapi_key = os.getenv("NEWSAPI_KEY")
-    return get_haiku(get_tech_news(newsapi_key))
+    newsapi_key = os.getenv("NEWSAPI_KEY").split(",")
+    news_results = None
+    for key in newsapi_key:
+        if news_results is None:
+            news_results = get_tech_news(key)
+    return get_haiku(news_results)
 
 def piratify(text):
     url = "https://api.funtranslations.com/translate/pirate.json"

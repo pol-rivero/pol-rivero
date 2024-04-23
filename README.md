@@ -1,40 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Meta enables tech makers,
-Quest OS in their hands,
-Virtual reality thrives.
+Meta shares its Quest,
+Expanding to new devices,
+Virtual worlds thrive.
 ```
 
 Reference:
 
-
-
 https://www.thurrott.com/hardware/301209/meta-opening-up-meta-horizon-os-lenovo-asus-microsoft
-
-
-
-Apple skips M3,
-
-A leap to M4 AI,
-
-Mac Mini's new tech.
-
-
-
-https://forums.macrumors.com/threads/apple-likely-planning-to-skip-m3-mac-mini-for-m4-refresh-in-late-2024.2424607/
-
-
-
-Dolphin blocked by Apple,
-
-Wii emulator waits,
-
-App Store doors closed.
-
-
-
-https://geeknewscentral.com/2024/04/21/why-dolphin-isnt-coming-to-the-app-store/
 
 ## Some of my projects:
 

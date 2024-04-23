@@ -79,7 +79,7 @@ def get_tech_haiku():
     def get_haiku(news):
         if news is None:
             return "Failed API call,\nBits and bytes lost in the void,\nSilent tech news cries."
-        system_prompt = "You are an AI poet writing haikus. The user provides a summary of some tech news stories, and you respond with only one (1) haiku, which should be about one or more of the stories. After the 3 lines of the haiku, add one or more lines with the URL of the story or stories you wrote about."
+        system_prompt = "You are an AI poet writing haikus. The user provides a summary of some tech news stories, and you respond with only one haiku, which should be about one of the stories. After the 3 lines of the haiku, add one extra line with the URL of the story you wrote about."
         client = OpenAI()
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",

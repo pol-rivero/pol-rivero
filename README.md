@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Meta shares its Quest,
-Expanding to new devices,
-Virtual worlds thrive.
+Phi-3, small and strong,
+Microsoft's new language gem,
+Smartphones now rejoice.
 ```
 
 Reference:
 
-https://www.thurrott.com/hardware/301209/meta-opening-up-meta-horizon-os-lenovo-asus-microsoft
+
+
+https://exbulletin.com/tech/2668598/
 
 ## Some of my projects:
 

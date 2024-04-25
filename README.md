@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Phi-3, small and strong,
-Microsoft's new language gem,
-Smartphones now rejoice.
+Cyber spies lurk deep,
+Cisco devices hacked to seek,
+Governments now leak.
 ```
 
 Reference:
 
-
-
-https://exbulletin.com/tech/2668598/
+https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/
 
 ## Some of my projects:
 

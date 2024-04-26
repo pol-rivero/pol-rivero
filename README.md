@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cyber spies lurk deep,
-Cisco devices hacked to seek,
-Governments now leak.
+Apple enhances
+OpenELMs promise new AI 
+future more precise
 ```
 
 Reference:
 
-https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/
+https://appleinsider.com/articles/24/04/24/apples-four-new-open-source-models-could-help-make-future-ai-more-accurate
 
 ## Some of my projects:
 

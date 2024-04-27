@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Apple enhances
-OpenELMs promise new AI 
-future more precise
+Old MS-DOS code free,  
+Windows' history uncovered,  
+Tech nostalgia blooms.  
 ```
 
 Reference:
 
-https://appleinsider.com/articles/24/04/24/apples-four-new-open-source-models-could-help-make-future-ai-more-accurate
+
+
+https://www.pcgamer.com/hardware/microsoft-has-released-the-source-code-for-ms-dos-40-and-its-giving-me-all-the-nostalgia-feels/
 
 ## Some of my projects:
 

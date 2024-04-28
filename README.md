@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Old MS-DOS code free,  
-Windows' history uncovered,  
-Tech nostalgia blooms.  
+Ancient MS-DOS,
+Unveiling tech history,
+Nostalgia unveiled.
 ```
 
 Reference:

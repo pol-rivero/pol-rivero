@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Ancient MS-DOS,
-Unveiling tech history,
-Nostalgia unveiled.
+Early DOS unveiled,
+MS-DOS 4.0 nostalgia,
+Tech history reborn.
 ```
 
 Reference:

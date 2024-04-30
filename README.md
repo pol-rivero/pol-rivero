@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Early DOS unveiled,
-MS-DOS 4.0 nostalgia,
-Tech history reborn.
+Apple's iPadOS,
+Designated gatekeeper now,
+EU tech rules in play.
 ```
 
 Reference:
 
 
 
-https://www.pcgamer.com/hardware/microsoft-has-released-the-source-code-for-ms-dos-40-and-its-giving-me-all-the-nostalgia-feels/
+https://www.investing.com/news/stock-market-news/apples-ipados-designated-as-gatekeeper-under-eu-tech-rules-eu-says-3402525
 
 ## Some of my projects:
 

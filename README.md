@@ -2,8 +2,8 @@
 **Today's tech haiku:**
 ```
 Apple's iPadOS,
-Designated gatekeeper now,
-EU tech rules in play.
+now a gatekeeper in EU's tech rules,
+regulators watch.
 ```
 
 Reference:

@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Apple's iPadOS,
-now a gatekeeper in EU's tech rules,
-regulators watch.
+Feline illness spreads,
+Bird flu jumps from cow to cat,
+New concerns arise.
 ```
 
 Reference:
 
 
 
-https://www.investing.com/news/stock-market-news/apples-ipados-designated-as-gatekeeper-under-eu-tech-rules-eu-says-3402525
+https://www.maryvilleforum.com/news/state_news/more-than-half-of-cats-on-farm-where-bird-flu-infected-cows-died-after-drinking/article_8a245eb3-dec7-5554-9531-8e71aeb8bee2.html
 
 ## Some of my projects:
 

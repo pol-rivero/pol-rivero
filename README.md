@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Feline illness spreads,
-Bird flu jumps from cow to cat,
-New concerns arise.
+Antitrust standoff,
+Google's dominance in search,
+Justice will decide.
 ```
 
 Reference:
 
 
 
-https://www.maryvilleforum.com/news/state_news/more-than-half-of-cats-on-farm-where-bird-flu-infected-cows-died-after-drinking/article_8a245eb3-dec7-5554-9531-8e71aeb8bee2.html
+https://thehill.com/policy/technology/4636501-doj-google-to-present-closing-arguments-in-antitrust-trial/
 
 ## Some of my projects:
 

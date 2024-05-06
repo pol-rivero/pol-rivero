@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Antitrust trial ends,
-Google's search dominance in doubt,
-Tech industry waits.
+Endless lookups done,
+Windows DNS locks down tight,
+Security wins the fight.
 ```
 
 Reference:
 
-
-
-https://www.bnnbloomberg.ca/google-faces-off-with-us-government-as-search-antitrust-trial-closes-1.2068267
+https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/
 
 ## Some of my projects:
 

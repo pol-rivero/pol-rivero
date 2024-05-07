@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Endless lookups done,
-Windows DNS locks down tight,
-Security wins the fight.
+Apple's event nears,
+New iPads in the spotlight,
+Innovation shines.
 ```
 
 Reference:
 
-https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/
+
+
+https://9to5mac.com/2024/04/21/12-9-inch-ipad-air-cases/
 
 ## Some of my projects:
 

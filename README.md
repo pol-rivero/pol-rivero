@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Apple's event nears,
-New iPads in the spotlight,
-Innovation shines.
+Revamped iPads shine,
+"Let Loose" event stirs the air,
+Apple unveils, we stare.
 ```
 
 Reference:
-
-
 
 https://9to5mac.com/2024/04/21/12-9-inch-ipad-air-cases/
 

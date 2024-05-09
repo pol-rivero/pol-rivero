@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Revamped iPads shine,
-"Let Loose" event stirs the air,
-Apple unveils, we stare.
+New iPads set free,  
+Apple's event in May,  
+Tech delights ahead.  
 ```
 
 Reference:

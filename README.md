@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-New iPads set free,  
-Apple's event in May,  
-Tech delights ahead.  
+The Fedora Asahi,
+Bringing Linux to Macs,
+Innovation shines bright.
 ```
 
 Reference:
 
-https://9to5mac.com/2024/04/21/12-9-inch-ipad-air-cases/
+
+
+https://linuxiac.com/fedora-asahi-remix-40-released-for-apple-silicon-devices/
 
 ## Some of my projects:
 

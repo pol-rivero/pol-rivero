@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-The Fedora Asahi,
-Bringing Linux to Macs,
-Innovation shines bright.
+In Musk's court defeat,  
+Data scraping stays its course,  
+Copyright laws blurred.  
 ```
 
 Reference:
 
 
 
-https://linuxiac.com/fedora-asahi-remix-40-released-for-apple-silicon-devices/
+https://www.rte.ie/news/business/2024/0510/1448476-x-loses-lawsuit-against-israeli-data-scraping-company/
 
 ## Some of my projects:
 

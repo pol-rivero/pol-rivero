@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-In Musk's court defeat,  
-Data scraping stays its course,  
-Copyright laws blurred.  
+Monopolistic fears,
+X Corp's lawsuit dismissed now,
+Data rights questioned.
 ```
 
 Reference:
-
-
 
 https://www.rte.ie/news/business/2024/0510/1448476-x-loses-lawsuit-against-israeli-data-scraping-company/
 

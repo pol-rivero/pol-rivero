@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Monopolistic fears,
-X Corp's lawsuit dismissed now,
-Data rights questioned.
+Monopolistic grip,
+X Corp's lawsuit falls silent,
+Data's public dance.
 ```
 
 Reference:
+
+
 
 https://www.rte.ie/news/business/2024/0510/1448476-x-loses-lawsuit-against-israeli-data-scraping-company/
 

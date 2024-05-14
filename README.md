@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Monopolistic grip,
-X Corp's lawsuit falls silent,
-Data's public dance.
+M4 chip speed test,
+9-core lags behind the 10,
+benchmark unveiled.
 ```
 
 Reference:
 
-
-
-https://www.rte.ie/news/business/2024/0510/1448476-x-loses-lawsuit-against-israeli-data-scraping-company/
+https://9to5mac.com/2024/05/13/m4-when-on-the-mac/
 
 ## Some of my projects:
 

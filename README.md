@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-M4 chip speed test,
-9-core lags behind the 10,
-benchmark unveiled.
+Google unveils Astra,
+AI chatbot tech at its best,
+bringing new AI vibe.
 ```
 
 Reference:
 
-https://9to5mac.com/2024/05/13/m4-when-on-the-mac/
+
+
+https://exbulletin.com/tech/2699794/
 
 ## Some of my projects:
 

@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Google unveils Astra,
-AI chatbot tech at its best,
-bringing new AI vibe.
+Project Astra shines,
+AI chatbot tech unveiled,
+A new search era dawns.
 ```
 
 Reference:
 
-
-
-https://exbulletin.com/tech/2699794/
+https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-from-searchs-ai-makeover-gemini-in-google-photos-to-ai-upgrades-for-android-heres-everything-google-announced/articleshow/110143169.cms
 
 ## Some of my projects:
 

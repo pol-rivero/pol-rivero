@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Project Astra shines,
-AI chatbot tech unveiled,
-A new search era dawns.
+With Thunderbolt Share,
+PCs connect in smooth stride,
+drag-and-drop, so swift.
 ```
 
 Reference:
 
-https://timesofindia.indiatimes.com/technology/tech-news/google-i/o-2024-from-searchs-ai-makeover-gemini-in-google-photos-to-ai-upgrades-for-android-heres-everything-google-announced/articleshow/110143169.cms
+
+
+https://www.pcworld.com/article/2330173/meet-thunderbolt-share-intels-ultra-fast-sneakernet-replacement-and-more.html
 
 ## Some of my projects:
 

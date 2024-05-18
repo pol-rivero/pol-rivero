@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-With Thunderbolt Share,
-PCs connect in smooth stride,
-drag-and-drop, so swift.
+X.com, Twitter's new name
+Elon Musk's grand acquisition
+Core systems now X
 ```
 
 Reference:
 
 
 
-https://www.pcworld.com/article/2330173/meet-thunderbolt-share-intels-ultra-fast-sneakernet-replacement-and-more.html
+https://www.xataka.com/empresas-y-economia/adios-al-dominio-twitter-com-hola-al-x-com-otro-capitulo-plan-maestro-obsesion-musk-x
 
 ## Some of my projects:
 

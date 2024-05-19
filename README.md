@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-X.com, Twitter's new name
-Elon Musk's grand acquisition
-Core systems now X
+Elon Musk's new domain,
+X.com, now Twitter's home,
+Rebranded, tweet's dome.
 ```
 
 Reference:
 
 
 
-https://www.xataka.com/empresas-y-economia/adios-al-dominio-twitter-com-hola-al-x-com-otro-capitulo-plan-maestro-obsesion-musk-x
+https://nampa.org/index.php?model=categories&function=display&id=22390533
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Elon Musk's new domain,
-X.com, now Twitter's home,
-Rebranded, tweet's dome.
+Twitter now X.com,  
+Elon Musk's grand acquisition,  
+Branding anew shines.  
 ```
 
 Reference:

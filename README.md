@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Twitter now X.com,  
-Elon Musk's grand acquisition,  
-Branding anew shines.  
+Deleted photos gone,
+Apple's fix brings sweet relief,
+iOS 17.5.1.  
 ```
 
 Reference:
 
 
 
-https://nampa.org/index.php?model=categories&function=display&id=22390533
+https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/
 
 ## Some of my projects:
 

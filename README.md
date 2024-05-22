@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Deleted photos gone,
-Apple's fix brings sweet relief,
-iOS 17.5.1.  
+Windows AI soars,
+Copilot+ PCs with GPT-4o,
+Minds sync in the cloud.
 ```
 
 Reference:
 
 
 
-https://www.macrumors.com/2024/05/20/apple-releases-ios-17-5-1-photos-bug/
+https://www.nbcnews.com/tech/tech-news/microsoft-highlights-copilot-pcs-ahead-developer-conference-rcna153116
 
 ## Some of my projects:
 

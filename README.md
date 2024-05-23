@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Windows AI soars,
-Copilot+ PCs with GPT-4o,
-Minds sync in the cloud.
+In Snapdragon's box,
+Windows on Arm shines brightly,
+Powerful and small.
 ```
 
 Reference:
 
 
 
-https://www.nbcnews.com/tech/tech-news/microsoft-highlights-copilot-pcs-ahead-developer-conference-rcna153116
+https://www.thurrott.com/a-i/302843/build-2024-qualcomm-announces-899-99-snapdragon-dev-kit-for-windows
 
 ## Some of my projects:
 

@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-In Snapdragon's box,
-Windows on Arm shines brightly,
-Powerful and small.
+Microsoft's services down,
+Bing and Copilot affected,
+Users in distress.
 ```
 
 Reference:
 
 
 
-https://www.thurrott.com/a-i/302843/build-2024-qualcomm-announces-899-99-snapdragon-dev-kit-for-windows
+https://www.webpronews.com/bing-outage-impacting-duckduckgo-other-bing-powered-sites/
 
 ## Some of my projects:
 

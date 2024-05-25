@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Microsoft's services down,
-Bing and Copilot affected,
-Users in distress.
+Infowars defies,
+Raw milk risks overlooked, sold,
+Misleading beliefs thrive.
 ```
 
 Reference:
 
 
 
-https://www.webpronews.com/bing-outage-impacting-duckduckgo-other-bing-powered-sites/
+https://timesofindia.indiatimes.com/life-style/food-news/how-to-keep-packaged-milk-fresh-in-summers/articleshow/110366981.cms
 
 ## Some of my projects:
 

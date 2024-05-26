@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Infowars defies,
-Raw milk risks overlooked, sold,
-Misleading beliefs thrive.
+Old photos arise,
+Apple reveals database glitch,
+Memories resurface.
 ```
 
 Reference:
 
 
 
-https://timesofindia.indiatimes.com/life-style/food-news/how-to-keep-packaged-milk-fresh-in-summers/articleshow/110366981.cms
+https://www.macrumors.com/2024/05/24/apple-explains-resurfaced-deleted-photos-bug/
 
 ## Some of my projects:
 

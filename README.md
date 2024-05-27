@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Old photos arise,
-Apple reveals database glitch,
-Memories resurface.
+Raw milk toast they raised,
+Politicians fell ill in haste,
+Stomach bug's sour taste.
 ```
 
 Reference:
 
 
 
-https://www.macrumors.com/2024/05/24/apple-explains-resurfaced-deleted-photos-bug/
+https://timesofindia.indiatimes.com/life-style/food-news/how-to-keep-packaged-milk-fresh-in-summers/articleshow/110366981.cms
 
 ## Some of my projects:
 

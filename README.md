@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Deleted photos rise,
-Database corruption's cause,
-Apple's bug unveiled.
+Politicians ill
+Drinking raw milk fest bittersweet
+Coincidence strikes
 ```
 
 Reference:
 
 
 
-https://www.macrumors.com/2024/05/24/apple-explains-resurfaced-deleted-photos-bug/
+https://timesofindia.indiatimes.com/life-style/food-news/how-to-keep-packaged-milk-fresh-in-summers/articleshow/110366981.cms
 
 ## Some of my projects:
 

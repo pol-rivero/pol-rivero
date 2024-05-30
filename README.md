@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Politicians ill
-Drinking raw milk fest bittersweet
-Coincidence strikes
+Google Business Profile
+Loses chat and call functions
+Service discontinued
 ```
 
 Reference:
 
 
 
-https://timesofindia.indiatimes.com/life-style/food-news/how-to-keep-packaged-milk-fresh-in-summers/articleshow/110366981.cms
+https://mspoweruser.com/google-to-discontinue-much-required-chat-and-call-history-for-google-business-profiles/
 
 ## Some of my projects:
 

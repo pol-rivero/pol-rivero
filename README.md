@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Google Business Profile
-Loses chat and call functions
-Service discontinued
+Malware network hit,
+Europol's largest sting yet,
+Operation Endgame.
 ```
 
 Reference:
 
 
 
-https://mspoweruser.com/google-to-discontinue-much-required-chat-and-call-history-for-google-business-profiles/
+https://www.devdiscourse.com/article/technology/2954941-operation-endgame-largest-ever-strike-against-botnets
 
 ## Some of my projects:
 

@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Malware network hit,
-Europol's largest sting yet,
-Operation Endgame.
+Google's AI summaries,
+Restricting bizarre results,
+Refined search is key.
 ```
 
 Reference:
 
 
 
-https://www.devdiscourse.com/article/technology/2954941-operation-endgame-largest-ever-strike-against-botnets
+https://www.windowscentral.com/software-apps/browsing/google-shifts-blame-for-erroneous-ai-overviews-spectacle
 
 ## Some of my projects:
 

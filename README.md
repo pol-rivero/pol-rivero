@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Google's AI summaries,
-Restricting bizarre results,
-Refined search is key.
+Lunar dreams deferred,  
+Maezawa cancels moon trip plans,  
+SpaceX's uncertainty.  
 ```
 
 Reference:
 
-
-
-https://www.windowscentral.com/software-apps/browsing/google-shifts-blame-for-erroneous-ai-overviews-spectacle
+https://www.dubaieye1038.com/news/business/japanese-billionaire-maezawa-cancels-moon-flyby-mission/
 
 ## Some of my projects:
 

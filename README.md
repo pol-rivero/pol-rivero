@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Lunar dreams deferred,  
-Maezawa cancels moon trip plans,  
-SpaceX's uncertainty.  
+Moon trip on hold,
+Uncertainty in the air,
+Maezawa cancels plans.
 ```
 
 Reference:

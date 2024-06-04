@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Moon trip on hold,
-Uncertainty in the air,
-Maezawa cancels plans.
+AI chip unveiled,
+AMD challenges Nvidia,
+Tech rivalry grows.
 ```
 
 Reference:
 
-https://www.dubaieye1038.com/news/business/japanese-billionaire-maezawa-cancels-moon-flyby-mission/
+
+
+https://wccftech.com/amd-ryzen-9000-desktop-cpus-zen-5-ipc-uplift-9950x-9900x-9700x-9600x-july-launch/
 
 ## Some of my projects:
 

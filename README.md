@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-AI chip unveiled,
-AMD challenges Nvidia,
-Tech rivalry grows.
+Intel's new chip tech
+AI revolution leads the way
+Defiant tone strikes here
 ```
 
 Reference:
 
 
 
-https://wccftech.com/amd-ryzen-9000-desktop-cpus-zen-5-ipc-uplift-9950x-9900x-9700x-9600x-july-launch/
+https://www.digitaltrends.com/computing/intel-lunar-lake-is-very-much-alive/
 
 ## Some of my projects:
 

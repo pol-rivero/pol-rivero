@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Intel's new chip tech
-AI revolution leads the way
-Defiant tone strikes here
+T-Mobile's backup plan,
+Shielding from internet woes,
+5G connection.
 ```
 
 Reference:
 
 
 
-https://www.digitaltrends.com/computing/intel-lunar-lake-is-very-much-alive/
+https://www.startup365.fr/t-mobile-helps-isp-customers-stay-connected-during-outages-with-new-backup-plan/
 
 ## Some of my projects:
 

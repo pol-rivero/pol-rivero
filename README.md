@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-T-Mobile's backup plan,
-Shielding from internet woes,
-5G connection.
+Microsoft, OpenAI,
+Nvidia facing antitrust probe,
+AI industry.
 ```
 
 Reference:
 
-
-
-https://www.startup365.fr/t-mobile-helps-isp-customers-stay-connected-during-outages-with-new-backup-plan/
+https://www.livemint.com/companies/ftc-opens-antitrust-probe-of-microsoft-ai-deal-11717648732778.html
 
 ## Some of my projects:
 

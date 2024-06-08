@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Microsoft, OpenAI,
-Nvidia facing antitrust probe,
-AI industry.
+Google escapes trial,
+Pays $2.3 million fine, ends
+Antitrust case woes.
 ```
 
 Reference:
 
-https://www.livemint.com/companies/ftc-opens-antitrust-probe-of-microsoft-ai-deal-11717648732778.html
+
+
+https://finance.yahoo.com/news/judge-rules-google-not-face-165002585.html
 
 ## Some of my projects:
 

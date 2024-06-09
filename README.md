@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Google escapes trial,
-Pays $2.3 million fine, ends
-Antitrust case woes.
+In US trial dance,
+Google dodges jury's glance,
+Justice held by judge's stance.
 ```
 
 Reference:
-
-
 
 https://finance.yahoo.com/news/judge-rules-google-not-face-165002585.html
 

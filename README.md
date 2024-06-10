@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-In US trial dance,
-Google dodges jury's glance,
-Justice held by judge's stance.
+Google's trial evades,
+Antitrust case now judged by
+Court, not a jury.
 ```
 
 Reference:

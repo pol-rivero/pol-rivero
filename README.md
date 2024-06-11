@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Google's trial evades,
-Antitrust case now judged by
-Court, not a jury.
+iOS 18,
+Customize with flair,
+Widgets dance freely.
 ```
 
 Reference:
 
-https://finance.yahoo.com/news/judge-rules-google-not-face-165002585.html
+
+
+https://www.macrumors.com/2024/06/07/ios-18-emoji-tapback-rumor/
 
 ## Some of my projects:
 

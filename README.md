@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-iOS 18,
-Customize with flair,
-Widgets dance freely.
+Stocks rise on earnings,
+Adobe's projections unfold,
+Investors take heed.
 ```
 
 Reference:
 
-
-
-https://www.macrumors.com/2024/06/07/ios-18-emoji-tapback-rumor/
+https://venturebeat.com/ai/adobe-tries-again-to-quell-terms-of-service-controversy-we-dont-train-gen-ai-on-customer-content/
 
 ## Some of my projects:
 

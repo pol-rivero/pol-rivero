@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Stocks rise on earnings,
-Adobe's projections unfold,
-Investors take heed.
+T-Mobile's price hike woes,  
+Lifetime price lock now unlocked,  
+Customers enraged.  
 ```
 
 Reference:
 
-https://venturebeat.com/ai/adobe-tries-again-to-quell-terms-of-service-controversy-we-dont-train-gen-ai-on-customer-content/
+
+
+https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/
 
 ## Some of my projects:
 

@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-T-Mobile's price hike woes,  
-Lifetime price lock now unlocked,  
-Customers enraged.  
+China-linked hack strikes,
+Microsoft president speaks out,
+Security at risk.
 ```
 
 Reference:
 
 
 
-https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/
+https://www.devdiscourse.com/article/technology/2981225-microsoft-faces-the-heat-brad-smiths-testimony-on-security-breaches
 
 ## Some of my projects:
 

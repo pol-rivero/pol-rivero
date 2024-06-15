@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-China-linked hack strikes,
-Microsoft president speaks out,
-Security at risk.
+Meta halted AI
+launch in Europe, Irish pause,
+privacy concerns loom.
 ```
 
 Reference:
 
 
 
-https://www.devdiscourse.com/article/technology/2981225-microsoft-faces-the-heat-brad-smiths-testimony-on-security-breaches
+https://www.irishexaminer.com/news/arid-41416669.html
 
 ## Some of my projects:
 

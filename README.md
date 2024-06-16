@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Meta halted AI
-launch in Europe, Irish pause,
-privacy concerns loom.
+Microsoft's Recall pause,
+Privacy risks weigh heavy,
+Security tightened.
 ```
 
 Reference:
 
-
-
-https://www.irishexaminer.com/news/arid-41416669.html
+https://www.theepochtimes.com/tech/backlash-prompts-microsoft-to-tighten-security-on-recall-screenshot-feature-5666759
 
 ## Some of my projects:
 

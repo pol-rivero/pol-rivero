@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Microsoft's Recall pause,
-Privacy risks weigh heavy,
-Security tightened.
+Recall feature paused,
+Privacy risks draw concern,
+Microsoft tightens. 
 ```
 
 Reference:
+
+
 
 https://www.theepochtimes.com/tech/backlash-prompts-microsoft-to-tighten-security-on-recall-screenshot-feature-5666759
 

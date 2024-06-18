@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Recall feature paused,
-Privacy risks draw concern,
-Microsoft tightens. 
+Adobe's hidden fees,
+Subscriptions hard to cancel,
+FTC takes a stand.
 ```
 
 Reference:
 
 
 
-https://www.theepochtimes.com/tech/backlash-prompts-microsoft-to-tighten-security-on-recall-screenshot-feature-5666759
+https://finance.yahoo.com/news/soaring-adobe-stock-could-still-095600363.html
 
 ## Some of my projects:
 

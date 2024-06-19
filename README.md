@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Adobe's hidden fees,
-Subscriptions hard to cancel,
-FTC takes a stand.
+Apple puts on hold,
+Next high-end headset, for one cheap,
+Vision Pro on pause.
 ```
 
 Reference:
 
 
 
-https://finance.yahoo.com/news/soaring-adobe-stock-could-still-095600363.html
+https://bgr.com/tech/vision-pro-2-release-reportedly-on-hold-as-apple-focuses-on-cheaper-2025-model/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apple puts on hold,
-Next high-end headset, for one cheap,
-Vision Pro on pause.
+Apple pauses high-end,
+Focus shifts to cheaper model,
+Innovation waits.
 ```
 
 Reference:

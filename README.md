@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Apple pauses high-end,
-Focus shifts to cheaper model,
-Innovation waits.
+Biden to ban sales,
+Kaspersky's ties raise concern,
+Security risk seen.
 ```
 
 Reference:
 
 
 
-https://bgr.com/tech/vision-pro-2-release-reportedly-on-hold-as-apple-focuses-on-cheaper-2025-model/
+https://www.socialnews.xyz/2024/06/20/scammers-can-crack-almost-half-of-the-passwords-analysed-in-less-than-a-minute/
 
 ## Some of my projects:
 

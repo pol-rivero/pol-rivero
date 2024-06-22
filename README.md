@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Biden to ban sales,
-Kaspersky's ties raise concern,
-Security risk seen.
+Windows used to be
+Personal, now feels commercial
+Longing for the past
 ```
 
 Reference:
 
 
 
-https://www.socialnews.xyz/2024/06/20/scammers-can-crack-almost-half-of-the-passwords-analysed-in-less-than-a-minute/
+https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/
 
 ## Some of my projects:
 

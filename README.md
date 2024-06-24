@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Windows once personal,  
-Now feels commercial and cheap,  
-Lost control and charm.  
+Windows feels commercial,
+Less personal, more ads now,
+Lost its user touch.
 ```
 
 Reference:
+
+
 
 https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/
 

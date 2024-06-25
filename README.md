@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Windows feels commercial,
-Less personal, more ads now,
-Lost its user touch.
+EU probes Apple's App Store,
+Blocking app devs from choices,
+Billions at stake here.
 ```
 
 Reference:
 
-
-
-https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/
+https://english.aawsat.com/node/5033650
 
 ## Some of my projects:
 

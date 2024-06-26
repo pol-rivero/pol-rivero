@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-EU probes Apple's App Store,
-Blocking app devs from choices,
-Billions at stake here.
+Microsoft in hot seat,
+Teams linked with Office Suite,
+Antitrust fine looms large.
 ```
 
 Reference:
 
-https://english.aawsat.com/node/5033650
+https://www.wowktv.com/news/u-s-world/ap-european-union-accuses-microsoft-of-breaching-antitrust-rules-by-bundling-teams-with-office-software/
 
 ## Some of my projects:
 

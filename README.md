@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Microsoft in hot seat,
-Teams linked with Office Suite,
-Antitrust fine looms large.
+Microsoft's Teams tied tight,
+EU cries foul against bond,
+Antitrust charge sound. 
 ```
 
 Reference:
+
+
 
 https://www.wowktv.com/news/u-s-world/ap-european-union-accuses-microsoft-of-breaching-antitrust-rules-by-bundling-teams-with-office-software/
 

@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Microsoft's Teams tied tight,
-EU cries foul against bond,
-Antitrust charge sound. 
+Expanding tongues' reach,
+Google Translate leads the way,
+Welcoming new speech.
 ```
 
 Reference:
 
 
 
-https://www.wowktv.com/news/u-s-world/ap-european-union-accuses-microsoft-of-breaching-antitrust-rules-by-bundling-teams-with-office-software/
+https://www.cnet.com/tech/mobile/travelers-rejoice-google-translate-adds-110-new-languages-thanks-to-ai/
 
 ## Some of my projects:
 

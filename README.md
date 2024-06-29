@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Expanding tongues' reach,
-Google Translate leads the way,
-Welcoming new speech.
+Apple Vision Pro
+Pre-orders now in new countries
+July 12th sale date.
 ```
 
 Reference:
 
 
 
-https://www.cnet.com/tech/mobile/travelers-rejoice-google-translate-adds-110-new-languages-thanks-to-ai/
+https://technosports.co.in/apple-affordable-vision-headset-to-iphone/
 
 ## Some of my projects:
 

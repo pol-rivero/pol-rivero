@@ -2,8 +2,8 @@
 **Today's tech haiku:**
 ```
 Apple Vision Pro
-Pre-orders now in new countries
-July 12th sale date.
+Pre-orders in new countries
+July 12th, it's out.
 ```
 
 Reference:

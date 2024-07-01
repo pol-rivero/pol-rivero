@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apple Vision Pro
-Pre-orders in new countries
-July 12th, it's out.
+Apple Vision Pro  
+Expanding globally now  
+Pre-orders take flight  
 ```
 
 Reference:

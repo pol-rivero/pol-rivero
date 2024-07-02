@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apple Vision Pro  
-Expanding globally now  
-Pre-orders take flight  
+Apple seeks new screens,
+Affordable Vision Pro,
+Expanding its reach.
 ```
 
 Reference:

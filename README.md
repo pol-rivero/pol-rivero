@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple seeks new screens,
-Affordable Vision Pro,
-Expanding its reach.
+OpenSSH flaw exposed,
+Thousands of servers at risk,
+RegreSSHion looms near.
 ```
 
 Reference:
 
-
-
-https://technosports.co.in/apple-affordable-vision-headset-to-iphone/
+https://www.infosecurity-magazine.com/news/openssh-flaw-system-compromise/
 
 ## Some of my projects:
 

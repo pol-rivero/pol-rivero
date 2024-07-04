@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-OpenSSH flaw exposed,
-Thousands of servers at risk,
-RegreSSHion looms near.
+Government ditches disks,
+Japan's tech milestone achieved,
+Floppy era fades out.
 ```
 
 Reference:
 
-https://www.infosecurity-magazine.com/news/openssh-flaw-system-compromise/
+
+
+https://www.usnews.com/news/technology/articles/2024-07-03/japan-declares-victory-in-effort-to-end-government-use-of-floppy-disks
 
 ## Some of my projects:
 

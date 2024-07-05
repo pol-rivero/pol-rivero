@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Government ditches disks,
-Japan's tech milestone achieved,
-Floppy era fades out.
+War on floppy disks,
+Japan bids farewell, at last.
+Victory declared.
 ```
 
 Reference:
-
-
 
 https://www.usnews.com/news/technology/articles/2024-07-03/japan-declares-victory-in-effort-to-end-government-use-of-floppy-disks
 

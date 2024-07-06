@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-War on floppy disks,
-Japan bids farewell, at last.
-Victory declared.
+Stored chats in plain text
+ChatGPT on MacOS
+Privacy at risk found
 ```
 
 Reference:
 
-https://www.usnews.com/news/technology/articles/2024-07-03/japan-declares-victory-in-effort-to-end-government-use-of-floppy-disks
+
+
+https://wccftech.com/chatgpt-privacy-risk-data-retrieved/
 
 ## Some of my projects:
 

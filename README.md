@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Stored chats in plain text
-ChatGPT on MacOS
-Privacy at risk found
+Stored in plain text,  
+ChatGPT secrets exposed now,  
+Privacy at risk.  
 ```
 
 Reference:
-
-
 
 https://wccftech.com/chatgpt-privacy-risk-data-retrieved/
 

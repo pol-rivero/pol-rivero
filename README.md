@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Stored chats in plain text,
-ChatGPT on MacOS flaw, 
-Privacy risk found.
+Ink on virtual page,
+Notepad now spells with new grace,
+Windows 11's embrace.
 ```
 
 Reference:
 
 
 
-https://wccftech.com/chatgpt-privacy-risk-data-retrieved/
+https://www.techradar.com/computing/windows/microsoft-just-gave-notepad-spellcheck-and-autocorrect-but-some-windows-11-users-arent-happy
 
 ## Some of my projects:
 

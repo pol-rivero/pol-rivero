@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Ink on virtual page,
-Notepad now spells with new grace,
-Windows 11's embrace.
+Ancient protocol,
+RADIUS falls to Blast attack,
+Networks in danger. 
 ```
 
 Reference:
 
 
 
-https://www.techradar.com/computing/windows/microsoft-just-gave-notepad-spellcheck-and-autocorrect-but-some-windows-11-users-arent-happy
+https://www.kb.cert.org
 
 ## Some of my projects:
 

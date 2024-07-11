@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Ancient protocol,
-RADIUS falls to Blast attack,
-Networks in danger. 
+Decades-old protocol,
+RADIUS flaw puts users at risk,
+Spying over net.
 ```
 
 Reference:
-
-
 
 https://www.kb.cert.org
 

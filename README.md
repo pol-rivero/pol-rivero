@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Decades-old protocol,
-RADIUS flaw puts users at risk,
-Spying over net.
+Apple opens up tap,
+EU antitrust probe settled,
+Rare move by the tech giant.
 ```
 
 Reference:
 
-https://www.kb.cert.org
+
+
+https://www.miragenews.com/eu-accepts-apples-tap-and-go-tech-access-1273614/
 
 ## Some of my projects:
 

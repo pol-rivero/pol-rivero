@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Apple opens up tap,
-EU antitrust probe settled,
-Rare move by the tech giant.
+AT&T breach reveals
+Call and text records laid bare
+Privacy at risk
 ```
 
 Reference:
 
 
 
-https://www.miragenews.com/eu-accepts-apples-tap-and-go-tech-access-1273614/
+https://www.merca20.com/everything-you-need-to-know-about-att-data-breach-2024/
 
 ## Some of my projects:
 

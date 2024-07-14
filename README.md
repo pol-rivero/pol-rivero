@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-AT&T breach reveals
-Call and text records laid bare
-Privacy at risk
+AT&T breach exposed
+Call and text records at risk
+Data insecurity.
 ```
 
 Reference:

@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-AT&T breach exposed
-Call and text records at risk
-Data insecurity.
+AT&T data breached,  
+Customers' records exposed wide,  
+Guard your data now.  
 ```
 
 Reference:
-
-
 
 https://www.merca20.com/everything-you-need-to-know-about-att-data-breach-2024/
 

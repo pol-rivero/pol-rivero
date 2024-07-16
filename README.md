@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-AT&T data breached,  
-Customers' records exposed wide,  
-Guard your data now.  
+Apple approves first,
+PC emulator for iOS,
+Nostalgia restored.
 ```
 
 Reference:
 
-https://www.merca20.com/everything-you-need-to-know-about-att-data-breach-2024/
+
+
+https://telecom.economictimes.indiatimes.com/news/devices/apple-approves-first-pc-emulator-for-ios-to-run-classic-games/111726015
 
 ## Some of my projects:
 

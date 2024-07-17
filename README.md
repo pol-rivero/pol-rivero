@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Apple approves first,
-PC emulator for iOS,
-Nostalgia restored.
+iOS 18 awaits,
+Public beta now released,
+iPhone fans rejoice.
 ```
 
 Reference:
 
 
 
-https://telecom.economictimes.indiatimes.com/news/devices/apple-approves-first-pc-emulator-for-ios-to-run-classic-games/111726015
+https://9to5mac.com/2024/07/12/ios-18-public-beta-release-date/
 
 ## Some of my projects:
 

@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-iOS 18 awaits,
-Public beta now released,
-iPhone fans rejoice.
+In Google Docs realm,
+Markdown import-export shines,
+Simplify format.
 ```
 
 Reference:
 
 
 
-https://9to5mac.com/2024/07/12/ios-18-public-beta-release-date/
+https://www.androidpolice.com/markdown-export-import-google-docs/
 
 ## Some of my projects:
 

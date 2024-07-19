@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cheaper AI released,
-OpenAI offers GPT-4o Mini,
-Innovations thrive.
+Global systems crash,  
+Microsoft's grip falters fast,  
+Chaos reigns in apps.  
 ```
 
 Reference:
 
-
-
-https://www.businessinsider.nl/4-ways-openais-newest-ai-model-gpt-4o-can-make-you-more-productive-at-work/
+https://www.news18.com/explainers/global-microsoft-meltdown-what-happened-who-is-affected-what-is-crowdstrike-falcon-and-how-to-escape-blue-screen-of-death-8971711.html
 
 ## Some of my projects:
 

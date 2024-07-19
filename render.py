@@ -82,7 +82,7 @@ def get_tech_haiku():
         system_prompt = "You are an AI poet writing haikus. The user provides a summary of some tech news stories, and you respond with only one haiku, which should be about one of the stories. After the 3 lines of the haiku, add one extra line with the URL of the story you wrote about."
         client = OpenAI()
         completion = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": "\n\n".join(news)},

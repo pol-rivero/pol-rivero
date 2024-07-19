@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-In Google Docs realm,
-Markdown import-export shines,
-Simplify format.
+Cheaper AI released,
+OpenAI offers GPT-4o Mini,
+Innovations thrive.
 ```
 
 Reference:
 
 
 
-https://www.androidpolice.com/markdown-export-import-google-docs/
+https://www.businessinsider.nl/4-ways-openais-newest-ai-model-gpt-4o-can-make-you-more-productive-at-work/
 
 ## Some of my projects:
 

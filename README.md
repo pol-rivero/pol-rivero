@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Global systems crash,  
-Microsoft's grip falters fast,  
-Chaos reigns in apps.  
+New AI in the air,  
+Open doors for all to try,  
+Creatives rejoice.  
 ```
 
 Reference:
 
-https://www.news18.com/explainers/global-microsoft-meltdown-what-happened-who-is-affected-what-is-crowdstrike-falcon-and-how-to-escape-blue-screen-of-death-8971711.html
+https://www.businessinsider.nl/4-ways-openais-newest-ai-model-gpt-4o-can-make-you-more-productive-at-work/
 
 ## Some of my projects:
 

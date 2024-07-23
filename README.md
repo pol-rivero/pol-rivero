@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI scales down fast,  
-Opening paths to the new,  
-More hands can now code.  
+AI sees through skies,  
+Forecasts hold the storm's embrace,  
+Nature's pulse revealed.  
 ```
 
 Reference:
 
-https://www.businessinsider.nl/4-ways-openais-newest-ai-model-gpt-4o-can-make-you-more-productive-at-work/
+https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI sees through skies,  
-Forecasts hold the storm's embrace,  
-Nature's pulse revealed.  
+Open-source ideals,  
+Zuckerberg leads the charge forth,  
+Models shared with all.  
 ```
 
 Reference:
 
-https://www.ft.com/content/78d1314b-2879-40cc-bb87-ffad72c8a0f4
+https://www.neowin.net/news/leaked-benchmarks-suggest-meta-llama-31-405b-model-may-outperform-openais-gpt-4o/
 
 ## Some of my projects:
 

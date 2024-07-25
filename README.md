@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Open-source ideals,  
-Zuckerberg leads the charge forth,  
-Models shared with all.  
+Open-source whispers,  
+Zuckerberg calls for a shift,  
+Models for the world.  
 ```
 
 Reference:

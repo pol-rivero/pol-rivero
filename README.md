@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Open-source whispers,  
-Zuckerberg calls for a shift,  
-Models for the world.  
+Apologies from Sonos,  
+Bugs tarnish user trust,  
+Road ahead looks bright.  
 ```
 
 Reference:
 
-https://www.neowin.net/news/leaked-benchmarks-suggest-meta-llama-31-405b-model-may-outperform-openais-gpt-4o/
+https://www.macrumors.com/2024/07/25/sonos-app-update-apology/
 
 ## Some of my projects:
 

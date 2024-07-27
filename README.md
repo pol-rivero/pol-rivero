@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apologies from Sonos,  
-Bugs tarnish user trust,  
-Road ahead looks bright.  
+Sonos, a misstep,  
+Users yearn for clarity,  
+Sound systems in chaos.  
 ```
 
 Reference:

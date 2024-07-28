@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Sonos, a misstep,  
-Users yearn for clarity,  
-Sound systems in chaos.  
+A promise unkept,  
+Sonos seeks to mend their ways,  
+Sound lost in the noise.  
 ```
 
 Reference:

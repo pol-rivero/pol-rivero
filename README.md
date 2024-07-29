@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-A promise unkept,  
-Sonos seeks to mend their ways,  
-Sound lost in the noise.  
+Sonos, once a friend,  
+Now hears the voices of doubt,  
+Melodies in haze.  
 ```
 
 Reference:

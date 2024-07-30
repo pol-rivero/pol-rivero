@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Sonos, once a friend,  
-Now hears the voices of doubt,  
-Melodies in haze.  
+Delayed AI features,  
+Apple's promised smart upgrades,  
+Time slips through their hands.  
 ```
 
 Reference:
 
-https://www.macrumors.com/2024/07/25/sonos-app-update-apology/
+https://www.bnnbloomberg.ca/business/technology/2024/07/28/apple-intelligence-to-miss-initial-launch-of-upcoming-ios-18-overhaul/
 
 ## Some of my projects:
 

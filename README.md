@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Delayed AI features,  
-Apple's promised smart upgrades,  
-Time slips through their hands.  
+Content on the brink,  
+Publishers find common ground,  
+AI gives and takes.  
 ```
 
 Reference:
 
-https://www.bnnbloomberg.ca/business/technology/2024/07/28/apple-intelligence-to-miss-initial-launch-of-upcoming-ios-18-overhaul/
+https://www.engadget.com/perplexity-will-put-ads-in-its-ai-search-engine-and-share-revenue-with-publishers-130052289.html
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Content on the brink,  
-Publishers find common ground,  
-AI gives and takes.  
+Deepfakes alarm rise,  
+Google's search evolves to fight,  
+Truth demands protection.  
 ```
 
 Reference:
 
-https://www.engadget.com/perplexity-will-put-ads-in-its-ai-search-engine-and-share-revenue-with-publishers-130052289.html
+https://9to5google.com/2024/07/31/google-lens-about-this-image/
 
 ## Some of my projects:
 

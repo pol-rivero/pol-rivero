@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Deepfakes alarm rise,  
-Google's search evolves to fight,  
-Truth demands protection.  
+Qualcomm speaks clear truths,  
+Earnings shine amid the noise,  
+Future chips advance.  
 ```
 
 Reference:
 
-https://9to5google.com/2024/07/31/google-lens-about-this-image/
+https://www.theregister.com/2024/08/01/qualcomm_q3_2024/
 
 ## Some of my projects:
 

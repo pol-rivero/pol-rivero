@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Qualcomm shares rise,  
-Numbers tell a bright story,  
-Innovation thrives.  
+Qualcomm’s earnings  
+Whispers of future tech blooms,  
+Investors listen.  
 ```
 
 Reference:

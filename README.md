@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Qualcomm’s earnings  
-Whispers of future tech blooms,  
-Investors listen.  
+Qualcomm's call rings,  
+Profit tides and future plans,  
+Tech's pulse in the air.  
 ```
 
 Reference:

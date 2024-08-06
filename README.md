@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Qualcomm's call rings,  
-Profit tides and future plans,  
-Tech's pulse in the air.  
+Justice strikes at might,  
+Google's grip on the web fades,  
+Competition wakes.  
 ```
 
 Reference:
 
-https://www.theregister.com/2024/08/01/qualcomm_q3_2024/
+https://techcrunch.com/2024/08/05/google-loses-massive-antitrust-case-over-search/
 
 ## Some of my projects:
 

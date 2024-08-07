@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Justice strikes at might,  
-Google's grip on the web fades,  
-Competition wakes.  
+Humanoid engineers,  
+Crafting cars with skillful grace,  
+Future rides in steel.  
 ```
 
 Reference:
 
-https://techcrunch.com/2024/08/05/google-loses-massive-antitrust-case-over-search/
+https://www.cnet.com/tech/computing/ai-brains-in-a-humanoid-robot-meet-figure-02/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Humanoids in line,  
-Metal parts shaped by their hands,  
-Future gears in sync.  
+ChargePoint's rise,  
+Electric hopes reignited,  
+Margins now rebound.  
 ```
 
 Reference:
 
-https://www.cnet.com/tech/computing/ai-brains-in-a-humanoid-robot-meet-figure-02/
+https://www.eagletribune.com/region/chargepoint-eliminates-ev-charging-connector-confusion-with-omni-port-adaptable-charging-solution/article_a4c2ab84-4502-5b34-971b-0ec90cd12d97.html
 
 ## Some of my projects:
 

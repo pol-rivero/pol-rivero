@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-ChargePoint stock soars,  
-After a dismal first half,  
-Hope in electric.  
+Malware lingers deep,  
+AMD's flaw breeds unrest,  
+Silence in circuits.  
 ```
 
 Reference:
 
-https://www.eagletribune.com/region/chargepoint-eliminates-ev-charging-connector-confusion-with-omni-port-adaptable-charging-solution/article_a4c2ab84-4502-5b34-971b-0ec90cd12d97.html
+https://www.laptopmag.com/software/antivirus-cyber-security/an-amd-firmware-flaw-could-give-hackers-deep-control-of-your-pc
 
 ## Some of my projects:
 

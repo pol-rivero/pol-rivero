@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Malware lingers deep,  
-AMD's flaw breeds unrest,  
-Silence in circuits.  
+Hidden in the code,  
+AMD's flaw brews mischief,  
+Deep roots of chaos.  
 ```
 
 Reference:

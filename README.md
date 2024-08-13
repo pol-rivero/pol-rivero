@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Hidden in the code,  
-AMD's flaw brews mischief,  
-Deep roots of chaos.  
+Google silences ads,  
+Voices muffled in Russia,  
+A digital shroud.  
 ```
 
 Reference:
 
-https://www.laptopmag.com/software/antivirus-cyber-security/an-amd-firmware-flaw-could-give-hackers-deep-control-of-your-pc
+https://timesofindia.indiatimes.com/technology/tech-news/google-tightens-restrictions-in-russia-disables-these-accounts/articleshow/112474308.cms
 
 ## Some of my projects:
 

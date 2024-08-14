@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Google silences ads,  
-Voices muffled in Russia,  
-A digital shroud.  
+Gemini now can hide,  
+User's choice of interface,  
+Peace with fewer taps.  
 ```
 
 Reference:
 
-https://timesofindia.indiatimes.com/technology/tech-news/google-tightens-restrictions-in-russia-disables-these-accounts/articleshow/112474308.cms
+https://www.digitaltrends.com/computing/how-to-use-gemini-ai-write-anything-in-docs/
 
 ## Some of my projects:
 

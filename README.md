@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini now can hide,  
-User's choice of interface,  
-Peace with fewer taps.  
+Grok brings forth words,  
+Images dance in our minds,  
+Chatbots gaining life.  
 ```
 
 Reference:
 
-https://www.digitaltrends.com/computing/how-to-use-gemini-ai-write-anything-in-docs/
+https://www.albawaba.com/business/musks-grok-ai-shocks-users-high-quality-1581371
 
 ## Some of my projects:
 

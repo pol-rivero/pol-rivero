@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Grok brings forth words,  
-Images dance in our minds,  
-Chatbots gaining life.  
+New benchmarks arise,  
+Geekbench AI takes the stage,  
+Performance unveiled.  
 ```
 
 Reference:
 
-https://www.albawaba.com/business/musks-grok-ai-shocks-users-high-quality-1581371
+https://forums.macrumors.com/threads/primate-labs-debuts-new-geekbench-suite-for-ai-centric-workloads.2433705/
 
 ## Some of my projects:
 

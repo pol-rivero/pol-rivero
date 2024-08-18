@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Benchmarks reveal speed,  
-Machines learning in swift waves,  
-AI's pulse contained.  
+Minds race with machines,  
+Geekbench AI measures speed,  
+Scores of learning rise.  
 ```
 
 Reference:

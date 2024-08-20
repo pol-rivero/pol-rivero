@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI's swift new score,  
-Tech minds measure machine dreams,  
-Benchmarking the brave.  
+AMD's bold move now,  
+ZT Tech, a new alliance,  
+Winds of change will blow.  
 ```
 
 Reference:
 
-https://forums.macrumors.com/threads/primate-labs-debuts-new-geekbench-suite-for-ai-centric-workloads.2433705/
+https://finance.yahoo.com/news/amd-significantly-expand-data-center-100000735.html
 
 ## Some of my projects:
 

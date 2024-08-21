@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AMD's bold move now,  
-ZT Tech, a new alliance,  
-Winds of change will blow.  
+Gleaming shadows fall,  
+Half-Life’s world reshaped anew,  
+Reflections of joy.  
 ```
 
 Reference:
 
-https://finance.yahoo.com/news/amd-significantly-expand-data-center-100000735.html
+https://www.theverge.com/2024/8/20/24224270/nvidia-g-sync-module-mediatek-partnership
 
 ## Some of my projects:
 

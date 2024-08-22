@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Gleaming shadows fall,  
-Half-Life’s world reshaped anew,  
-Reflections of joy.  
+Half-Life in a new  
+Reflection of past heroes,  
+Nvidia's next thrill.  
 ```
 
 Reference:

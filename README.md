@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Half-Life in a new  
-Reflection of past heroes,  
-Nvidia's next thrill.  
+AI now refines  
+Long recordings, truths laid bare,  
+Google’s upgrades shine bright.  
 ```
 
 Reference:
 
-https://www.theverge.com/2024/8/20/24224270/nvidia-g-sync-module-mediatek-partnership
+https://www.nextpit.com/google-pixel-9-pro-xl-review
 
 ## Some of my projects:
 

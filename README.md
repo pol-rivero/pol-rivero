@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI now refines  
-Long recordings, truths laid bare,  
-Google’s upgrades shine bright.  
+NFC whispers theft,  
+Phantom hands reach through the glass,  
+Trust betrayed in waves.  
 ```
 
 Reference:
 
-https://www.nextpit.com/google-pixel-9-pro-xl-review
+https://www.darkreading.com/mobile-security/nfc-traffic-stealer-targets-android-users-and-their-banking-info
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-NFC whispers theft,  
-Phantom hands reach through the glass,  
-Trust betrayed in waves.  
+Windows takes a stand,  
+Guarding against silent flaws,  
+Strength in unity.  
 ```
 
 Reference:
 
-https://www.darkreading.com/mobile-security/nfc-traffic-stealer-targets-android-users-and-their-banking-info
+https://www.thurrott.com/cloud/307481/microsoft-announces-windows-endpoint-security-ecosystem-summit-with-crowdstrike-on-september-10
 
 ## Some of my projects:
 

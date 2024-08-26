@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Windows takes a stand,  
-Guarding against silent flaws,  
-Strength in unity.  
+CrowdStrike's mishap,  
+Windows trembles, learns to stand,  
+Future shields demand.  
 ```
 
 Reference:

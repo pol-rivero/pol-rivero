@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-CrowdStrike's mishap,  
-Windows trembles, learns to stand,  
-Future shields demand.  
+Siri learns to speak,  
+With wisdom from the AI,  
+Our voices will blend.  
 ```
 
 Reference:
 
-https://www.thurrott.com/cloud/307481/microsoft-announces-windows-endpoint-security-ecosystem-summit-with-crowdstrike-on-september-10
+https://www.tomsguide.com/phones/iphones/dont-buy-iphone-15-now-get-ready-for-a-price-drop-when-new-iphone-16-arrives
 
 ## Some of my projects:
 

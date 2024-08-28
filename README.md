@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Siri learns to speak,  
-With wisdom from the AI,  
-Our voices will blend.  
+Volt Typhoon strikes swift,  
+Through unpatched codes they creep,  
+Silence breaks in haste.  
 ```
 
 Reference:
 
-https://www.tomsguide.com/phones/iphones/dont-buy-iphone-15-now-get-ready-for-a-price-drop-when-new-iphone-16-arrives
+https://www.insurancejournal.com/news/national/2024/08/27/790113.htm
 
 ## Some of my projects:
 

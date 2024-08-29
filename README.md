@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Volt Typhoon strikes swift,  
-Through unpatched codes they creep,  
-Silence breaks in haste.  
+Cutting through the noise,  
+Jobs lost in tech's strong empire,  
+Apple reshapes its core.  
 ```
 
 Reference:
 
-https://www.insurancejournal.com/news/national/2024/08/27/790113.htm
+https://economictimes.indiatimes.com/tech/technology/apple-cuts-jobs-in-digital-services-groups-as-priorities-shift/articleshow/112852889.cms
 
 ## Some of my projects:
 

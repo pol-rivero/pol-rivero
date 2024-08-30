@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cutting through the noise,  
-Jobs lost in tech's strong empire,  
-Apple reshapes its core.  
+Silent shadows creep,  
+Cozy Bear's digital night,  
+Spyware whispers low.  
 ```
 
 Reference:
 
-https://economictimes.indiatimes.com/tech/technology/apple-cuts-jobs-in-digital-services-groups-as-priorities-shift/articleshow/112852889.cms
+https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent shadows creep,  
-Cozy Bear's digital night,  
-Spyware whispers low.  
+AnandTech, now gone,  
+Digital legacy fades,  
+Scribes of tech depart.  
 ```
 
 Reference:
 
-https://www.wired.com/story/russia-cozy-bear-watering-hole-attacks/
+https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-AnandTech, now gone,  
-Digital legacy fades,  
-Scribes of tech depart.  
+Farewell, old friend,  
+AnandTech's legacy fades,  
+Tech news flame extinguished.  
 ```
 
 Reference:

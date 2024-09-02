@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Farewell, old friend,  
-AnandTech's legacy fades,  
-Tech news flame extinguished.  
+Once a bright beacon,  
+AnandTech's flame flickers out—  
+History's echo.  
 ```
 
 Reference:

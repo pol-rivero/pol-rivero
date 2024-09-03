@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Once a bright beacon,  
-AnandTech's flame flickers out—  
-History's echo.  
+Tech titan now lost,  
+AnandTech's final curtain,  
+Echoes of the past.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Tech titan now lost,  
-AnandTech's final curtain,  
-Echoes of the past.  
+Lunar Lake shines bright,  
+Intel's graphics take the throne,  
+Gaming’s new dawn glows.  
 ```
 
 Reference:
 
-https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell
+https://www.cdrinfo.com/d7/content/intel-announces-core-ultra-200v-desktop-and-laptop-users
 
 ## Some of my projects:
 

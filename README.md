@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lunar Lake shines bright,  
-Intel's graphics take the throne,  
-Gaming’s new dawn glows.  
+Digital pages scanned,  
+Yet copyright holds its ground,  
+Books locked from the world.  
 ```
 
 Reference:
 
-https://www.cdrinfo.com/d7/content/intel-announces-core-ultra-200v-desktop-and-laptop-users
+https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/
 
 ## Some of my projects:
 

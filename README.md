@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Digital pages scanned,  
-Yet copyright holds its ground,  
-Books locked from the world.  
+Tethered in silence,  
+Software chains bind us to screens,  
+Freedom’s cost unveiled.  
 ```
 
 Reference:
 
-https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/
+https://arstechnica.com/gadgets/2024/09/ftc-urged-to-make-smart-devices-say-how-long-theyll-be-supported/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Tethered in silence,  
-Software chains bind us to screens,  
-Freedom’s cost unveiled.  
+Devices tethered tight,  
+Paywalls conceal their promise,  
+Users cry for help.  
 ```
 
 Reference:

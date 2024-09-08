@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Devices tethered tight,  
-Paywalls conceal their promise,  
-Users cry for help.  
+Guidance for devices,  
+Tethered by unseen chains,  
+Consumers call loud.  
 ```
 
 Reference:

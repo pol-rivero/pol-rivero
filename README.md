@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Guidance for devices,  
-Tethered by unseen chains,  
-Consumers call loud.  
+Capture button shines,  
+Framing moments, close at hand,  
+Apple's still ahead.  
 ```
 
 Reference:
 
-https://arstechnica.com/gadgets/2024/09/ftc-urged-to-make-smart-devices-say-how-long-theyll-be-supported/
+https://tech.hindustantimes.com/mobile/news/iphone-16-launch-apple-may-not-give-space-to-new-capture-button-here-s-why-71725505581200.html
 
 ## Some of my projects:
 

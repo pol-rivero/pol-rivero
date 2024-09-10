@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Capture button shines,  
-Framing moments, close at hand,  
-Apple's still ahead.  
+New iPhone revealed,  
+AI whispers in your hand,  
+Generative dreams grow.  
 ```
 
 Reference:
 
-https://tech.hindustantimes.com/mobile/news/iphone-16-launch-apple-may-not-give-space-to-new-capture-button-here-s-why-71725505581200.html
+https://thewest.com.au/business/cnbc/heres-everything-apple-just-announced-iphone-16-iphone-16-pro-apple-watch-series-10-airpods-4-and-more-c-16002771
 
 ## Some of my projects:
 

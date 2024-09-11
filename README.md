@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New iPhone revealed,  
-AI whispers in your hand,  
-Generative dreams grow.  
+Quanta in the cloud,  
+Logical qubits align bright,  
+Future's dawn in code.  
 ```
 
 Reference:
 
-https://thewest.com.au/business/cnbc/heres-everything-apple-just-announced-iphone-16-iphone-16-pro-apple-watch-series-10-airpods-4-and-more-c-16002771
+https://www.constellationr.com/blog-news/insights/microsoft-claims-hybrid-quantum-breakthrough-quantinuum-partners-atom-computing
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Quanta in the cloud,  
-Logical qubits align bright,  
-Future's dawn in code.  
+Capsule from the stars,  
+Returning with questions deep,  
+Future hangs in space.  
 ```
 
 Reference:

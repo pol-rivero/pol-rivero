@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Capsule from the stars,  
-Returning with questions deep,  
-Future hangs in space.  
+Models rise to meet,  
+Complex queries laid bare,  
+Reasoning refined.  
 ```
 
 Reference:
 
-https://www.constellationr.com/blog-news/insights/microsoft-claims-hybrid-quantum-breakthrough-quantinuum-partners-atom-computing
+https://www.neowin.net/news/openai-o1-is-the-companys-latest-model-for-solving-more-complex-tasks/
 
 ## Some of my projects:
 

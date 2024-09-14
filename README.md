@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Models rise to meet,  
-Complex queries laid bare,  
-Reasoning refined.  
+Malware creeps inside,  
+Streaming boxes compromised,  
+A wake-up call, friends.  
 ```
 
 Reference:
 
-https://www.neowin.net/news/openai-o1-is-the-companys-latest-model-for-solving-more-complex-tasks/
+https://www.techradar.com/pro/security/millions-of-android-streaming-boxes-hit-by-damaging-malware
 
 ## Some of my projects:
 

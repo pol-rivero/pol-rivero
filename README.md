@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Malware creeps inside,  
-Streaming boxes compromised,  
-A wake-up call, friends.  
+Malware whispers threats,  
+One point three million fall,  
+Streamers dance in fear.  
 ```
 
 Reference:

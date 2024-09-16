@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Malware whispers threats,  
-One point three million fall,  
-Streamers dance in fear.  
+Streaming boxes hacked,  
+Malware whispers through the wires,  
+Backdoor left ajar.  
 ```
 
 Reference:

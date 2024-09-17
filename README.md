@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Streaming boxes hacked,  
-Malware whispers through the wires,  
-Backdoor left ajar.  
+Apple's iOS gleams,  
+RCS links worlds far and near,  
+Messages take flight.  
 ```
 
 Reference:
 
-https://www.techradar.com/pro/security/millions-of-android-streaming-boxes-hit-by-damaging-malware
+https://martechseries.com/sales-marketing/messaging/vonage-launches-rich-communications-services-to-transform-business-messaging-globally/
 
 ## Some of my projects:
 

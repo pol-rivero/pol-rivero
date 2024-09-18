@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple's iOS gleams,  
-RCS links worlds far and near,  
-Messages take flight.  
+Hands off the wheel,  
+Glimpses of screens draw their eyes,  
+Automated risk.  
 ```
 
 Reference:
 
-https://martechseries.com/sales-marketing/messaging/vonage-launches-rich-communications-services-to-transform-business-messaging-globally/
+https://uk.finance.yahoo.com/news/drivers-more-likely-distracted-while-041243628.html
 
 ## Some of my projects:
 

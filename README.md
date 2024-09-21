@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Phishing webs do strain,  
-A million phones set free,  
-Justice takes a stand.  
+Phishing web unraveled,  
+Four hundred thousand deceived,  
+Justice finally comes.  
 ```
 
 Reference:

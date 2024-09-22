@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Phishing web unraveled,  
-Four hundred thousand deceived,  
-Justice finally comes.  
+Phishing nets have torn,  
+Forty-eight thousand lives lost,  
+Justice's swift hand strikes.  
 ```
 
 Reference:

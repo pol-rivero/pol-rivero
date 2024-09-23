@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Phishing nets have torn,  
-Forty-eight thousand lives lost,  
-Justice's swift hand strikes.  
+Phishing nets are cast,  
+Victims caught in the shadows,  
+Justice takes the bait.  
 ```
 
 Reference:

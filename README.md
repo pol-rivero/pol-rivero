@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Phishing nets are cast,  
-Victims caught in the shadows,  
-Justice takes the bait.  
+Malware creeps inside,  
+Innocence betrayed,  
+Eleven million.  
 ```
 
 Reference:
 
-https://weeklyvoice.com/group-ib-contributes-to-international-operation-kaerb-that-led-to-the-arrest-of-the-masterminds-behind-the-iserver-phishing-as-a-service-platform-which-claimed-more-than-483000-victims-globally/
+https://www.rbc.ru/technology_and_media/23/09/2024/66f0fc6a9a7947e4e59e4359
 
 ## Some of my projects:
 

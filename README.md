@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Malware creeps inside,  
-Innocence betrayed,  
-Eleven million.  
+Necro trojan lurks,  
+Through shadows of apps it creeps,  
+Delete now, beware.  
 ```
 
 Reference:
+
+
 
 https://www.rbc.ru/technology_and_media/23/09/2024/66f0fc6a9a7947e4e59e4359
 

@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Necro trojan lurks,  
-Through shadows of apps it creeps,  
-Delete now, beware.  
+Lunar rays awaken,  
+Core Ultra's power thrives bright,  
+Battery's long flight.  
 ```
 
 Reference:
 
-
-
-https://www.rbc.ru/technology_and_media/23/09/2024/66f0fc6a9a7947e4e59e4359
+https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24
 
 ## Some of my projects:
 

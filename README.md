@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lunar rays awaken,  
-Core Ultra's power thrives bright,  
-Battery's long flight.  
+Finally, a fix,  
+Intel's Raptor Lake at peace,  
+Months of restless nights.  
 ```
 
 Reference:
 
-https://www.pcmag.com/news/lunar-lake-first-tests-intels-ai-ready-core-ultra-2-chip-posts-nearly-24
+https://www.digitaltrends.com/computing/intel-cpu-instability-root-cause-and-fixes/
 
 ## Some of my projects:
 

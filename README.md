@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Finally, a fix,  
-Intel's Raptor Lake at peace,  
-Months of restless nights.  
+Screenshots preserved,  
+In recall's digital grasp,  
+Memories won't fade.  
 ```
 
 Reference:
 
-https://www.digitaltrends.com/computing/intel-cpu-instability-root-cause-and-fixes/
+
+
+https://www.windowscentral.com/software-apps/windows-11/windows-recall-security-improvements-2024
 
 ## Some of my projects:
 

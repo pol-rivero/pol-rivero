@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Screenshots preserved,  
-In recall's digital grasp,  
-Memories won't fade.  
+Plaintext passwords,  
+Meta's $101 million,  
+Trust in fragments lost.  
 ```
 
 Reference:
 
-
-
-https://www.windowscentral.com/software-apps/windows-11/windows-recall-security-improvements-2024
+https://geeknewscentral.com/2024/09/27/meta-fined-102-million-for-storing-passwords-in-plain-text/
 
 ## Some of my projects:
 

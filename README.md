@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Plaintext passwords,  
-Meta's $101 million,  
-Trust in fragments lost.  
+Meta mishandled keys,  
+Passwords exposed to the world,  
+Trust has a steep cost.  
 ```
 
 Reference:

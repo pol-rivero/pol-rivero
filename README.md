@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Meta mishandled keys,  
-Passwords exposed to the world,  
-Trust has a steep cost.  
+Verizon's silence,  
+Calls and texts lost in the void,  
+Engineers at work.  
 ```
 
 Reference:
 
-https://geeknewscentral.com/2024/09/27/meta-fined-102-million-for-storing-passwords-in-plain-text/
+https://www.elpasotimes.com/story/tech/2024/09/30/verizon-service-outage-reportedly-down-nationwide-sos-details/75450630007/
 
 ## Some of my projects:
 

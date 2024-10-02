@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Verizon's silence,  
-Calls and texts lost in the void,  
-Engineers at work.  
+Voices reach beyond,  
+Realms of apps awakened,  
+Conversations bloom.  
 ```
 
 Reference:
 
-https://www.elpasotimes.com/story/tech/2024/09/30/verizon-service-outage-reportedly-down-nationwide-sos-details/75450630007/
+
+
+https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/
 
 ## Some of my projects:
 

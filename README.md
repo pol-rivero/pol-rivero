@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Voices reach beyond,  
-Realms of apps awakened,  
-Conversations bloom.  
+Eyes disguised in tech,  
+Names and lives unravelled,  
+Privacy erodes.  
 ```
 
 Reference:
 
-
-
-https://techcrunch.com/2024/10/01/openais-devday-brings-realtime-api-and-other-treats-for-ai-app-developers/
+https://brudirect.com/news.php?id=192498
 
 ## Some of my projects:
 

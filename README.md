@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Eyes disguised in tech,  
-Names and lives unravelled,  
-Privacy erodes.  
+AI now speaks clear,  
+Copilot’s voice joins the fray,  
+Navigating thoughts.  
 ```
 
 Reference:
 
-https://brudirect.com/news.php?id=192498
+https://www.itweb.co.za/article/its-not-too-late-to-de-risk-your-microsoft-copilot-deployment/xA9PO7NEDEZvo4J8
 
 ## Some of my projects:
 

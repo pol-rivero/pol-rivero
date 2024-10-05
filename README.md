@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI now speaks clear,  
-Copilot’s voice joins the fray,  
-Navigating thoughts.  
+Video comes alive,  
+Meta's dreams in motion flow,  
+Art meets AI's spark.  
 ```
 
 Reference:
 
-https://www.itweb.co.za/article/its-not-too-late-to-de-risk-your-microsoft-copilot-deployment/xA9PO7NEDEZvo4J8
+https://www.wired.com/story/meta-movie-gen-ai-model/
 
 ## Some of my projects:
 

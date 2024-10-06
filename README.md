@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Video comes alive,  
-Meta's dreams in motion flow,  
-Art meets AI's spark.  
+Movie Gen unveiled,  
+Video dreams take their flight,  
+Sound and sights combine.  
 ```
 
 Reference:

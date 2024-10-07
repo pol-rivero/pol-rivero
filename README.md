@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Movie Gen unveiled,  
-Video dreams take their flight,  
-Sound and sights combine.  
+Movie Gen takes flight,  
+Crafting tales with sound and light,  
+AI's vivid dream.  
 ```
 
 Reference:

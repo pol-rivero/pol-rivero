@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Movie Gen takes flight,  
-Crafting tales with sound and light,  
-AI's vivid dream.  
+Unboxing deep dreams,  
+M4 whispers through the screen,  
+A star's new machine.  
 ```
 
 Reference:
 
-https://www.wired.com/story/meta-movie-gen-ai-model/
+https://www.gamereactor.eu/rumor-apple-to-unveil-new-ipads-and-macs-later-this-month-1440613/
 
 ## Some of my projects:
 

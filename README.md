@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Unboxing deep dreams,  
-M4 whispers through the screen,  
-A star's new machine.  
+Profit numbers fall,  
+AI chip dreams still shadowed,  
+Samsung's heart beats on.  
 ```
 
 Reference:
 
-https://www.gamereactor.eu/rumor-apple-to-unveil-new-ipads-and-macs-later-this-month-1440613/
+https://english.aawsat.com/node/5068903
 
 ## Some of my projects:
 

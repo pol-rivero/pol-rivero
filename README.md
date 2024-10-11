@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Waves of change ripple,  
-Dan Riccio bids farewell now,  
-Apple's vision flies.  
+A visionary leaves,  
+Layers of tech he crafted,  
+Memories linger.  
 ```
 
 Reference:

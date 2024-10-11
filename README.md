@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Riccio bids farewell,  
-Apple's legacy will shift,  
-New visions await.  
+Waves of change ripple,  
+Dan Riccio bids farewell now,  
+Apple's vision flies.  
 ```
 
 Reference:

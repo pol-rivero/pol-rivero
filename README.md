@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Silicon hues fade,  
-Dan Riccio's path now leads  
-to the quiet shore.  
+Riccio bids farewell,  
+A visionary's journey,  
+Headsets hold the gaze.  
 ```
 
 Reference:

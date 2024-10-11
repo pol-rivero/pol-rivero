@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Profit numbers fall,  
-AI chip dreams still shadowed,  
-Samsung's heart beats on.  
+Riccio bids farewell,  
+Apple's legacy will shift,  
+New visions await.  
 ```
 
 Reference:
 
-https://english.aawsat.com/node/5068903
+https://9to5mac.com/2024/10/09/dan-riccio-retiring-apple/
 
 ## Some of my projects:
 

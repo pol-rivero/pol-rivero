@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-A visionary leaves,  
-Layers of tech he crafted,  
-Memories linger.  
+Silicon hues fade,  
+Dan Riccio's path now leads  
+to the quiet shore.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Riccio bids farewell,  
-A visionary's journey,  
-Headsets hold the gaze.  
+AMD's AI whispers,  
+Held back by fear of blue skies,  
+Sales dreams fade away.  
 ```
 
 Reference:
 
-https://9to5mac.com/2024/10/09/dan-riccio-retiring-apple/
+https://www.cnbc.com/2024/10/10/amd-launches-mi325x-ai-chip-to-rival-nvidias-blackwell-.html
 
 ## Some of my projects:
 

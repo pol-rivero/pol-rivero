@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-AMD's AI whispers,  
-Held back by fear of blue skies,  
-Sales dreams fade away.  
+Whispers of AI,  
+AMD hopes rise and fall,  
+Analyst warns soft.  
 ```
 
 Reference:

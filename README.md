@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Whispers of AI,  
-AMD hopes rise and fall,  
-Analyst warns soft.  
+AMD's bold claim waits,  
+Hope or disappointment,  
+Chips in shadows loom.  
 ```
 
 Reference:

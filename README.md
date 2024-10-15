@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AMD's bold claim waits,  
-Hope or disappointment,  
-Chips in shadows loom.  
+Internet Archive breathes,  
+Provisional yet hopeful,  
+History's safe, for now.  
 ```
 
 Reference:
 
-https://www.cnbc.com/2024/10/10/amd-launches-mi325x-ai-chip-to-rival-nvidias-blackwell-.html
+https://thecyberexpress.com/internet-archive-cyberattack-confirmed/
 
 ## Some of my projects:
 

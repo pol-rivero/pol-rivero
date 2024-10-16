@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Internet Archive breathes,  
-Provisional yet hopeful,  
-History's safe, for now.  
+Apple’s new tablet,  
+AI whispers in the apps,  
+Siri speaks with grace.  
 ```
 
 Reference:
 
-https://thecyberexpress.com/internet-archive-cyberattack-confirmed/
+https://tech.hindustantimes.com/mobile/news/apple-ipad-mini-launched-in-india-with-powerful-a17-pro-chip-and-apple-intelligence-71728999971413.html
 
 ## Some of my projects:
 

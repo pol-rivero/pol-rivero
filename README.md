@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple’s new tablet,  
-AI whispers in the apps,  
-Siri speaks with grace.  
+EU finds it tough,  
+X no gatekeeper, they say,  
+Musk's pride might feel damp.  
 ```
 
 Reference:
 
-https://tech.hindustantimes.com/mobile/news/apple-ipad-mini-launched-in-india-with-powerful-a17-pro-chip-and-apple-intelligence-71728999971413.html
+https://www.theverge.com/2024/10/16/24271772/the-eu-deems-x-not-important-enough-for-dma-regulations
 
 ## Some of my projects:
 

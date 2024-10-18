@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-EU finds it tough,  
-X no gatekeeper, they say,  
-Musk's pride might feel damp.  
+X not a big dog,  
+EU turns its cold shoulder,  
+Elon's pride stings hard.  
 ```
 
 Reference:

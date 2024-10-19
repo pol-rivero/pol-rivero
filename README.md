@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-X not a big dog,  
-EU turns its cold shoulder,  
-Elon's pride stings hard.  
+ChatGPT now thrives,  
+Windows users find their way,  
+AI at their hands.  
 ```
 
 Reference:
 
-https://www.theverge.com/2024/10/16/24271772/the-eu-deems-x-not-important-enough-for-dma-regulations
+https://www.techradar.com/computing/artificial-intelligence/chatgpt-app-comes-to-windows-finally-add-a-quick-ai-shortcut-to-your-pc-today
 
 ## Some of my projects:
 

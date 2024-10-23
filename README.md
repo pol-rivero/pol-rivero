@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-OpenAI arrives,  
-Windows welcomes AI’s grace,  
-Productivity.  
+Mouse clicks in sync,  
+Lines of code dance at command,  
+Efficiency blooms.  
 ```
 
 Reference:
 
-https://www.techradar.com/computing/artificial-intelligence/chatgpt-app-comes-to-windows-finally-add-a-quick-ai-shortcut-to-your-pc-today
+https://analyticsindiamag.com/ai-news-updates/anthropics-claude-3-5-now-controls-your-computer-like-you-do/
 
 ## Some of my projects:
 

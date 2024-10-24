@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Mouse clicks in sync,  
-Lines of code dance at command,  
-Efficiency blooms.  
+Chips clash in the court,  
+Licenses lost, power plays,  
+Semiconductors shake.  
 ```
 
 Reference:
 
-https://analyticsindiamag.com/ai-news-updates/anthropics-claude-3-5-now-controls-your-computer-like-you-do/
+https://ca.finance.yahoo.com/news/arm-holdings-cancel-qualcomm-chip-012828540.html/
 
 ## Some of my projects:
 

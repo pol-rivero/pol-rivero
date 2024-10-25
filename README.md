@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Chips clash in the court,  
-Licenses lost, power plays,  
-Semiconductors shake.  
+Chips in turmoil now,  
+Licenses hang by a thread,  
+Arm and Qualcomm clash.  
 ```
 
 Reference:

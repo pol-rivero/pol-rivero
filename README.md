@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chips in turmoil now,  
-Licenses hang by a thread,  
-Arm and Qualcomm clash.  
+Censoring the voice,  
+Missouri's claims rise and fall,  
+Truth lost in the fray.  
 ```
 
 Reference:
 
-https://ca.finance.yahoo.com/news/arm-holdings-cancel-qualcomm-chip-012828540.html/
+https://www.dailymail.co.uk/wires/reuters/article-13999887/Missouri-probe-Google-allegations-censoring-conservative-speech.html
 
 ## Some of my projects:
 

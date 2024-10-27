@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Censoring the voice,  
-Missouri's claims rise and fall,  
-Truth lost in the fray.  
+Watermark the words,  
+To trace AI's hidden hand,  
+Content's truth unveiled.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-13999887/Missouri-probe-Google-allegations-censoring-conservative-speech.html
+https://www.nature.com/articles/d41586-024-03418-x
 
 ## Some of my projects:
 

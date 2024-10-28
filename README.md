@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Watermark the words,  
-To trace AI's hidden hand,  
-Content's truth unveiled.  
+Censors claim they reign,  
+Google faces scrutiny,  
+Truth in search debated.  
 ```
 
 Reference:
 
-https://www.nature.com/articles/d41586-024-03418-x
+https://www.dailymail.co.uk/wires/reuters/article-13999887/Missouri-probe-Google-allegations-censoring-conservative-speech.html
 
 ## Some of my projects:
 

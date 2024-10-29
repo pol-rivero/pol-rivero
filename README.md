@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Censors claim they reign,  
-Google faces scrutiny,  
-Truth in search debated.  
+M4 iMac's brightness,  
+Colors burst in tech's embrace,  
+Performance takes flight.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-13999887/Missouri-probe-Google-allegations-censoring-conservative-speech.html
+https://9to5mac.com/2024/10/28/apple-unveils-m4-imac-in-new-colors-nano-texture-display-option-more/
 
 ## Some of my projects:
 

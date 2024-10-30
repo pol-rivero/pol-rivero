@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-M4 iMac's brightness,  
-Colors burst in tech's embrace,  
-Performance takes flight.  
+Tiny Mac mini breathes,  
+M4 power in a shell,  
+Compact might unveiled.  
 ```
 
 Reference:
 
-https://9to5mac.com/2024/10/28/apple-unveils-m4-imac-in-new-colors-nano-texture-display-option-more/
+https://forums.macrumors.com/threads/amazon-leaks-mac-mini-with-m4-and-m4-pro-chips-two-front-usb-c-ports-up-to-64gb-of-ram-and-more.2441219/
 
 ## Some of my projects:
 

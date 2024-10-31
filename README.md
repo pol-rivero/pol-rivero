@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Tiny Mac mini breathes,  
-M4 power in a shell,  
-Compact might unveiled.  
+Silent calls connect,  
+Fraudsters weave a cunning trap,  
+Banking trust erodes.  
 ```
 
 Reference:
 
-https://forums.macrumors.com/threads/amazon-leaks-mac-mini-with-m4-and-m4-pro-chips-two-front-usb-c-ports-up-to-64gb-of-ram-and-more.2441219/
+https://siliconangle.com/2024/10/30/zimperium-warns-sophisticated-vishing-tactics-new-fakecall-malware-variant/
 
 ## Some of my projects:
 

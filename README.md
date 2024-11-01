@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent calls connect,  
-Fraudsters weave a cunning trap,  
-Banking trust erodes.  
+Maps transformed bright,  
+AI guides in every step,  
+Lost no more, we roam.  
 ```
 
 Reference:
 
-https://siliconangle.com/2024/10/30/zimperium-warns-sophisticated-vishing-tactics-new-fakecall-malware-variant/
+https://www.tomsguide.com/computing/mobile-apps/google-maps-just-got-a-huge-upgrade-with-gemini-ai-heres-all-the-new-features
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Maps transformed bright,  
-AI guides in every step,  
-Lost no more, we roam.  
+Apple's keen eyes focus,  
+On Pixelmator's bright hues,  
+AI art will soar.  
 ```
 
 Reference:
 
-https://www.tomsguide.com/computing/mobile-apps/google-maps-just-got-a-huge-upgrade-with-gemini-ai-heres-all-the-new-features
+https://www.iclarified.com/95400/apple-acquires-pixelmator
 
 ## Some of my projects:
 

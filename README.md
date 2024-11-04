@@ -1,8 +1,8 @@
 
 **Today's tech haiku:**
 ```
-Pixelmator shines bright,  
-In Apple’s vast embrace now,  
+Pixelmator gleams bright,  
+Apple's future on the line,  
 Will it thrive or fade?  
 ```
 

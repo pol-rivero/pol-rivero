@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Pixelmator gleams bright,  
-Apple's future on the line,  
-Will it thrive or fade?  
+Blocked voices linger,  
+Seeing posts they can't respond,  
+Critique echoes loud.  
 ```
 
 Reference:
 
-https://www.iclarified.com/95400/apple-acquires-pixelmator
+https://techcrunch.com/2024/11/03/x-updates-block-feature-letting-blocked-users-see-your-public-posts/
 
 ## Some of my projects:
 

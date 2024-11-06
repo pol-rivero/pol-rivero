@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Blocked voices linger,  
-Seeing posts they can't respond,  
-Critique echoes loud.  
+Blocked from reply,  
+But still you see my words dance,  
+Silence, not silence.  
 ```
 
 Reference:

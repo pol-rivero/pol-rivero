@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Blocked from reply,  
-But still you see my words dance,  
-Silence, not silence.  
+Blocked yet still watch,  
+Public posts in plain view shine,  
+Boundaries now blur.  
 ```
 
 Reference:

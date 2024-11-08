@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Blocked yet still watch,  
-Public posts in plain view shine,  
-Boundaries now blur.  
+Chat domain embraced,  
+Future whispers softly bright,  
+Generative dreams.  
 ```
 
 Reference:
 
-https://techcrunch.com/2024/11/03/x-updates-block-feature-letting-blocked-users-see-your-public-posts/
+https://www.thehansindia.com/tech/openai-acquires-chatcom-to-strengthen-ai-accessibility-with-chatgpt-919895
 
 ## Some of my projects:
 

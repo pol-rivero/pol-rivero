@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Chat domain embraced,  
-Future whispers softly bright,  
-Generative dreams.  
+Chat.com now belongs,  
+Shah's foresight in each byte,  
+OpenAI's new home.  
 ```
 
 Reference:

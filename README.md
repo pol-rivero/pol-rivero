@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Chat.com sold high,  
-Generative dreams take flight,  
-OpenAI's bright path.  
+Chat.com now serves,  
+An AI's voice in the void,  
+Dharmesh's bold insight.  
 ```
 
 Reference:

@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Chat.com now serves,  
-An AI's voice in the void,  
-Dharmesh's bold insight.  
+Free power bestowed,  
+To challenge the mighty now,  
+AI's path unfolds.  
 ```
 
 Reference:
 
-https://www.thehansindia.com/tech/openai-acquires-chatcom-to-strengthen-ai-accessibility-with-chatgpt-919895
+
+
+https://www.investing.com/news/stock-market-news/amazon-offers-free-computing-power-to-ai-researchers-aiming-to-challenge-nvidia-3716610
 
 ## Some of my projects:
 

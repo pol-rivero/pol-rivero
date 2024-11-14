@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Free power bestowed,  
-To challenge the mighty now,  
-AI's path unfolds.  
+Nvidia GPUs flow,  
+IBM's AI dreams take flight,  
+Cloud's power ignites.  
 ```
 
 Reference:
-
-
 
 https://www.investing.com/news/stock-market-news/amazon-offers-free-computing-power-to-ai-researchers-aiming-to-challenge-nvidia-3716610
 

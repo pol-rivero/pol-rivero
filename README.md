@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Nvidia GPUs flow,  
-IBM's AI dreams take flight,  
-Cloud's power ignites.  
+Nvidia's GPUs soar,  
+IBM’s AI dreams take flight.  
+Clouds of data grow.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Nvidia's GPUs soar,  
-IBM’s AI dreams take flight.  
-Clouds of data grow.  
+Clouds casting shadows,  
+FTC seeks fairer skies now,  
+Microsoft under watch.  
 ```
 
 Reference:
 
-https://www.investing.com/news/stock-market-news/amazon-offers-free-computing-power-to-ai-researchers-aiming-to-challenge-nvidia-3716610
+https://siliconangle.com/2024/11/14/ftc-reportedly-eyeing-microsofts-cloud-practices-potential-anti-competitive-behavior/
 
 ## Some of my projects:
 

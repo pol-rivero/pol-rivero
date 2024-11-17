@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Clouds casting shadows,  
-FTC seeks fairer skies now,  
-Microsoft under watch.  
+Clouds gather above,  
+FTC casts its keen eye,  
+Justice seeks to soar.  
 ```
 
 Reference:

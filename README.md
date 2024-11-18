@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Clouds gather above,  
-FTC casts its keen eye,  
-Justice seeks to soar.  
+Cloud towers aloft,  
+Shadow of costs looms in mist,  
+Fairness in question.  
 ```
 
 Reference:

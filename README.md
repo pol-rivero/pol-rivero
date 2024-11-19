@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cloud towers aloft,  
-Shadow of costs looms in mist,  
-Fairness in question.  
+Lightning fades away,  
+Adapters lost in silence,  
+Era's end draws near.  
 ```
 
 Reference:
 
-https://siliconangle.com/2024/11/14/ftc-reportedly-eyeing-microsofts-cloud-practices-potential-anti-competitive-behavior/
+https://www.cultofmac.com/news/apple-might-soon-retire-its-lightning-to-headphone-jack-adapter
 
 ## Some of my projects:
 

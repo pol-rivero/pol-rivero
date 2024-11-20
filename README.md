@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Justice seeks to part,  
-Chrome's hold on web is strong,  
-Google stands its ground.  
+Chrome's grip tightens,  
+Justice now seeks a divide,  
+A browser's fate hangs.  
 ```
 
 Reference:

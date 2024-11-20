@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lightning fades away,  
-Adapters lost in silence,  
-Era's end draws near.  
+Justice seeks to part,  
+Chrome's hold on web is strong,  
+Google stands its ground.  
 ```
 
 Reference:
 
-https://www.cultofmac.com/news/apple-might-soon-retire-its-lightning-to-headphone-jack-adapter
+https://finance.yahoo.com/news/doj-push-google-sell-chrome-222920497.html
 
 ## Some of my projects:
 

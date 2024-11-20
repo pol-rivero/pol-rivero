@@ -39,7 +39,7 @@ content = content.replace("$[CURRENT_AGE]", str(age))
 def get_commits(start_date, end_date):
     url = "https://api.github.com/search/commits"
     headers = {"Accept": "application/vnd.github.v3+json"}
-    params = {"q": "author:p-rivero committer-date:" + start_date.strftime("%Y-%m-%d") + ".." + end_date.strftime("%Y-%m-%d")}
+    params = {"q": "author:pol-rivero committer-date:" + start_date.strftime("%Y-%m-%d") + ".." + end_date.strftime("%Y-%m-%d")}
     response = requests.get(url, headers=headers, params=params)
     if response.status_code != 200:
         print("Could not get commits:")

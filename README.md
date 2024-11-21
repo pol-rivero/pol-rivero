@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chrome's grip tightens,  
-Justice now seeks a divide,  
-A browser's fate hangs.  
+Strava's new rule churns,  
+Third-party apps now in doubt,  
+Data's tight embrace.  
 ```
 
 Reference:
 
-https://finance.yahoo.com/news/doj-push-google-sell-chrome-222920497.html
+https://www.techradar.com/health-fitness/strava-could-soon-stop-working-with-some-of-your-third-party-apps-heres-what-you-need-to-know
 
 ## Some of my projects:
 

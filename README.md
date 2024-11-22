@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Strava's new rule churns,  
-Third-party apps now in doubt,  
-Data's tight embrace.  
+In a classroom fight,  
+AI's shadow lingers long,  
+Justice weighs the path.  
 ```
 
 Reference:
 
-https://www.techradar.com/health-fitness/strava-could-soon-stop-working-with-some-of-your-third-party-apps-heres-what-you-need-to-know
+https://www.usnews.com/news/top-news/articles/2024-11-21/massachusetts-students-punishment-for-ai-use-can-stand-us-judge-rules
 
 ## Some of my projects:
 

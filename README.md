@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-In a classroom fight,  
-AI's shadow lingers long,  
-Justice weighs the path.  
+A student now learns,  
+AI's wisdom has a cost,  
+Judgment holds its ground.  
 ```
 
 Reference:

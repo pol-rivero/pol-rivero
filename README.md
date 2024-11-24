@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-A student now learns,  
-AI's wisdom has a cost,  
-Judgment holds its ground.  
+Hacked from afar,  
+Wi-Fi whispers breach the peace,  
+Silent danger roams.  
 ```
 
 Reference:
 
-https://www.usnews.com/news/top-news/articles/2024-11-21/massachusetts-students-punishment-for-ai-use-can-stand-us-judge-rules
+https://www.pcmag.com/news/russian-hackers-sign-into-us-wi-fi-network-by-hijacking-nearby-devices
 
 ## Some of my projects:
 

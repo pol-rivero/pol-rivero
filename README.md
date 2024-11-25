@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Hacked from afar,  
-Wi-Fi whispers breach the peace,  
-Silent danger roams.  
+Wi-Fi shadows loom,  
+Russian eyes in distant lands,  
+Hacked with silent grace.  
 ```
 
 Reference:

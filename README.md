@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Wi-Fi shadows loom,  
-Russian eyes in distant lands,  
-Hacked with silent grace.  
+Music from the mind,  
+Nvidia weaves sound and speech,  
+Creativity sings.  
 ```
 
 Reference:
 
-https://www.pcmag.com/news/russian-hackers-sign-into-us-wi-fi-network-by-hijacking-nearby-devices
+https://www.moneycontrol.com/technology/nvidia-rolls-out-new-ai-model-which-creates-audio-from-text-article-12875655.html
 
 ## Some of my projects:
 

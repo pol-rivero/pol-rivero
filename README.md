@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Music from the mind,  
-Nvidia weaves sound and speech,  
-Creativity sings.  
+Intel's hopes dimmed,  
+Giant grants shift with the tides,  
+Contracts shape the game.  
 ```
 
 Reference:
 
-https://www.moneycontrol.com/technology/nvidia-rolls-out-new-ai-model-which-creates-audio-from-text-article-12875655.html
+https://www.moneycontrol.com/news/world/us-plans-to-reduce-intels-8-5-billion-federal-chips-grant-below-8-billion-report-12874596.html
 
 ## Some of my projects:
 

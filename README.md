@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Intel's hopes dimmed,  
-Giant grants shift with the tides,  
-Contracts shape the game.  
+Bootkitty lurks deep,  
+In shadows of Linux' core,  
+Silently it waits.  
 ```
 
 Reference:
 
-https://www.moneycontrol.com/news/world/us-plans-to-reduce-intels-8-5-billion-federal-chips-grant-below-8-billion-report-12874596.html
+https://www.infosecurity-magazine.com/news/bootkit-bootkitty-targets-linux/
 
 ## Some of my projects:
 

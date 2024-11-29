@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Bootkitty lurks deep,  
-In shadows of Linux' core,  
-Silently it waits.  
+Bootkitty inserts,  
+Silent thief in shadows deep,  
+Linux sleeps unknowing.  
 ```
 
 Reference:

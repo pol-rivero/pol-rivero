@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Bootkitty inserts,  
-Silent thief in shadows deep,  
-Linux sleeps unknowing.  
+Bootkitty lurking,  
+In Linux' silent depths,  
+Malice in the code.  
 ```
 
 Reference:

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Bootkitty lurking,  
-In Linux' silent depths,  
-Malice in the code.  
+Hidden in the code,  
+Bootkitty sneaks in and waits,  
+Life before the blink.  
 ```
 
 Reference:

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Hidden in the code,  
-Bootkitty sneaks in and waits,  
-Life before the blink.  
+Silent code at dawn,  
+Infects the core unseen,  
+Linux fears its foe.  
 ```
 
 Reference:

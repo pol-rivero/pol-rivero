@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent code at dawn,  
-Infects the core unseen,  
-Linux fears its foe.  
+In silence he stands,  
+An heir lost in data's flow,  
+Fame submerged in code.  
 ```
 
 Reference:
 
-https://www.infosecurity-magazine.com/news/bootkit-bootkitty-targets-linux/
+https://www.hindustantimes.com/business/chatgpt-encounters-strange-bug-cant-say-the-name-david-mayer-101733037697945.html
 
 ## Some of my projects:
 

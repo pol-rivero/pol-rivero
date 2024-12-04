@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In silence he stands,  
-An heir lost in data's flow,  
-Fame submerged in code.  
+Stream games with ease,  
+Raspberry Pi now connects,  
+Joy in every byte.  
 ```
 
 Reference:
 
-https://www.hindustantimes.com/business/chatgpt-encounters-strange-bug-cant-say-the-name-david-mayer-101733037697945.html
+https://www.howtogeek.com/raspberry-pi-5-gets-official-steam-link-support/
 
 ## Some of my projects:
 

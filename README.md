@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Stream games with ease,  
-Raspberry Pi now connects,  
-Joy in every byte.  
+Names lost in silence,  
+ChatGPT’s shards of whispers,  
+Curious minds crave truth.  
 ```
 
 Reference:
 
-https://www.howtogeek.com/raspberry-pi-5-gets-official-steam-link-support/
+https://www.hindustantimes.com/business/chatgpt-encounters-strange-bug-cant-say-the-name-david-mayer-101733037697945.html
 
 ## Some of my projects:
 

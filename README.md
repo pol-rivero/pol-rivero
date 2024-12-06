@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Names lost in silence,  
-ChatGPT’s shards of whispers,  
-Curious minds crave truth.  
+Twelve days of gifts,  
+OpenAI's cheer unfolds wide,  
+Models, tools, and hopes.  
 ```
 
 Reference:
 
-https://www.hindustantimes.com/business/chatgpt-encounters-strange-bug-cant-say-the-name-david-mayer-101733037697945.html
+https://9to5mac.com/2024/12/05/chatgpt-pro-coming-soon-for-200-month-per-openai-leak/
 
 ## Some of my projects:
 

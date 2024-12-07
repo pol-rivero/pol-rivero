@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Twelve days of gifts,  
-OpenAI's cheer unfolds wide,  
-Models, tools, and hopes.  
+Backdoor in the code,  
+Silent thief takes the funds,  
+Crypto trust betrayed.  
 ```
 
 Reference:
 
-https://9to5mac.com/2024/12/05/chatgpt-pro-coming-soon-for-200-month-per-openai-leak/
+https://cryptorank.io/news/feed/771a2-phantom-safe-from-solana-web3-js-bug-upgrade-to-1-95-8-urged
 
 ## Some of my projects:
 

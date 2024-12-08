@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Backdoor in the code,  
-Silent thief takes the funds,  
-Crypto trust betrayed.  
+A backdoor hidden,  
+Wallets drained, shadows creep in,  
+Trust now wears thin skin.  
 ```
 
 Reference:

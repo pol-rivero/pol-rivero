@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-A backdoor hidden,  
-Wallets drained, shadows creep in,  
-Trust now wears thin skin.  
+Backdoor breach strikes,  
+Silent thieves in code's dark night,  
+Wallets drain in fright.  
 ```
 
 Reference:

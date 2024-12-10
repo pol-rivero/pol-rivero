@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Backdoor breach strikes,  
-Silent thieves in code's dark night,  
-Wallets drain in fright.  
+Reddit’s new answers,  
+AI whispers to users,  
+Knowledge at their hands.  
 ```
 
 Reference:
 
-https://cryptorank.io/news/feed/771a2-phantom-safe-from-solana-web3-js-bug-upgrade-to-1-95-8-urged
+https://www.nbcchicago.com/news/business/money-report/reddit-begins-testing-ai-powered-answers-feature-to-win-more-users/3619541/
 
 ## Some of my projects:
 

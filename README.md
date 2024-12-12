@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Reddit's new feature,  
-AI whispers through the threads,  
-Answers come alive.  
+Apple's tools now bloom,  
+In Canada, they craft art,  
+From sketches to life.  
 ```
 
 Reference:
 
-https://www.nbcchicago.com/news/business/money-report/reddit-begins-testing-ai-powered-answers-feature-to-win-more-users/3619541/
+https://www.tomsguide.com/ai/apple-intelligence/ios-18-2-arrives-today-here-are-the-features-you-should-try-first
 
 ## Some of my projects:
 

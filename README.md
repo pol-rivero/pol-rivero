@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple's tools now bloom,  
-In Canada, they craft art,  
-From sketches to life.  
+Project Moohan dawns,  
+Smart glasses, VR unite,  
+Google's bold return.  
 ```
 
 Reference:
 
-https://www.tomsguide.com/ai/apple-intelligence/ios-18-2-arrives-today-here-are-the-features-you-should-try-first
+https://www.wallstreet-online.de/nachricht/18812438-virtualware-canada-joins-forces-with-invest-windsoressex-and-nextstar-energy-3-8-million-battery-manufacturing-training-program
 
 ## Some of my projects:
 

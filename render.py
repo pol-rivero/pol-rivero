@@ -6,41 +6,28 @@ from datetime import date, datetime, timedelta
 import requests
 from openai import OpenAI
 
+current_dir = os.path.dirname(os.path.realpath(__file__))
 
-# If there's a special template for today, use that. Otherwise, use the default template
-def get_template():
+
+def get_template_name():
     special_template = "special/" + date.today().strftime("%m-%d") + ".md"
     if os.path.isfile(special_template):
         return special_template
     return "TEMPLATE.md"
 
-
-# Get the input and output filenames
-current_dir = os.path.dirname(os.path.realpath(__file__))
-input_file = os.path.join(current_dir, get_template())
-output_file = os.path.join(current_dir, "README.md")
-
-# Read the template file
-with open(input_file, "r") as f:
-    content = f.read()
-
-# Get the current date
-content = content.replace("$[CURRENT_DATE]", datetime.now().strftime("%B %-d, %Y"))
-content = content.replace("$[CURRENT_YEAR]", datetime.now().strftime("%Y"))
-
-# Compute my age
-birthday = datetime(2001, 6, 25)
-age = (datetime.now() - birthday).days // 365
-content = content.replace("$[CURRENT_AGE]", str(age))
+def get_template():
+    input_file = os.path.join(current_dir, get_template_name())
+    with open(input_file, "r", encoding="utf-8") as f:
+        content = f.read()
+    return content
 
 
-
-# Use the GitHub API to get the number of commits
 def get_commits(start_date, end_date):
+    "Use the GitHub API to get the number of commits in a date range"
     url = "https://api.github.com/search/commits"
     headers = {"Accept": "application/vnd.github.v3+json"}
     params = {"q": "author:pol-rivero committer-date:" + start_date.strftime("%Y-%m-%d") + ".." + end_date.strftime("%Y-%m-%d")}
-    response = requests.get(url, headers=headers, params=params)
+    response = requests.get(url, headers=headers, params=params, timeout=15)
     if response.status_code != 200:
         print("Could not get commits:")
         print(response.text)
@@ -48,15 +35,24 @@ def get_commits(start_date, end_date):
     else:
         return response.json()["total_count"]
 
-# Generate haiku based on tech news
+def get_commits_this_month():
+    "Get the number of commits in the current month"
+    this_month = datetime.now().replace(day=1)
+    if this_month.month == 1:
+        last_month = this_month.replace(year=this_month.year - 1, month=12)
+    else:
+        last_month = this_month.replace(month=this_month.month - 1)
+    return get_commits(last_month, this_month)
+
 def get_tech_haiku():
+    "Generate haiku based on tech news"
     def get_tech_news(api_key, num_stories=4):
         current_date = datetime.now()
         from_date = (current_date - timedelta(days=5)).strftime("%Y-%m-%d")
         to_date = current_date.strftime("%Y-%m-%d")
         try:
             url = f"https://newsapi.ai/api/v1/event/getEvents?query=%7B%22%24query%22%3A%7B%22%24and%22%3A%5B%7B%22categoryUri%22%3A%22dmoz%2FComputers%22%7D%2C%7B%22sourceUri%22%3A%22arstechnica.com%22%7D%2C%7B%22dateStart%22%3A%22{from_date}%22%2C%22dateEnd%22%3A%22{to_date}%22%2C%22lang%22%3A%22eng%22%7D%5D%7D%7D&resultType=events&eventsSortBy=date&includeEventSummary=true&includeEventLocation=false&includeEventArticleCounts=false&includeEventStories=true&includeStoryMedoidArticle=true&includeEventConcepts=false&includeEventCategories=false&eventImageCount=1&storyImageCount=1&apiKey={api_key}"
-            response = requests.get(url)
+            response = requests.get(url, timeout=15)
             if response.status_code != 200:
                 print("Could not get tech news:")
                 print(response.text)
@@ -75,7 +71,7 @@ def get_tech_haiku():
             print("Error getting tech news:")
             print(e)
             return None
-            
+
     def get_haiku(news):
         if news is None:
             return "Failed API call,\nBits and bytes lost in the void,\nSilent tech news cries."
@@ -112,24 +108,36 @@ def piratify(text):
         start = "Ahoy matey! Happy [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)!\n\n"
         return start + response.json()["contents"]["translated"]
 
-this_month = datetime.now().replace(day=1)
-if this_month.month == 1:
-    last_month = this_month.replace(year=this_month.year - 1, month=12)
-else:
-    last_month = this_month.replace(month=this_month.month - 1)
-num_commits = get_commits(last_month, this_month)
+def is_talk_like_a_pirate_day():
+    return date.today().month == 9 and date.today().day == 19
 
-content = content.replace("$[NUM_COMMITS]", str(num_commits))
-content = content.replace("$[LAST_MONTH]", last_month.strftime("%B %Y"))
-if "$[TECH_HAIKU]" in content:
-    haiku, urls = get_tech_haiku()
-    content = content.replace("$[TECH_HAIKU]", haiku)
-    content = content.replace("$[TECH_HAIKU_URLS]", "\n\n".join(urls))
+def get_age():
+    birthday = datetime(2001, 6, 25)
+    return (datetime.now() - birthday).days // 365
 
-# September 19th is International Talk Like a Pirate Day
-if (date.today().month == 9 and date.today().day == 19):    
-    content = piratify(content)
 
-# Write the output file
-with open(output_file, "w") as f:
-    f.write(content)
+def format_template(content):
+    content = content.replace("$[CURRENT_DATE]", datetime.now().strftime("%B %-d, %Y"))
+    content = content.replace("$[CURRENT_YEAR]", datetime.now().strftime("%Y"))
+    content = content.replace("$[CURRENT_AGE]", str(get_age()))
+    content = content.replace("$[NUM_COMMITS]", str(get_commits_this_month()))
+    if "$[TECH_HAIKU]" in content:
+        haiku, urls = get_tech_haiku()
+        content = content.replace("$[TECH_HAIKU]", haiku)
+        content = content.replace("$[TECH_HAIKU_URLS]", "\n\n".join(urls))
+    return content
+
+
+def main():
+    template = get_template()
+    content = format_template(template)
+
+    if is_talk_like_a_pirate_day():
+        content = piratify(content)
+
+    output_file = os.path.join(current_dir, "README.md")
+    with open(output_file, "w", encoding="utf-8") as f:
+        f.write(content)
+
+if __name__ == "__main__":
+    main()

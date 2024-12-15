@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Project Moohan dawns,  
-Smart glasses, VR unite,  
-Google's bold return.  
+Android XR unveiled,  
+Blending visions, worlds converge,  
+Future's gaze through glass.  
 ```
 
 Reference:
 
-https://www.wallstreet-online.de/nachricht/18812438-virtualware-canada-joins-forces-with-invest-windsoressex-and-nextstar-energy-3-8-million-battery-manufacturing-training-program
+https://www.tomsguide.com/ai/google-gemini/google-launches-gemini-2-heres-why-its-a-big-deal
 
 ## Some of my projects:
 

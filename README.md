@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Android XR is here,  
-Virtual worlds intertwine,  
-New sights, voices guide.  
+Stars align for calls,  
+T-Mobile's reach now extends,  
+Voices in the void.  
 ```
 
 Reference:
 
-https://www.tomsguide.com/ai/google-gemini/google-launches-gemini-2-heres-why-its-a-big-deal
+https://uk.investing.com/news/press-releases/tmobile-opens-registration-for-starlink-directtocell-satellite-service-beta-launch-93CH-3839373
 
 ## Some of my projects:
 

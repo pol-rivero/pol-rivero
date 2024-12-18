@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Stars align for calls,  
-T-Mobile's reach now extends,  
-Voices in the void.  
+Models like the breeze,  
+ChatGPT leads the way firm,  
+Choices grow like trees.  
 ```
 
 Reference:
 
-https://uk.investing.com/news/press-releases/tmobile-opens-registration-for-starlink-directtocell-satellite-service-beta-launch-93CH-3839373
+https://news-24.fr/openai-propose-son-outil-de-recherche-web-base-sur-lia-a-davantage-dutilisateurs-de-chatgpt/
 
 ## Some of my projects:
 

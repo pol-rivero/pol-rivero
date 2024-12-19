@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Models like the breeze,  
-ChatGPT leads the way firm,  
-Choices grow like trees.  
+IP's fierce battle,  
+Chips and claims intertwine,  
+Future hangs in court.  
 ```
 
 Reference:
 
-https://news-24.fr/openai-propose-son-outil-de-recherche-web-base-sur-lia-a-davantage-dutilisateurs-de-chatgpt/
+https://www.dailymail.co.uk/wires/reuters/article-14203323/Arm-Qualcomm-lawyers-grill-ex-Apple-exec-chip-design-battle.html
 
 ## Some of my projects:
 

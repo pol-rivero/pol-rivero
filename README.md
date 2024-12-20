@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-IP's fierce battle,  
-Chips and claims intertwine,  
-Future hangs in court.  
+Thoughts laid bare, bold,  
+AI whispers its secrets,  
+Brighter minds emerge.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-14203323/Arm-Qualcomm-lawyers-grill-ex-Apple-exec-chip-design-battle.html
+https://www.gadgets360.com/ai/news/gemini-2-0-flash-ai-model-android-app-model-switcher-feature-7270090
 
 ## Some of my projects:
 

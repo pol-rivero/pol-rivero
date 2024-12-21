@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Thoughts laid bare, bold,  
-AI whispers its secrets,  
-Brighter minds emerge.  
+Simulations at light,  
+Robots mastering their craft,  
+Reality fades.  
 ```
 
 Reference:
 
-https://www.gadgets360.com/ai/news/gemini-2-0-flash-ai-model-android-app-model-switcher-feature-7270090
+https://analyticsindiamag.com/ai-news-updates/meet-genesis-an-open-source-universal-physics-engine-that-generates-4d-worlds/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Simulations at light,  
-Robots mastering their craft,  
-Reality fades.  
+Google's bold move,  
+AI Mode to shift the search,  
+ChatGPT meets its match.  
 ```
 
 Reference:
 
-https://analyticsindiamag.com/ai-news-updates/meet-genesis-an-open-source-universal-physics-engine-that-generates-4d-worlds/
+https://winbuzzer.com/2024/12/20/googles-coming-ai-mode-might-bring-a-new-era-of-search-xcxwbn/
 
 ## Some of my projects:
 

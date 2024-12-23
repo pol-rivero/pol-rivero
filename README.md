@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Google's bold move,  
-AI Mode to shift the search,  
-ChatGPT meets its match.  
+AI whispers in search,  
+New mode to find what we seek,  
+Google's shift awaits.  
 ```
 
 Reference:

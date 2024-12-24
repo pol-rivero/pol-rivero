@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI whispers in search,  
-New mode to find what we seek,  
-Google's shift awaits.  
+Genesis awakens,  
+Robots learn in fast motion,  
+Future minds take flight.  
 ```
 
 Reference:
 
-https://winbuzzer.com/2024/12/20/googles-coming-ai-mode-might-bring-a-new-era-of-search-xcxwbn/
+https://analyticsindiamag.com/ai-news-updates/meet-genesis-an-open-source-universal-physics-engine-that-generates-4d-worlds/
 
 ## Some of my projects:
 

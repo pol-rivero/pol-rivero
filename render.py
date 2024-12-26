@@ -51,7 +51,22 @@ def get_tech_haiku():
         from_date = (current_date - timedelta(days=5)).strftime("%Y-%m-%d")
         to_date = current_date.strftime("%Y-%m-%d")
         try:
-            url = f"https://newsapi.ai/api/v1/event/getEvents?query=%7B%22%24query%22%3A%7B%22%24and%22%3A%5B%7B%22categoryUri%22%3A%22dmoz%2FComputers%22%7D%2C%7B%22sourceUri%22%3A%22arstechnica.com%22%7D%2C%7B%22dateStart%22%3A%22{from_date}%22%2C%22dateEnd%22%3A%22{to_date}%22%2C%22lang%22%3A%22eng%22%7D%5D%7D%7D&resultType=events&eventsSortBy=date&includeEventSummary=true&includeEventLocation=false&includeEventArticleCounts=false&includeEventStories=true&includeStoryMedoidArticle=true&includeEventConcepts=false&includeEventCategories=false&eventImageCount=1&storyImageCount=1&apiKey={api_key}"
+            query_json = str({
+                "$query": {
+                    "$and": [
+                        {
+                            "$or": [
+                                {"categoryUri": "dmoz/Science/Technology"},
+                                {"categoryUri": "dmoz/Computers"},
+                            ]
+                        },
+                        {"sourceUri": "arstechnica.com"},
+                        {"dateStart": from_date, "dateEnd": to_date, "lang": "eng"},
+                    ]
+                }
+            }).replace("'", '"')
+            query = requests.utils.quote(query_json)
+            url = f"https://newsapi.ai/api/v1/event/getEvents?query={query}&resultType=events&eventsSortBy=date&includeEventSummary=true&includeEventLocation=false&includeEventArticleCounts=false&includeEventStories=true&includeStoryMedoidArticle=true&includeEventConcepts=false&includeEventCategories=false&eventImageCount=1&storyImageCount=1&apiKey={api_key}"
             response = requests.get(url, timeout=15)
             if response.status_code != 200:
                 print("Could not get tech news:")

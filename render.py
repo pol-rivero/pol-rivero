@@ -59,7 +59,8 @@ def get_tech_haiku():
                 return None
             events = response.json()["events"]["results"]
             if len(events) == 0:
-                print("No tech news found")
+                print("No tech news found. Response:")
+                print(response.text)
                 return None
             def str_event(event):
                 title = event["title"]["eng"]

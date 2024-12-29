@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Dancing with the Sun,  
-Parker probes its blazing heart,  
-Chasing light and truth.  
+Bezos' dream ascends,  
+New Glenn ready for the stars,  
+A race in the skies.  
 ```
 
 Reference:
 
-https://www.newsdirectory3.com/decouvrez-la-parker-solar-probe-et-sa-mission-pour-comprendre-le-soleil/
+https://www.dailymail.co.uk/wires/reuters/article-14231027/Bezos-Blue-Origin-gets-FAA-license-New-Glenn-rocket-launch.html
 
 ## Some of my projects:
 

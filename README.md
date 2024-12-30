@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Bezos' dream ascends,  
-New Glenn ready for the stars,  
-A race in the skies.  
+Blue skies ahead now,  
+New Glenn ready for liftoff,  
+Commerce in the stars.  
 ```
 
 Reference:

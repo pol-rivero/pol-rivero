@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Blue skies ahead now,  
-New Glenn ready for liftoff,  
-Commerce in the stars.  
+Carter's thoughts in ink,  
+Space shuttle dreams mix with doubt,  
+Legacy in flight.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-14231027/Bezos-Blue-Origin-gets-FAA-license-New-Glenn-rocket-launch.html
+https://www.yahoo.com/news/spaceflight-owes-jimmy-carter-presidents-111044597.html
 
 ## Some of my projects:
 

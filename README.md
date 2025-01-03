@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Carter's firm resolve,  
-Guided NASA's pathway,  
-Shuttle dreams take flight.  
+AI weaves a web,  
+Phishing schemes with sharp intent,  
+Execs in their sights.  
 ```
 
 Reference:
 
-https://www.yahoo.com/news/spaceflight-owes-jimmy-carter-presidents-111044597.html
+https://www.gadgets360.com/ai/news/ebay-beazley-corporate-executives-ai-generated-phishing-scam-target-report-7383116
 
 ## Some of my projects:
 

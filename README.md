@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-AI weaves a web,  
-Phishing schemes with sharp intent,  
-Execs in their sights.  
+Clever words disguise,  
+Friends' voices now mere shadows,  
+Deception thrives near.  
 ```
 
 Reference:

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Clever words disguise,  
-Friends' voices now mere shadows,  
-Deception thrives near.  
+Emails like shadows,  
+Cloaked in trust, they deceive—  
+Friends become strangers.  
 ```
 
 Reference:

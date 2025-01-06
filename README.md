@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Emails like shadows,  
-Cloaked in trust, they deceive—  
-Friends become strangers.  
+Emails cloak deceit,  
+Friends become foes unseen,  
+Trust wears thin and fades.  
 ```
 
 Reference:

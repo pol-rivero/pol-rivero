@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Emails cloak deceit,  
-Friends become foes unseen,  
-Trust wears thin and fades.  
+Steam Deck whispers,  
+Rumors fade like vapor trails,  
+AMD's truth emerges.  
 ```
 
 Reference:
 
-https://www.gadgets360.com/ai/news/ebay-beazley-corporate-executives-ai-generated-phishing-scam-target-report-7383116
+https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-new-steam-deck-is-coming-with-one-of-amds-more-powerful-ryzen-z2-series-processors-inside-it/
 
 ## Some of my projects:
 

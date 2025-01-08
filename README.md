@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Steam Deck whispers,  
-Rumors fade like vapor trails,  
-AMD's truth emerges.  
+Graphics roar alive,  
+Nvidia's power unleashed,  
+Gaming dreams take flight.  
 ```
 
 Reference:
 
-https://www.pcgamer.com/hardware/handheld-gaming-pcs/a-new-steam-deck-is-coming-with-one-of-amds-more-powerful-ryzen-z2-series-processors-inside-it/
+https://www.theverge.com/2025/1/5/24336321/nvidia-rtx-5090-32gb-vram-gddr7-memory-ces-leak-rumor
 
 ## Some of my projects:
 

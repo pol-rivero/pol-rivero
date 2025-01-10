@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Graphics roar alive,  
-Nvidia's power unleashed,  
-Gaming dreams take flight.  
+Funding open paths,  
+Chromium's future secured,  
+Unity in code.  
 ```
 
 Reference:
 
-https://www.theverge.com/2025/1/5/24336321/nvidia-rtx-5090-32gb-vram-gddr7-memory-ces-leak-rumor
+https://www.neowin.net/news/end-of-firefox-google-joined-by-linux-microsoft-and-more-to-make-chrome-edge-better/
 
 ## Some of my projects:
 

@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Funding open paths,  
-Chromium's future secured,  
-Unity in code.  
+Fund for the future,  
+Chromium’s open spirit thrives,  
+Collaboration.  
 ```
 
 Reference:
+
+
 
 https://www.neowin.net/news/end-of-firefox-google-joined-by-linux-microsoft-and-more-to-make-chrome-edge-better/
 

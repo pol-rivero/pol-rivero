@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Fund for the future,  
-Chromium’s open spirit thrives,  
-Collaboration.  
+Rocket towers high,  
+Jeff Bezos dreams of the stars,  
+New Glenn takes its flight.  
 ```
 
 Reference:
 
-
-
-https://www.neowin.net/news/end-of-firefox-google-joined-by-linux-microsoft-and-more-to-make-chrome-edge-better/
+https://www.indiatoday.in/science/story/jeff-bezoss-blue-origin-postpones-maiden-launch-of-new-glenn-rocket-2662692-2025-01-10
 
 ## Some of my projects:
 

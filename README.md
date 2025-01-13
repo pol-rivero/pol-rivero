@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Rocket towers high,  
-Jeff Bezos dreams of the stars,  
-New Glenn takes its flight.  
+New Glenn ascends,  
+Bezos dreams in the night sky,  
+Space race ignites now.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New Glenn ascends,  
-Bezos dreams in the night sky,  
-Space race ignites now.  
+New Glenn awaits flight,  
+Bezos dreams of the heavens,  
+Challenging the stars.  
 ```
 
 Reference:
 
-https://www.indiatoday.in/science/story/jeff-bezoss-blue-origin-postpones-maiden-launch-of-new-glenn-rocket-2662692-2025-01-10
+https://economictimes.indiatimes.com/news/international/global-trends/is-elon-musk-owned-spacexs-grip-on-space-in-danger-jeff-bezos-owned-blue-origins-new-glenn-rocket-launch-could-be-the-gamechanger/articleshow/117164202.cms
 
 ## Some of my projects:
 

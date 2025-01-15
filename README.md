@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New Glenn awaits flight,  
-Bezos dreams of the heavens,  
-Challenging the stars.  
+Rocket dreams unfurl,  
+Weather plays a cruel jest,  
+Hope hangs in the clouds.  
 ```
 
 Reference:
 
-https://economictimes.indiatimes.com/news/international/global-trends/is-elon-musk-owned-spacexs-grip-on-space-in-danger-jeff-bezos-owned-blue-origins-new-glenn-rocket-launch-could-be-the-gamechanger/articleshow/117164202.cms
+https://gorgenewscenter.com/2025/01/13/jeff-bezos-space-company-tries-again-to-launch-massive-new-rocket-after-last-minute-postponement/
 
 ## Some of my projects:
 

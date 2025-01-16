@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Rocket dreams unfurl,  
-Weather plays a cruel jest,  
-Hope hangs in the clouds.  
+Rockets rise again,  
+Stoke's vision takes to flight,  
+Future in the stars.  
 ```
 
 Reference:
 
-https://gorgenewscenter.com/2025/01/13/jeff-bezos-space-company-tries-again-to-launch-massive-new-rocket-after-last-minute-postponement/
+https://venturebeat.com/business/stoke-space-announces-260-million-in-new-investment/
 
 ## Some of my projects:
 

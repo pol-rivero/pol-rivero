@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Rockets rise again,  
-Stoke's vision takes to flight,  
-Future in the stars.  
+Secure boot's shadow,  
+Unsigned code whispers secrets,  
+Vulnerability.  
 ```
 
 Reference:
 
-https://venturebeat.com/business/stoke-space-announces-260-million-in-new-investment/
+https://www.techtarget.com/searchsecurity/news/366618102/ESET-details-UEFI-Secure-Boot-bypass-vulnerability
 
 ## Some of my projects:
 

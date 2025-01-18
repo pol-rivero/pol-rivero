@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Secure boot's shadow,  
-Unsigned code whispers secrets,  
-Vulnerability.  
+Starship soars, then breaks,  
+Debris paints the evening sky,  
+Dreams of space in shards.  
 ```
 
 Reference:
 
-https://www.techtarget.com/searchsecurity/news/366618102/ESET-details-UEFI-Secure-Boot-bypass-vulnerability
+https://www.channel3000.com/news/national-and-world-news/spacex-executes-second-ever-chopsticks-booster-catch-but-starship-spacecraft-explosion-temporarily-diverts-flights/article_f9d5773e-ef05-53a5-8a66-d03fbd28bb6f.html
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Starship soars, then breaks,  
-Debris paints the evening sky,  
-Dreams of space in shards.  
+Starship's ascent fails,  
+Fragments fall from the black sky,  
+Dreams of space collide.  
 ```
 
 Reference:

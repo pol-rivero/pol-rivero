@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Starship's ascent fails,  
-Fragments fall from the black sky,  
-Dreams of space collide.  
+Rocket into blue,  
+Dreams soar high, then fall apart—  
+Stars watch, silent dawn.  
 ```
 
 Reference:

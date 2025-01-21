@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Rocket into blue,  
-Dreams soar high, then fall apart—  
-Stars watch, silent dawn.  
+Coal’s fate hangs still,  
+Extensions whisper in winds,  
+Energy’s tug-of-war.  
 ```
 
 Reference:
 
-https://www.channel3000.com/news/national-and-world-news/spacex-executes-second-ever-chopsticks-booster-catch-but-starship-spacecraft-explosion-temporarily-diverts-flights/article_f9d5773e-ef05-53a5-8a66-d03fbd28bb6f.html
+https://www.bostonherald.com/2025/01/20/peng-growing-electricity-demand-calls-for-coal/
 
 ## Some of my projects:
 

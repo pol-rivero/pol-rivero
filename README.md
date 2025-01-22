@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Coal’s fate hangs still,  
-Extensions whisper in winds,  
-Energy’s tug-of-war.  
+New updates arrive,  
+iOS 18.3 unfolds,  
+Whispers of AI's grace.  
 ```
 
 Reference:
 
-https://www.bostonherald.com/2025/01/20/peng-growing-electricity-demand-calls-for-coal/
+https://ipadizate.com/ofertas/este-es-el-unico-iphone-que-te-puedo-recomendar-si-quieres-gastarte-menos-de-380-euros
 
 ## Some of my projects:
 

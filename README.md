@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New updates arrive,  
-iOS 18.3 unfolds,  
-Whispers of AI's grace.  
+iOS updates unfold,  
+Apple's new paths are revealed,  
+Awaiting our hands.  
 ```
 
 Reference:
 
-https://ipadizate.com/ofertas/este-es-el-unico-iphone-que-te-puedo-recomendar-si-quieres-gastarte-menos-de-380-euros
+https://9to5mac.com/2025/01/21/ios-18-3-automatically-enables-apple-intelligence-requires-opt-out-to-disable/
 
 ## Some of my projects:
 

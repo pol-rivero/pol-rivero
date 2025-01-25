@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New iOS unveiled,  
-Excitement fills the airwaves,  
-Updates on the way.  
+AI planes and food,  
+Operator lends its hand,  
+Smart life just a click.  
 ```
 
 Reference:
 
-https://9to5mac.com/2025/01/21/ios-18-3-automatically-enables-apple-intelligence-requires-opt-out-to-disable/
+https://techcrunch.com/2025/01/20/openais-agent-tool-may-be-nearing-release/
 
 ## Some of my projects:
 

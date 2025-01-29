@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Solar panels rising,  
-Power’s thirst steadily grows,  
-Nature’s grasp, still strong.  
+Supersonic dreams soar,  
+In four hours, skies await,  
+Fares as light as air.  
 ```
 
 Reference:
 
-https://www.democraticunderground.com/1127180273
+https://www.digitaltrends.com/news/how-to-watch-the-first-supersonic-flight-of-boom-supersonics-xb-1-aircraft/
 
 ## Some of my projects:
 

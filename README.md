@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Supersonic dreams soar,  
-In four hours, skies await,  
-Fares as light as air.  
+Spacecraft in the sky,  
+Elon stirs the cosmic calm,  
+Astronauts await.  
 ```
 
 Reference:
 
-https://www.digitaltrends.com/news/how-to-watch-the-first-supersonic-flight-of-boom-supersonics-xb-1-aircraft/
+https://in.mashable.com/tech/88893/donald-trump-asks-elon-musk-to-bring-stranded-sunita-williams-home
 
 ## Some of my projects:
 

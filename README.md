@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Spacecraft in the sky,  
-Elon stirs the cosmic calm,  
-Astronauts await.  
+Apple's bright sales rise,  
+Forecasts shine through the storm clouds,  
+Hope in iPhones blooms.  
 ```
 
 Reference:
 
-https://in.mashable.com/tech/88893/donald-trump-asks-elon-musk-to-bring-stranded-sunita-williams-home
+https://www.barrons.com/livecoverage/apple-earnings-stock-price-iphone
 
 ## Some of my projects:
 

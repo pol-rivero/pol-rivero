@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apple's bright sales rise,  
-Forecasts shine through the storm clouds,  
-Hope in iPhones blooms.  
+Apple's bright forecast,  
+iPhones with AI features,  
+Investors cheer loud.  
 ```
 
 Reference:

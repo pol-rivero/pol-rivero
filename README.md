@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple's rise continues,  
-Quarterly strength shines so bright,  
-iPhone dreams in flight.  
+OpenAI's new gift,  
+A bright spark amidst the storm,  
+Free AI, new dawn.  
 ```
 
 Reference:
 
-https://www.barrons.com/livecoverage/apple-earnings-stock-price-iphone
+https://bgr.com/tech/forget-deepseek-ai-when-is-chatgpt-o3-mini-coming-out/
 
 ## Some of my projects:
 

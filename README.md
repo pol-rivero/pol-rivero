@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-OpenAI's new gift,  
-A bright spark amidst the storm,  
-Free AI, new dawn.  
+VPN shield to fade,  
+Microsoft’s cloak of safety,  
+Gone with the deadline.  
 ```
 
 Reference:
 
-https://bgr.com/tech/forget-deepseek-ai-when-is-chatgpt-o3-mini-coming-out/
+https://brudirect.com/news.php?id=196709
 
 ## Some of my projects:
 

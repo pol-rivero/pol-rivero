@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-VPN shield to fade,  
-Microsoft’s cloak of safety,  
-Gone with the deadline.  
+Starliner drifts far,  
+Half a billion lost in space,  
+Boeing’s dreams on pause.  
 ```
 
 Reference:
 
-https://brudirect.com/news.php?id=196709
+https://www.nbcnewyork.com/news/business/money-report/boeings-starliner-losses-top-2-billion-after-spacecraft-program-reports-worst-year-yet/6135058/
 
 ## Some of my projects:
 

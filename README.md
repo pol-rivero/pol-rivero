@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starliner drifts far,  
-Half a billion lost in space,  
-Boeing’s dreams on pause.  
+Cows catch flu from birds,  
+Virus leaps through fields of green,  
+Silent threat persists.  
 ```
 
 Reference:
 
-https://www.nbcnewyork.com/news/business/money-report/boeings-starliner-losses-top-2-billion-after-spacecraft-program-reports-worst-year-yet/6135058/
+https://www.statnews.com/2025/02/05/usda-nevada-herds-different-bird-flu-strain-milk-testing/
 
 ## Some of my projects:
 

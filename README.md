@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cows battle avian  
-Flu’s harsh grip tightens still,  
-Nature's threat unfolds.  
+In shadows they seek,  
+Apple’s vaults now under threat,  
+Privacy at stake.  
 ```
 
 Reference:
 
-https://www.statnews.com/2025/02/05/usda-nevada-herds-different-bird-flu-strain-milk-testing/
+https://www.democraticunderground.com/100219999166
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In shadows they seek,  
-Apple’s vaults now under threat,  
-Privacy at stake.  
+Privacy at stake,  
+Apple faces quiet storm,  
+Trust crumbles like sand.  
 ```
 
 Reference:
 
-https://www.democraticunderground.com/100219999166
+https://www.phonearena.com/news/apple-watch-series-8-56-percent-off-deal_id167315
 
 ## Some of my projects:
 

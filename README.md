@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Privacy at stake,  
-Apple faces quiet storm,  
-Trust crumbles like sand.  
+Privacy in peril,  
+Whispers of the back door scheme,  
+Apple's trust in doubt.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Privacy in peril,  
-Whispers of the back door scheme,  
-Apple's trust in doubt.  
+In-house silicon,  
+OpenAI's bold new venture,  
+Chips to forge their path.  
 ```
 
 Reference:
 
-https://www.phonearena.com/news/apple-watch-series-8-56-percent-off-deal_id167315
+https://www.channelnewsasia.com/business/exclusive-openai-set-finalize-first-custom-chip-design-year-4928331
 
 ## Some of my projects:
 

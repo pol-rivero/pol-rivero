@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-In-house silicon,  
-OpenAI's bold new venture,  
-Chips to forge their path.  
+In-house chips rise,  
+OpenAI seeks its own path,  
+Silicon dreams bloom.  
 ```
 
 Reference:

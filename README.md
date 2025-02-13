@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In-house chips rise,  
-OpenAI seeks its own path,  
-Silicon dreams bloom.  
+Apple's bold move shines,  
+Streaming out of its own walls,  
+Rivals see the light.  
 ```
 
 Reference:
 
-https://www.channelnewsasia.com/business/exclusive-openai-set-finalize-first-custom-chip-design-year-4928331
+https://macdailynews.com/2025/02/12/apple-soon-to-unveil-android-app-for-apple-tv-in-effort-to-boost-subscribers/
 
 ## Some of my projects:
 

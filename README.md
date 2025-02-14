@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple's bold move shines,  
-Streaming out of its own walls,  
-Rivals see the light.  
+Bezos's dreams ascend,  
+As skies shimmer with loss' weight,  
+Stars flicker, hearts sink.  
 ```
 
 Reference:
 
-https://macdailynews.com/2025/02/12/apple-soon-to-unveil-android-app-for-apple-tv-in-effort-to-boost-subscribers/
+https://www.straitstimes.com/business/companies-markets/jeff-bezos-rocket-firm-blue-origin-bracing-for-job-cuts-after-years-of-expansion
 
 ## Some of my projects:
 

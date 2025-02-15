@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Bezos's dreams ascend,  
-As skies shimmer with loss' weight,  
-Stars flicker, hearts sink.  
+Cutting the sky's dreams,  
+Blue Origin's workforce shrinks,  
+A harsh launch of fate.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cutting the sky's dreams,  
-Blue Origin's workforce shrinks,  
-A harsh launch of fate.  
+Arm's chip unveiled,  
+Meta as the first key friend,  
+New paths in tech land.  
 ```
 
 Reference:
 
-https://www.straitstimes.com/business/companies-markets/jeff-bezos-rocket-firm-blue-origin-bracing-for-job-cuts-after-years-of-expansion
+https://www.fool.com/investing/2025/02/13/is-arm-holdings-stock-a-buy-now/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Arm sets its sights high,  
-Crafting chips for Meta soon,  
-A bold shift unfolds.  
+AI lending takes flight,  
+Upstart's prospects brightened now,  
+Investors take note.  
 ```
 
 Reference:
 
-https://www.fool.com/investing/2025/02/13/is-arm-holdings-stock-a-buy-now/
+https://tribune.net.ph/2025/02/17/deepseek-removed-from-s-korea-app-stores-pending-privacy-review
 
 ## Some of my projects:
 

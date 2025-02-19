@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI lending takes flight,  
-Upstart's prospects brightened now,  
-Investors take note.  
+Gaming dreams falter,  
+Not quite a laptop or more,  
+A tablet's lost fight.  
 ```
 
 Reference:
 
-https://tribune.net.ph/2025/02/17/deepseek-removed-from-s-korea-app-stores-pending-privacy-review
+https://www.gamesradar.com/hardware/asus-rog-flow-z13-2025-review/
 
 ## Some of my projects:
 

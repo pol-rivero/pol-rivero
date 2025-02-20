@@ -10,7 +10,7 @@ $[TECH_HAIKU_URLS]
 
 ## Some of my projects:
 
-- **[doot](https://github.com/pol-rivero/doot):** Turns out all existing dotfile managers suck, and the only way is to write my own. It's designed to be intuitive and extremely fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files, bootstrapping repositories.
+- **[doot](https://github.com/pol-rivero/doot):** Turns out all existing dotfile managers suck, and the only way is to write my own. It's designed to be intuitive and extremely fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.
 
 - **[Discord Audio Stream](https://github.com/pol-rivero/DiscordAudioStream):** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gaming dreams falter,  
-Not quite a laptop or more,  
-A tablet's lost fight.  
+AI co-scientist,  
+Guiding minds through dense data,  
+Knowledge blooms anew.  
 ```
 
 Reference:
 
-https://www.gamesradar.com/hardware/asus-rog-flow-z13-2025-review/
+https://www.notiulti.com/google-desarrolla-co-cientifico-de-ia-para-ayudar-a-los-investigadores/
 
 ## Some of my projects:
 

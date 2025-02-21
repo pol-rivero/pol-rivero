@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Amazon's app shelves  
-Close as echoes fade away,  
-Lost in the silence.  
+Amazon bids farewell,  
+Android store will close its doors,  
+Apps drift into night.  
 ```
 
 Reference:

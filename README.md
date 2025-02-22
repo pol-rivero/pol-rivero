@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Amazon bids farewell,  
-Android store will close its doors,  
-Apps drift into night.  
+Open code revealed,  
+DeepSeek shares its AI heart,  
+Transparent future.  
 ```
 
 Reference:
 
-https://www.neowin.net/news/amazon-to-shut-down-its-android-appstore-and-coins-program/
+https://kathmandupost.com/science-technology/2025/02/21/deepseek-to-share-some-ai-model-code-doubling-down-on-open-source
 
 ## Some of my projects:
 

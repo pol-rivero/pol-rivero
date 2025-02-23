@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Open code revealed,  
-DeepSeek shares its AI heart,  
-Transparent future.  
+Community Notes rise,  
+Truth in posts now shines brighter,  
+Voices join the call.  
 ```
 
 Reference:
 
-https://kathmandupost.com/science-technology/2025/02/21/deepseek-to-share-some-ai-model-code-doubling-down-on-open-source
+https://www.washingtontimes.com/news/2025/feb/21/meta-begins-accepting-applications-community-notes-program/
 
 ## Some of my projects:
 

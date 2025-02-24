@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Community Notes rise,  
-Truth in posts now shines brighter,  
-Voices join the call.  
+Lines of code unfurl,  
+DeepSeek's open-source vision,  
+Building trust in bytes.  
 ```
 
 Reference:
 
-https://www.washingtontimes.com/news/2025/feb/21/meta-begins-accepting-applications-community-notes-program/
+https://kathmandupost.com/science-technology/2025/02/21/deepseek-to-share-some-ai-model-code-doubling-down-on-open-source
 
 ## Some of my projects:
 

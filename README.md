@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lines of code unfurl,  
-DeepSeek's open-source vision,  
-Building trust in bytes.  
+Gmail's code expires,  
+SMS security fades,  
+QR codes take their stand.  
 ```
 
 Reference:
 
-https://kathmandupost.com/science-technology/2025/02/21/deepseek-to-share-some-ai-model-code-doubling-down-on-open-source
+https://www.xda-developers.com/gmail-getting-rid-of-sms-security-codes-to-protect-your-security/
 
 ## Some of my projects:
 

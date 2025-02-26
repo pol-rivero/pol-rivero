@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gmail's code expires,  
-SMS security fades,  
-QR codes take their stand.  
+Gemini's bright spark shines,  
+Unleashing code for all hands,  
+Creatives rejoice.  
 ```
 
 Reference:
 
-https://www.xda-developers.com/gmail-getting-rid-of-sms-security-codes-to-protect-your-security/
+https://rocketnews.com/2025/02/google-makes-gemini-code-assist-free-with-180000-code-completions-per-month-as-ai-powered-dev-race-heats-up/
 
 ## Some of my projects:
 

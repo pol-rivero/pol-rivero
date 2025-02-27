@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini's bright spark shines,  
-Unleashing code for all hands,  
-Creatives rejoice.  
+Search results refined,  
+Privacy's shield, alerts buzz,  
+Guard your data well.  
 ```
 
 Reference:
 
-https://rocketnews.com/2025/02/google-makes-gemini-code-assist-free-with-180000-code-completions-per-month-as-ai-powered-dev-race-heats-up/
+https://techcrunch.com/2025/02/26/google-makes-it-easier-to-delete-personal-info-from-search-results/
 
 ## Some of my projects:
 

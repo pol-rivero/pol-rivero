@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Search results refined,  
-Privacy's shield, alerts buzz,  
-Guard your data well.  
+Quantum leaps await,  
+Ocelot's promise shines bright,  
+Future in our grasp.  
 ```
 
 Reference:
 
-https://techcrunch.com/2025/02/26/google-makes-it-easier-to-delete-personal-info-from-search-results/
+https://www.silicon.co.uk/workspace/amazon-joins-quantum-race-with-new-ocelot-chip-601807
 
 ## Some of my projects:
 

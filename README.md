@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Quantum leaps await,  
-Ocelot's promise shines bright,  
-Future in our grasp.  
+New graphics arise,  
+AMD's vision in the skies,  
+Gaming's future glows.  
 ```
 
 Reference:
 
-https://www.silicon.co.uk/workspace/amazon-joins-quantum-race-with-new-ocelot-chip-601807
+https://www.digit.in/features/gaming/amd-announces-radeon-rx-9070-xt-and-rx-9070-with-ridiculously-low-pricing.html
 
 ## Some of my projects:
 

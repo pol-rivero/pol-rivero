@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New graphics arise,  
-AMD's vision in the skies,  
-Gaming's future glows.  
+Pixels dance in light,  
+AMD's power ascends high,  
+Gaming dreams take flight.  
 ```
 
 Reference:
 
-https://www.digit.in/features/gaming/amd-announces-radeon-rx-9070-xt-and-rx-9070-with-ridiculously-low-pricing.html
+https://www.neowin.net/news/amd-fsr-4-is-finally-here-touting-machine-learning-powered-upscaling/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Pixels dance in light,  
-AMD's power ascends high,  
-Gaming dreams take flight.  
+Lunar lander soars,  
+Dust and dreams beneath its feet,  
+Knowledge waits in light.  
 ```
 
 Reference:
 
-https://www.neowin.net/news/amd-fsr-4-is-finally-here-touting-machine-learning-powered-upscaling/
+https://thefrontierpost.com/private-lunar-lander-blue-ghost-touches-down-on-moon-with-special-delivery-for-nasa/
 
 ## Some of my projects:
 

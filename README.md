@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Blue Ghost descends,  
-Soft lunar dust embraces,  
-Robots teach and learn.  
+Apple stands its ground,  
+No backdoor for spies within,  
+Privacy prevails.  
 ```
 
 Reference:
 
-https://thefrontierpost.com/private-lunar-lander-blue-ghost-touches-down-on-moon-with-special-delivery-for-nasa/
+https://www.channelnewsasia.com/business/apple-appeals-overturn-uk-governments-back-door-order-financial-times-reports-4976791
 
 ## Some of my projects:
 

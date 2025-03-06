@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple stands its ground,  
-No backdoor for spies within,  
-Privacy prevails.  
+Apple's power surge,  
+M3 and M4 unite,  
+Creatives take flight.  
 ```
 
 Reference:
 
-https://www.channelnewsasia.com/business/apple-appeals-overturn-uk-governments-back-door-order-financial-times-reports-4976791
+https://www.macrumors.com/2025/03/04/amazon-100-off-m4-mac-mini/
 
 ## Some of my projects:
 

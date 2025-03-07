@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Apple's power surge,  
-M3 and M4 unite,  
-Creatives take flight.  
+Ariane soars high,  
+Defender of dreams and skies,  
+Europe's bold embrace.  
 ```
 
 Reference:
 
-https://www.macrumors.com/2025/03/04/amazon-100-off-m4-mac-mini/
+
+
+https://www.europe1.fr/technologies/la-fusee-europeenne-ariane-6-decolle-pour-son-premier-vol-commercial-666876
 
 ## Some of my projects:
 

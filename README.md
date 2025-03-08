@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ariane soars high,  
-Defender of dreams and skies,  
-Europe's bold embrace.  
+Lunar dreams topple,  
+Athena lies on her side,  
+Starlit hopes flicker.  
 ```
 
 Reference:
 
-
-
-https://www.europe1.fr/technologies/la-fusee-europeenne-ariane-6-decolle-pour-son-premier-vol-commercial-666876
+https://www.straitstimes.com/world/intuitive-machines-athena-lander-closing-in-on-lunar-touchdown-site
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Silent skies above,  
-X-37B returns,  
-Secrets from the stars.  
+High above the earth,  
+X-37B whispers bold,  
+Secrets in the stars.  
 ```
 
 Reference:

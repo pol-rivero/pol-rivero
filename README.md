@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-High above the earth,  
-X-37B whispers bold,  
-Secrets in the stars.  
+Tech titan returns,  
+Relativity takes flight now,  
+Future in his hands.  
 ```
 
 Reference:
 
-https://spaceflightnow.com/2025/03/07/u-s-air-forces-x-37b-spaceplane-lands-following-434-day-orbital-mission/
+https://www.berkshireeagle.com/nyt/eric-schmidt-joins-relativity-space-a-rocket-start-up-as-ceo/article_a36c5c03-dcb8-5f2e-9a96-637d5ed00e8f.html
 
 ## Some of my projects:
 

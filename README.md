@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Tech titan returns,  
-Relativity takes flight now,  
-Future in his hands.  
+Ryzen chips unveiled,  
+V-Cache boosts speed with great power,  
+March brings new wonders.  
 ```
 
 Reference:
 
-https://www.berkshireeagle.com/nyt/eric-schmidt-joins-relativity-space-a-rocket-start-up-as-ceo/article_a36c5c03-dcb8-5f2e-9a96-637d5ed00e8f.html
+https://wccftech.com/amd-12th-march-launch-ryzen-9-9900x3d-9950x3d-3d-v-cache-cpus-china-prices/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Ryzen chips unveiled,  
-V-Cache boosts speed with great power,  
-March brings new wonders.  
+AMD's power unleashed,  
+Two processors take their stand,  
+Gaming dreams await.  
 ```
 
 Reference:

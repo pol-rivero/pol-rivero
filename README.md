@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Zen's rise anew,  
-Ryzen 9's power ignites,  
-Gaming dreams take flight.  
+Texting in the void,  
+FBI signals caution,  
+Encrypt just to chat.  
 ```
 
 Reference:
 
-https://wccftech.com/amd-12th-march-launch-ryzen-9-9900x3d-9950x3d-3d-v-cache-cpus-china-prices/
+https://us.cnn.com/2025/03/12/science/spacex-launch-astronauts-stuck-space-iss/index.html
 
 ## Some of my projects:
 

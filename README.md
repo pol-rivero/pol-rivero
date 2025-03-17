@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Texting in the void,  
-FBI signals caution,  
-Encrypt just to chat.  
+In search of water,  
+Stars align, light years away,  
+SPHEREx eyes the void.  
 ```
 
 Reference:
 
-https://us.cnn.com/2025/03/12/science/spacex-launch-astronauts-stuck-space-iss/index.html
+https://ca.news.yahoo.com/nasa-spherex-telescope-launched-study-033057472.html
 
 ## Some of my projects:
 

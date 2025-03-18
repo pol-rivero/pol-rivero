@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In search of water,  
-Stars align, light years away,  
-SPHEREx eyes the void.  
+Lasers pierce the sky,  
+Taara's light links the lost now,  
+Against the strong tide.  
 ```
 
 Reference:
 
-https://ca.news.yahoo.com/nasa-spherex-telescope-launched-study-033057472.html
+https://www.ft.com/content/1331c131-7b89-47ab-8dd2-3ce6c6a2307a
 
 ## Some of my projects:
 

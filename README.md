@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lasers pierce the sky,  
-Taara's light links the lost now,  
-Against the strong tide.  
+Clouds gather strength,  
+Wiz and Google intertwine,  
+Security's new home.  
 ```
 
 Reference:
 
-https://www.ft.com/content/1331c131-7b89-47ab-8dd2-3ce6c6a2307a
+https://www.channelnewsasia.com/business/alphabet-back-deal-buy-cybersecurity-startup-wiz-30-billion-wsj-reports-5006496
 
 ## Some of my projects:
 

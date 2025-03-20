@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Clouds gather strength,  
-Wiz and Google intertwine,  
-Security's new home.  
+Fines loom over Google,  
+EU's rules tightening the grip,  
+Big Tech faces change.  
 ```
 
 Reference:
 
-https://www.channelnewsasia.com/business/alphabet-back-deal-buy-cybersecurity-startup-wiz-30-billion-wsj-reports-5006496
+https://finance.yahoo.com/news/google-hit-2-charges-under-143609043.html
 
 ## Some of my projects:
 

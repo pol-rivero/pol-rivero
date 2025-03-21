@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Fines loom over Google,  
-EU's rules tightening the grip,  
-Big Tech faces change.  
+Voices in delay,  
+Siri’s team restructured,  
+Hope for a comeback.  
 ```
 
 Reference:
 
-https://finance.yahoo.com/news/google-hit-2-charges-under-143609043.html
+
+
+https://9to5mac.com/2025/03/19/siri-cant-answer-what-month-is-it/
 
 ## Some of my projects:
 

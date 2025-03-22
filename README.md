@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Voices in delay,  
-Siri’s team restructured,  
-Hope for a comeback.  
+In a tangled web,  
+Cloudflare spins lies for the bots,  
+Truth fades in the maze.  
 ```
 
 Reference:
 
-
-
-https://9to5mac.com/2025/03/19/siri-cant-answer-what-month-is-it/
+https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/
 
 ## Some of my projects:
 

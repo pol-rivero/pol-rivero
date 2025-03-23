@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In a tangled web,  
-Cloudflare spins lies for the bots,  
-Truth fades in the maze.  
+Fighter jets take flight,  
+Boeing's wings embrace the skies,  
+Secrets in the air.  
 ```
 
 Reference:
 
-https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/
+https://www.stripes.com/theaters/us/2025-03-21/air-force-f47-fighter-jet-trump-17218466.html
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Jets rise to the sky,  
-Boeing's craft takes on the fight,  
-Drones in stealth unite.  
+Data lost in waves,  
+Google's missteps leave behind  
+Silent user fears.  
 ```
 
 Reference:
 
-https://www.stripes.com/theaters/us/2025-03-21/air-force-f47-fighter-jet-trump-17218466.html
+https://www.forbes.com/sites/daveywinder/2025/03/23/google-confirms-user-data-deletion-error-who-is-impacted-what-to-do/
 
 ## Some of my projects:
 

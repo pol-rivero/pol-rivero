@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Data lost in waves,  
-Google's missteps leave behind  
-Silent user fears.  
+From a prank to tool,  
+Nvidia's G-Assist shines,  
+Gaming dreams take flight.  
 ```
 
 Reference:
 
-https://www.forbes.com/sites/daveywinder/2025/03/23/google-confirms-user-data-deletion-error-who-is-impacted-what-to-do/
+https://beebom.com/nvidia-g-assist-ai-assistant-launched/
 
 ## Some of my projects:
 

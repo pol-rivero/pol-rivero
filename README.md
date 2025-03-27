@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-From a prank to tool,  
-Nvidia's G-Assist shines,  
-Gaming dreams take flight.  
+Vulcan takes to skies,  
+Guardians of space journeys,  
+Strength in unity.  
 ```
 
 Reference:
 
-https://beebom.com/nvidia-g-assist-ai-assistant-launched/
+
+
+https://www.defensenews.com/space/2025/03/26/space-force-oks-vulcan-rocket-as-spacex-competitor-for-military-launch/
 
 ## Some of my projects:
 

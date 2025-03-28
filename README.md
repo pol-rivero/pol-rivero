@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Vulcan takes to skies,  
-Guardians of space journeys,  
-Strength in unity.  
+Android's veil descends,  
+Open-source dreams now sealed tight,  
+Shadows cloak the code.  
 ```
 
 Reference:
 
-
-
-https://www.defensenews.com/space/2025/03/26/space-force-oks-vulcan-rocket-as-spacex-competitor-for-military-launch/
+https://www.zdnet.com/article/google-will-now-keep-android-development-a-secret-until-official-release/
 
 ## Some of my projects:
 

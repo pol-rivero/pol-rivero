@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Android's veil descends,  
-Open-source dreams now sealed tight,  
-Shadows cloak the code.  
+Cygnus grounded tight,  
+In transit, damage revealed,  
+Flight plans left on hold.  
 ```
 
 Reference:
 
-https://www.zdnet.com/article/google-will-now-keep-android-development-a-secret-until-official-release/
+https://www.interfax.ru/world/1017029
 
 ## Some of my projects:
 

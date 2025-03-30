@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cygnus grounded tight,  
-In transit, damage revealed,  
-Flight plans left on hold.  
+Cobol's shadows loom,  
+DOGE seeks a swift rebirth,  
+Can trust survive this?  
 ```
 
 Reference:
 
-https://www.interfax.ru/world/1017029
+https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/
 
 ## Some of my projects:
 

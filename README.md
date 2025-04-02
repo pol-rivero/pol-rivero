@@ -1,21 +1,27 @@
-# About me
 
-I make blazingly fast AI smart contracts for the Metaverse in Rust 🦀 🚀. I'm also self taught and the creator of Stigma, the world's first decentralized AI marketplace for AI-generated AI NFT wallpapers 🚀 🌕 (currently in pre-alpha).
+**Today's tech haiku:**
+```
+Rivals unite now,  
+With Model Context Protocol,  
+AI bridges the gap.  
+```
 
-In Stigma we believe that DeFi 💰 and AI-generated NFTs 🤡 will be the future of the Metaverse 📉📉. That's why we use AI to create AI-generated NFTs of AI-generated AI smart contracts. Our AI-generated NFTs are so unique that they are the only AI in the world that AI NFT smart contracts on their blockchain 🤯.  
-See our mission statement in [this video](https://youtu.be/cvh0nX08nRw).
+Reference:
 
+https://www.news9live.com/technology/artificial-intelligence/what-is-mcp-ai-tool-explained-2025-2835889
 
-## Contact me
+## Some of my projects:
 
-- [Twitter](https://twitter.com)
-- [LinkedIn](https://www.linkedin.com/company/facebook)
-- [Quora](https://www.quora.com/Whats-the-easiest-way-to-make-money-online)
-- [Email](mailto:GM.vikram.rahul.abishek.pranav.rajesh@gmail.hotmail.com)
-- [GitHub](https://github.com/dylanaraps/hello-world.rs)
-- [Facebook](https://www.facebook.com/LinkedIn)
-- [TikTok](https://www.tiktok.com)
-- [Hacker News](https://news.ycombinator.com)
-- [Google+](https://plus.google.com)
-- [MySpace](https://myspace.com)
-- [Vimeo](https://vimeo.com)
+- **[doot](https://github.com/pol-rivero/doot):** Turns out all existing dotfile managers suck, and the only way is to write my own. It's designed to be intuitive and extremely fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.
+
+- **[Discord Audio Stream](https://github.com/pol-rivero/DiscordAudioStream):** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.
+
+- **CESC16:** A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.  
+  - [Main repository](https://github.com/pol-rivero/CESC16) with documentation, schematics and some tools.  
+  - [Emulator](https://github.com/pol-rivero/CESC16-emulator) written in C++, using the ncurses library.  
+  - [ANSI C compiler](https://github.com/pol-rivero/lcc), by implementing a backend for the lcc retargetable compiler.  
+
+- **CESC:** Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.  
+  - [Main repository](https://github.com/pol-rivero/CESCA) with documentation, images and some tools.
+
+- **[Arduino VGA Terminal](https://github.com/pol-rivero/ArduinoVGA):** Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.  

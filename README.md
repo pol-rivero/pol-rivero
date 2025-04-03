@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Rivals unite now,  
-With Model Context Protocol,  
-AI bridges the gap.  
+Silent chains now break,  
+Seventy-nine faces caught,  
+Injustice unveiled.  
 ```
 
 Reference:
 
-https://www.news9live.com/technology/artificial-intelligence/what-is-mcp-ai-tool-explained-2025-2835889
+https://www.schwaebische.de/panorama/grosses-paedophilen-netzwerk-ausgehoben-79-festnahmen-3465185
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent chains now break,  
-Seventy-nine faces caught,  
-Injustice unveiled.  
+Nintendo's new dawn,  
+Pixels dance in bright array,  
+Gaming's light shines through.  
 ```
 
 Reference:
 
-https://www.schwaebische.de/panorama/grosses-paedophilen-netzwerk-ausgehoben-79-festnahmen-3465185
+https://nintendowire.com/news/2025/04/03/nintendo-has-confirmed-that-the-switch-2-uses-dlss-and-supports-ray-tracing/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Nintendo's new dawn,  
-Pixels dance in bright array,  
-Gaming's light shines through.  
+Midjourney's V7 dawns,  
+Artistry born anew, bright—  
+AI paints the dream.  
 ```
 
 Reference:
 
-https://nintendowire.com/news/2025/04/03/nintendo-has-confirmed-that-the-switch-2-uses-dlss-and-supports-ray-tracing/
+https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/
 
 ## Some of my projects:
 

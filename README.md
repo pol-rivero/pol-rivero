@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-V7 awakens art,  
-Colors dance through silent skies,  
-Midjourney's fresh light.  
+Images come alive,  
+Google's AI perceives more,  
+Searching with its eyes.  
 ```
 
 Reference:
 
-https://techcrunch.com/2025/04/03/midjourney-releases-its-first-new-ai-image-model-in-nearly-a-year/
+https://9to5google.com/2025/04/07/google-ai-mode-lens/
 
 ## Some of my projects:
 

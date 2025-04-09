@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Images come alive,  
-Google's AI perceives more,  
-Searching with its eyes.  
+Visual queries bloom,  
+Google's AI sees more than,  
+Questions turn to art.  
 ```
 
 Reference:

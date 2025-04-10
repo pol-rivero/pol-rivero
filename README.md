@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Visual queries bloom,  
-Google's AI sees more than,  
-Questions turn to art.  
+Eyes on the screen,  
+Copilot reads all details,  
+Assistance revealed.  
 ```
 
 Reference:
 
-https://9to5google.com/2025/04/07/google-ai-mode-lens/
+https://www.theverge.com/news/645666/microsoft-copilot-vision-windows-beta-testing
 
 ## Some of my projects:
 

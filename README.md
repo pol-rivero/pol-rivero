@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Eyes on the screen,  
-Copilot reads all details,  
-Assistance revealed.  
+Clouds of data rise,  
+Google charts a new course bright,  
+AI hopes take flight.  
 ```
 
 Reference:
 
-https://www.theverge.com/news/645666/microsoft-copilot-vision-windows-beta-testing
+https://siliconangle.com/2025/04/09/googles-cloud-based-ai-hypercomputer-gets-new-workhorse-ironwood-tpu/
 
 ## Some of my projects:
 

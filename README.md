@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Clouds of data rise,  
-Google charts a new course bright,  
-AI hopes take flight.  
+Science dreams curtailed,  
+NASA’s starlit hopes dimmed down,  
+Visions lost in cuts.  
 ```
 
 Reference:
 
-https://siliconangle.com/2025/04/09/googles-cloud-based-ai-hypercomputer-gets-new-workhorse-ironwood-tpu/
+https://www.washingtonpost.com/science/2025/04/11/nasa-science-budget-cuts-trump/
 
 ## Some of my projects:
 

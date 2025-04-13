@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Science dreams curtailed,  
-NASA’s starlit hopes dimmed down,  
-Visions lost in cuts.  
+NASA's stars dimmed,  
+Funding cuts eclipse the dreams,  
+Future missions lost.  
 ```
 
 Reference:

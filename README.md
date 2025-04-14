@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-NASA's stars dimmed,  
-Funding cuts eclipse the dreams,  
-Future missions lost.  
+Silent stars at stake,  
+NASA's dreams cut in half,  
+Endless night looms near.  
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent stars at stake,  
-NASA's dreams cut in half,  
-Endless night looms near.  
+Echoes of the sea,  
+Whistles translated by minds,  
+Dolphins speak at last.  
 ```
 
 Reference:
 
-https://www.washingtonpost.com/science/2025/04/11/nasa-science-budget-cuts-trump/
+https://www.neowin.net/news/google-launches-dolphingemma-a-new-llm-to-help-understand-what-dolphins-are-saying/
 
 ## Some of my projects:
 

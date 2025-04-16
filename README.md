@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Echoes of the sea,  
-Whistles translated by minds,  
-Dolphins speak at last.  
+Gemini's new video,  
+A doorway to the unknown,  
+Yet, underwhelmed we.  
 ```
 
 Reference:
 
-https://www.neowin.net/news/google-launches-dolphingemma-a-new-llm-to-help-understand-what-dolphins-are-saying/
+https://techcrunch.com/2025/04/15/googles-veo-2-video-generator-comes-to-gemini/
 
 ## Some of my projects:
 

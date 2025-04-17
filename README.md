@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini's new video,  
-A doorway to the unknown,  
-Yet, underwhelmed we.  
+RoboBee takes flight,  
+Graceful landings, soft and sure,  
+Nature's dance in code.  
 ```
 
 Reference:
 
-https://techcrunch.com/2025/04/15/googles-veo-2-video-generator-comes-to-gemini/
+https://techxplore.com/news/2025-04-robobee-crane-fly-legs-soft.html
 
 ## Some of my projects:
 

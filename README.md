@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-RoboBee takes flight,  
-Graceful landings, soft and sure,  
-Nature's dance in code.  
+Students flock to learn,  
+Google's gifts, a future bright,  
+Free AI awaits them.  
 ```
 
 Reference:
 
-https://techxplore.com/news/2025-04-robobee-crane-fly-legs-soft.html
+https://www.androidauthority.com/google-one-ai-premium-free-college-students-3545657/
 
 ## Some of my projects:
 

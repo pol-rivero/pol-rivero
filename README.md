@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Students flock to learn,  
-Google's gifts, a future bright,  
-Free AI awaits them.  
+Celebs claim to fly,  
+In space for just a short time,  
+But truth grounds their dreams.  
 ```
 
 Reference:
 
-https://www.androidauthority.com/google-one-ai-premium-free-college-students-3545657/
+https://www.lifezette.com/2025/04/sec-sean-duffy-shuts-down-celebrity-claims-of-being-real-astronauts-watch/
 
 ## Some of my projects:
 

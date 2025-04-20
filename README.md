@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Celebrities in space,  
-But not meeting criteria,  
-Astro dreams collide.  
+Celebrities soar high,  
+Yet, in space, rules must apply—  
+Not all can claim flight.  
 ```
 
 Reference:

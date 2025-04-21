@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Celebrities soar high,  
-Yet, in space, rules must apply—  
-Not all can claim flight.  
+Stars don’t wear fame,  
+Spaceflight's gates need their own key,  
+Astronauts not just names.  
 ```
 
 Reference:

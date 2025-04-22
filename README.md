@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Stars don’t wear fame,  
-Spaceflight's gates need their own key,  
-Astronauts not just names.  
+Recall's watchful eyes,  
+While user trust teeters close,  
+Privacy's thin line.  
 ```
 
 Reference:
 
-https://www.lifezette.com/2025/04/sec-sean-duffy-shuts-down-celebrity-claims-of-being-real-astronauts-watch/
+https://tjvnews.com/2025/04/microsofts-recall-feature-in-windows-11-sparks-new-privacy-backlash/
 
 ## Some of my projects:
 

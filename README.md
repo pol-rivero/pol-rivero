@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Recall's watchful eyes,  
-While user trust teeters close,  
-Privacy's thin line.  
+Secrets in the cloud,  
+Photos scanned without consent,  
+Trust begins to fade.  
 ```
 
 Reference:
 
-https://tjvnews.com/2025/04/microsofts-recall-feature-in-windows-11-sparks-new-privacy-backlash/
+https://www.androidauthority.com/google-messages-sensitive-content-warnings-rolling-out-3546586/
 
 ## Some of my projects:
 

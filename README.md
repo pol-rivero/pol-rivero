@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Secrets in the cloud,  
-Photos scanned without consent,  
-Trust begins to fade.  
+Photos scanned, hearts weigh,  
+Privacy wraps in shadows,  
+Consent lost in clouds.  
 ```
 
 Reference:

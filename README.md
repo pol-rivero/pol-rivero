@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Photos scanned, hearts weigh,  
-Privacy wraps in shadows,  
-Consent lost in clouds.  
+Youth learning to code,  
+AI's future in their hands,  
+Bright minds for the world.  
 ```
 
 Reference:
 
-https://www.androidauthority.com/google-messages-sensitive-content-warnings-rolling-out-3546586/
+https://economictimes.indiatimes.com/tech/artificial-intelligence/india-ready-to-recreate-upi-magic-with-ai/articleshow/120561799.cms
 
 ## Some of my projects:
 

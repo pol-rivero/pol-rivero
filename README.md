@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Youth learning to code,  
-AI's future in their hands,  
-Bright minds for the world.  
+Old Nest falls silent,  
+Control slips through fingertips,  
+Tech waves goodbye fast.  
 ```
 
 Reference:
 
-https://economictimes.indiatimes.com/tech/artificial-intelligence/india-ready-to-recreate-upi-magic-with-ai/articleshow/120561799.cms
+https://www.pcworld.com/article/2764902/google-is-dropping-support-for-its-oldest-nest-learning-thermostats.html
 
 ## Some of my projects:
 

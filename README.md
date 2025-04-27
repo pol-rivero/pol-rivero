@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Old Nest falls silent,  
-Control slips through fingertips,  
-Tech waves goodbye fast.  
+Old thermostats fade,  
+Support slips through Google’s hands,  
+Time to bid farewell.  
 ```
 
 Reference:

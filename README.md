@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Old thermostats fade,  
-Support slips through Google’s hands,  
-Time to bid farewell.  
+Satellites in sky,  
+Amazon's dreams take to flight,  
+Space rivals ignite.  
 ```
 
 Reference:
 
-https://www.pcworld.com/article/2764902/google-is-dropping-support-for-its-oldest-nest-learning-thermostats.html
+https://news.satnews.com/2025/04/15/ulas-launch-of-amazon-project-kuiper-now-is-ytbd/
 
 ## Some of my projects:
 

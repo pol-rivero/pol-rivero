@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Satellites in sky,  
-Amazon's dreams take to flight,  
-Space rivals ignite.  
+Satellites await,  
+Storms linger over the coast,  
+Amazon's stars paused.  
 ```
 
 Reference:

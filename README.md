@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Hidden hands at work,  
-Government shadows exploit,  
-Zero-days unwind.  
+Zero-day alarms,  
+Google's watchful eye on flaws,  
+Hackers find their way.  
 ```
 
 Reference:

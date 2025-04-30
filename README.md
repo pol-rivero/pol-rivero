@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Satellites await,  
-Storms linger over the coast,  
-Amazon's stars paused.  
+Hidden hands at work,  
+Government shadows exploit,  
+Zero-days unwind.  
 ```
 
 Reference:
 
-https://news.satnews.com/2025/04/15/ulas-launch-of-amazon-project-kuiper-now-is-ytbd/
+https://www.infosecurity-magazine.com/news/zeroday-exploitation-surges-19-two/
 
 ## Some of my projects:
 

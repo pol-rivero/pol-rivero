@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Billionaire's bold step,  
-To lead the stars to new dreams,  
-Change echoes through space.  
+Judge rules, App Store
+Commission must be abandoned,
+Fair trade in the stars.
 ```
 
 Reference:
 
-https://www.eveningsun.com/story/news/2025/04/30/jared-isaacman-billionaire-confirmed-nasa-senate-hearing-elon-musk/83345751007/
+
+
+https://www.chinadailyasia.com/hk/article/610825
 
 ## Some of my projects:
 

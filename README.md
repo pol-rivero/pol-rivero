@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Judge rules, App Store
-Commission must be abandoned,
-Fair trade in the stars.
+Mars dreams on a plane,  
+NASA’s focus sharply veers—  
+Moon and Mars beckon.  
 ```
 
 Reference:
 
-
-
-https://www.chinadailyasia.com/hk/article/610825
+https://www.aerospacetestinginternational.com/news/orion-artemis-ii-moon-spacecraft-completes-testing.html
 
 ## Some of my projects:
 

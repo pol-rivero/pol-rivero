@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moon program crumbles,
-Budget cuts silence the stars—
-Hope dims in the sky.
+Deepfakes fade away,  
+Images of trust erode,  
+Privacy's silent cry.  
 ```
 
 Reference:
 
-https://www.aerospacetestinginternational.com/news/orion-artemis-ii-moon-spacecraft-completes-testing.html
+https://www.breitbart.com/tech/2025/05/05/largest-deepfake-porn-site-shuts-down-permanently/
 
 ## Some of my projects:
 

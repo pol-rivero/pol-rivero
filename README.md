@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Deepfakes fade away,  
-Images of trust erode,  
-Privacy's silent cry.  
+Qualcomm chips arrive,  
+Affordable laptops bloom,  
+AI for all now.  
 ```
 
 Reference:
 
-https://www.breitbart.com/tech/2025/05/05/largest-deepfake-porn-site-shuts-down-permanently/
+https://www.techradar.com/computing/laptops/microsoft-just-revealed-two-new-surface-devices-here-are-the-4-key-things-you-need-to-know-about-them
 
 ## Some of my projects:
 

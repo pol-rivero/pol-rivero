@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Qualcomm chips arrive,  
-Affordable laptops bloom,  
-AI for all now.  
+Smart homes breathe with ease,  
+Matter’s quiet update flows,  
+Bringing peace to homes.  
 ```
 
 Reference:
 
-https://www.techradar.com/computing/laptops/microsoft-just-revealed-two-new-surface-devices-here-are-the-4-key-things-you-need-to-know-about-them
+https://www.theverge.com/news/662266/matter-spec-update1-4-1-nfc-multi-device-setup
 
 ## Some of my projects:
 

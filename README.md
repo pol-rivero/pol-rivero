@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Smart homes breathe with ease,  
-Matter’s quiet update flows,  
-Bringing peace to homes.  
+Fast government cuts,
+Musk's software speeds the downsizing,
+Jobs fade with new tools.
 ```
 
 Reference:
 
-https://www.theverge.com/news/662266/matter-spec-update1-4-1-nfc-multi-device-setup
+https://www.investing.com/news/economy-news/exclusivedogeled-software-revamp-to-speed-us-job-cuts-even-as-musk-steps-back-4031422
 
 ## Some of my projects:
 

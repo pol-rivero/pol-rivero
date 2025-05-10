@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Fast government cuts,
-Musk's software speeds the downsizing,
-Jobs fade with new tools.
+Software speeds layoffs,
+Government downsizing swift,
+Future in the cloud.
 ```
 
 Reference:

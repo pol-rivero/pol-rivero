@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Software speeds layoffs,
-Government downsizing swift,
-Future in the cloud.
+Energy Star fades out,
+Silent labels lose their shine,
+Efficiency silent.
 ```
 
 Reference:
 
-https://www.investing.com/news/economy-news/exclusivedogeled-software-revamp-to-speed-us-job-cuts-even-as-musk-steps-back-4031422
+https://lacrossetribune.com/article_e566eb64-b9cd-58e1-8897-4d83905d7bf8.html
 
 ## Some of my projects:
 

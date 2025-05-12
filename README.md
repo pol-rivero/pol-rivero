@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Energy Star fades out,
-Silent labels lose their shine,
-Efficiency silent.
+Energy star fading,
+Savings and trust now dismissed,
+Old labels lost shine.
 ```
 
 Reference:

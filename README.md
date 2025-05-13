@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Energy star fading,
-Savings and trust now dismissed,
-Old labels lost shine.
+Shadows cast on networks,  
+Silent malware lurks deep,  
+Trust now in the dark.  
 ```
 
 Reference:
 
-https://lacrossetribune.com/article_e566eb64-b9cd-58e1-8897-4d83905d7bf8.html
+https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/
 
 ## Some of my projects:
 

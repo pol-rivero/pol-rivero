@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Shadows cast on networks,  
-Silent malware lurks deep,  
-Trust now in the dark.  
+Security locked tight now,  
+Vulnerable users protected,  
+Android’s new shield.  
 ```
 
 Reference:
 
-https://arstechnica.com/security/2025/05/doge-software-engineers-computer-infected-by-info-stealing-malware/
+https://www.androidpolice.com/android-16-advanced-protection-mode-detailed/
 
 ## Some of my projects:
 

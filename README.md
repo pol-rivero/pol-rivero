@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI crafts new solutions,  
-Mathematics and science bloom,  
-Creativity soars.  
+Surface devices fade,  
+Tech shifts and silent exits,  
+New shapes remain close.  
 ```
 
 Reference:
 
-https://winbuzzer.com/2025/05/14/google-deepmind-unveils-alphaevolve-ai-agent-to-tackle-code-and-math-challenges-xcxwbn/
+https://www.windowscentral.com/hardware/surface/microsoft-surface-pcs-with-arm-based-amd-chip-could-arrive-in-2026
 
 ## Some of my projects:
 

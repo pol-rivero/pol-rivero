@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Surface devices fade,  
-Tech shifts and silent exits,  
-New shapes remain close.  
+Code aids to build,
+Silent scripts in ChatGPT's grasp,
+Debugging dreams fly high.
 ```
 
 Reference:
 
-https://www.windowscentral.com/hardware/surface/microsoft-surface-pcs-with-arm-based-amd-chip-could-arrive-in-2026
+https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/
 
 ## Some of my projects:
 

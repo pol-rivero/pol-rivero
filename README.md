@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Code awakens now,  
-Bug fixes and features take flight,  
-Crafted in silence.  
+Satellites fill the sky,  
+Earth's limit whispers near,  
+Regulations awaited.  
 ```
 
 Reference:
 
-https://techcrunch.com/2025/05/16/openai-launches-codex-an-ai-coding-agent-in-chatgpt/
+https://www.ndtv.com/science/as-satellite-numbers-soar-experts-warn-earths-space-may-soon-hit-its-limit-8451297
 
 ## Some of my projects:
 

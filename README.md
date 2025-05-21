@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Satellites fill the sky,  
-Earth's limit whispers near,  
-Regulations awaited.  
+Gemini's mind expands,  
+Multimodal learning grows,  
+Smartest yet it shines.  
 ```
 
 Reference:
 
-https://www.ndtv.com/science/as-satellite-numbers-soar-experts-warn-earths-space-may-soon-hit-its-limit-8451297
+https://9to5google.com/2025/05/17/nest-audio-gemini-colors/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini's mind expands,  
-Multimodal learning grows,  
-Smartest yet it shines.  
+Graphics beneath the clouds,  
+Silent power awakens,  
+Winds embrace the shore.  
 ```
 
 Reference:
 
-https://9to5google.com/2025/05/17/nest-audio-gemini-colors/
+https://ktar.com/national-news/developer-to-resume-ny-offshore-wind-project-after-trump-administration-lifts-pause/5707665/
 
 ## Some of my projects:
 

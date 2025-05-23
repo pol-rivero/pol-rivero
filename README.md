@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Graphics beneath the clouds,  
-Silent power awakens,  
-Winds embrace the shore.  
+Bookmarks lost in time,
+Mozilla's farewell to Pocket,
+Web moments fade fast.
 ```
 
 Reference:
 
-https://ktar.com/national-news/developer-to-resume-ny-offshore-wind-project-after-trump-administration-lifts-pause/5707665/
+
+
+https://betanews.com/2025/05/22/mozilla-is-shutting-down-pocket/
 
 ## Some of my projects:
 

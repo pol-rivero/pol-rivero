@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Bookmarks lost in time,
-Mozilla's farewell to Pocket,
-Web moments fade fast.
+Tariffs threaten the deal,  
+iPhones face the costly toll,  
+Trade battles ripple.  
 ```
 
 Reference:
 
-
-
-https://betanews.com/2025/05/22/mozilla-is-shutting-down-pocket/
+https://www.hindustantimes.com/world-news/us-news/apple-to-pay-25-tariff-if-iphones-are-not-made-in-us-donald-trump-101748000004434.html
 
 ## Some of my projects:
 

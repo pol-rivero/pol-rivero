@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Tariffs threaten the deal,  
-iPhones face the costly toll,  
-Trade battles ripple.  
+U.S. tariffs loom high,  
+Apple's hope for home-made,  
+Trade winds blow anew.  
 ```
 
 Reference:

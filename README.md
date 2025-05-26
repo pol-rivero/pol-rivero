@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-U.S. tariffs loom high,  
-Apple's hope for home-made,  
-Trade winds blow anew.  
+Apple's future at stake,
+Tariffs threaten production,
+Choices now unfold.
 ```
 
 Reference:

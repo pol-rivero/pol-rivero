@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apple's future at stake,
-Tariffs threaten production,
-Choices now unfold.
+US tariffs on iPhones,  
+Trump's demand sparks tension,  
+Made in America.  
 ```
 
 Reference:

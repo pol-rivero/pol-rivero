@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-US tariffs on iPhones,  
-Trump's demand sparks tension,  
-Made in America.  
+Starship climbs anew,  
+Broken stars aspire high,  
+Dreams reach distant skies.  
 ```
 
 Reference:
 
-https://www.hindustantimes.com/world-news/us-news/apple-to-pay-25-tariff-if-iphones-are-not-made-in-us-donald-trump-101748000004434.html
+https://www.forbes.com/sites/jamiecartereurope/2025/05/27/musks-spacex-to-launch-starship-flight-test-tuesday---when-to-watch/
 
 ## Some of my projects:
 

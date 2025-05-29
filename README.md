@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starship climbs anew,  
-Broken stars aspire high,  
-Dreams reach distant skies.  
+Videos gather their views,  
+Count tracks each curious eye,  
+Numbers tell the tale.  
 ```
 
 Reference:
 
-https://www.forbes.com/sites/jamiecartereurope/2025/05/27/musks-spacex-to-launch-starship-flight-test-tuesday---when-to-watch/
+https://bgr.com/tech/10-year-google-photos-anniversary-brings-brand-new-ai-features/
 
 ## Some of my projects:
 

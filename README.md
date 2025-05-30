@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Videos gather their views,  
-Count tracks each curious eye,  
-Numbers tell the tale.  
+New software horizon,  
+iPhone’s name takes a bold leap,  
+Change echoes through time.  
 ```
 
 Reference:
 
-https://bgr.com/tech/10-year-google-photos-anniversary-brings-brand-new-ai-features/
+https://rocketnews.com/2025/05/apple-to-change-the-way-it-names-operating-systems-report-says/
 
 ## Some of my projects:
 

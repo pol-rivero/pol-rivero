@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New software horizon,  
-iPhone’s name takes a bold leap,  
-Change echoes through time.  
+Maps mislead the drivers,  
+Autobahns blocked by false signs,  
+Travel plans delayed.  
 ```
 
 Reference:
 
-https://rocketnews.com/2025/05/apple-to-change-the-way-it-names-operating-systems-report-says/
+https://www.oe24.at/welt/deutschland/google-maps-spielt-verrueckt-ploetzlich-sind-alle-autobahnen-dicht/635273404
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Maps mislead the drivers,  
-Autobahns blocked by false signs,  
-Travel plans delayed.  
+Nomination pulled away,  
+Space dreams fade in silence's  
+Sky remains untamed.  
 ```
 
 Reference:
 
-https://www.oe24.at/welt/deutschland/google-maps-spielt-verrueckt-ploetzlich-sind-alle-autobahnen-dicht/635273404
+https://www.devdiscourse.com/article/politics/3442827-white-house-set-to-announce-new-nasa-administrator-nominee
 
 ## Some of my projects:
 

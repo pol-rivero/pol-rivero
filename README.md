@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Nomination pulled away,  
-Space dreams fade in silence's  
-Sky remains untamed.  
+Spaceship dreams delayed,  
+Politics halt the ascent,  
+Mars waits in silence.  
 ```
 
 Reference:

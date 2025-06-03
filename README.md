@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Spaceship dreams delayed,  
-Politics halt the ascent,  
-Mars waits in silence.  
+Confusing USB ports,  
+Microsoft aims to clarify,  
+Simpler connections.  
 ```
 
 Reference:
 
-https://www.devdiscourse.com/article/politics/3442827-white-house-set-to-announce-new-nasa-administrator-nominee
+https://www.frandroid.com/?p=2633265
 
 ## Some of my projects:
 

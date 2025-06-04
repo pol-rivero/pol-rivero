@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Confusing USB ports,  
-Microsoft aims to clarify,  
-Simpler connections.  
+NASA's dreams decline,  
+Cosmos paused in budget's grip,  
+Stars wait in silence.  
 ```
 
 Reference:
 
-https://www.frandroid.com/?p=2633265
+https://www.sunherald.com/opinion/us-viewpoints/article307775060.html
 
 ## Some of my projects:
 

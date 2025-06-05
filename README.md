@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-NASA's dreams decline,  
-Cosmos paused in budget's grip,  
-Stars wait in silence.  
+Self in digital wear,  
+Samsung’s lock screen shop glows,  
+Fashion at a swipe.  
 ```
 
 Reference:
 
-https://www.sunherald.com/opinion/us-viewpoints/article307775060.html
+https://newspatrolling.com/glance-and-samsung-galaxy-store-partner-to-redefine-mobile-commerce-launching-a-new-ai-shopping-experience-for-samsung-users-in-the-us/
 
 ## Some of my projects:
 

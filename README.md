@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Self in digital wear,  
-Samsung’s lock screen shop glows,  
-Fashion at a swipe.  
+Speeding AI race,
+Regulation’s cautious sail,
+Future’s uncertain.
 ```
 
 Reference:
 
-https://newspatrolling.com/glance-and-samsung-galaxy-store-partner-to-redefine-mobile-commerce-launching-a-new-ai-shopping-experience-for-samsung-users-in-the-us/
+https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-says-proposed-10-year-ban-on-state-ai-regulation-too-blunt-in-nyt-op-ed/articleshow/121648708.cms
 
 ## Some of my projects:
 

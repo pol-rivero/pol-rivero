@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Speeding AI race,
-Regulation’s cautious sail,
-Future’s uncertain.
+Regulation's sharp edge,  
+Fast-evolving AI calls,  
+Balance, not pause.  
 ```
 
 Reference:

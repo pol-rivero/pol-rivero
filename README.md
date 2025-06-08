@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Regulation's sharp edge,  
-Fast-evolving AI calls,  
-Balance, not pause.  
+Feuds ignite with sharp words,  
+Spaceships face twilight's end,  
+Power struggles clash.  
 ```
 
 Reference:
 
-https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-ceo-says-proposed-10-year-ban-on-state-ai-regulation-too-blunt-in-nyt-op-ed/articleshow/121648708.cms
+https://www.livemint.com/news/donald-trump-targets-elon-musk-s-government-contracts-musk-responds-will-decommission-dragon-spacecraft-11749156114503.html
 
 ## Some of my projects:
 

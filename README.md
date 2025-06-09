@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Feuds ignite with sharp words,  
-Spaceships face twilight's end,  
-Power struggles clash.  
+Dependence on one tall
+Rockets scarce, rivals must rise
+Stars need many paths
 ```
 
 Reference:

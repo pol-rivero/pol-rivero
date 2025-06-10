@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Dependence on one tall
-Rockets scarce, rivals must rise
-Stars need many paths
+Silent software changes,  
+Rivals race with bold AI—  
+Subtle steps remain.  
 ```
 
 Reference:
 
-https://www.livemint.com/news/donald-trump-targets-elon-musk-s-government-contracts-musk-responds-will-decommission-dragon-spacecraft-11749156114503.html
+https://www.devdiscourse.com/article/technology/3453018-apple-unveils-subtle-ai-features-in-modest-software-update
 
 ## Some of my projects:
 

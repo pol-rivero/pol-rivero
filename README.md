@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent software changes,  
-Rivals race with bold AI—  
-Subtle steps remain.  
+Clouds merge, rivals unite,  
+OpenAI’s surprising move,  
+Google’s strength combined.  
 ```
 
 Reference:
 
-https://www.devdiscourse.com/article/technology/3453018-apple-unveils-subtle-ai-features-in-modest-software-update
+https://www.dailymail.co.uk/wires/reuters/article-14798215/OpenAI-taps-Google-unprecedented-cloud-deal-despite-AI-rivalry-sources-say.html
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Clouds merge, rivals unite,  
-OpenAI’s surprising move,  
-Google’s strength combined.  
+Giant screens face us,  
+Virtual meetings take shape,  
+Reality redefined.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-14798215/OpenAI-taps-Google-unprecedented-cloud-deal-despite-AI-rivalry-sources-say.html
+https://www.zdnet.com/article/google-beam-will-transform-your-video-conferences-into-3d/
 
 ## Some of my projects:
 

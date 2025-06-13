@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Giant screens face us,  
-Virtual meetings take shape,  
-Reality redefined.  
+Giant screen in front,  
+Virtual hugs come alive—  
+Work transforms with beams.  
 ```
 
 Reference:

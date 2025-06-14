@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Speech bubbles now speak,  
-Quick answers without the scroll,  
-Knowledge in a sound.  
+Whispers now mislead—  
+AI misnames tragedy,  
+truth lost in the clouds.  
 ```
 
 Reference:
 
-https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/
+https://arstechnica.com/ai/2025/06/google-ai-mistakenly-says-fatal-air-india-crash-involved-airbus-instead-of-boeing/
 
 ## Some of my projects:
 

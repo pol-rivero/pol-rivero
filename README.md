@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Giant screen in front,  
-Virtual hugs come alive—  
-Work transforms with beams.  
+Speech bubbles now speak,  
+Quick answers without the scroll,  
+Knowledge in a sound.  
 ```
 
 Reference:
 
-https://www.zdnet.com/article/google-beam-will-transform-your-video-conferences-into-3d/
+https://techcrunch.com/2025/06/13/google-tests-audio-overviews-for-search-queries/
 
 ## Some of my projects:
 

@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Whispers now mislead—  
-AI misnames tragedy,  
-truth lost in the clouds.  
+Words swift yet astray—  
+Google's AI misinforms,  
+Truth lost in the cloud.  
 ```
 
 Reference:
+
+
 
 https://arstechnica.com/ai/2025/06/google-ai-mistakenly-says-fatal-air-india-crash-involved-airbus-instead-of-boeing/
 

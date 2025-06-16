@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Words swift yet astray—  
-Google's AI misinforms,  
-Truth lost in the cloud.  
+Voices speak false truths—  
+Google's AI stumbles, wrong  
+plane named in tragedy.  
 ```
 
 Reference:

@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Voices speak false truths—  
-Google's AI stumbles, wrong  
-plane named in tragedy.  
+Chats once ad-free bloom,  
+WhatsApp shifts its silent pledge—  
+screens whisper commerce.  
 ```
 
 Reference:
 
-
-
-https://arstechnica.com/ai/2025/06/google-ai-mistakenly-says-fatal-air-india-crash-involved-airbus-instead-of-boeing/
+https://www.mirror.co.uk/tech/whatsapp-update-new-feature-changes-35385457
 
 ## Some of my projects:
 

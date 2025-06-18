@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chats once ad-free bloom,  
-WhatsApp shifts its silent pledge—  
-screens whisper commerce.  
+WhatsApp once ad-free,  
+Now banners bloom on our chats—  
+Silent scrolls interrupt.  
 ```
 
 Reference:
 
-https://www.mirror.co.uk/tech/whatsapp-update-new-feature-changes-35385457
+https://www.xatakamovil.com/aplicaciones/publicidad-llega-a-whatsapp-meta-anade-anuncios-unica-app-que-todavia-se-salvaba
 
 ## Some of my projects:
 

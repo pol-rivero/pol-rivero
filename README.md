@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-WhatsApp once ad-free,  
-Now banners bloom on our chats—  
-Silent scrolls interrupt.  
+Surge through fragile grid—  
+Iberia plunged darkness,  
+Voltage chains collapse.  
 ```
 
 Reference:
 
-https://www.xatakamovil.com/aplicaciones/publicidad-llega-a-whatsapp-meta-anade-anuncios-unica-app-que-todavia-se-salvaba
+
+
+https://www.diariodeibiza.es/economia/2025/06/17/gobierno-aprueba-informe-causas-gran-apagon-28-abril-118705143.html
 
 ## Some of my projects:
 

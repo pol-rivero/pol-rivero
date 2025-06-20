@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Surge through fragile grid—  
-Iberia plunged darkness,  
-Voltage chains collapse.  
+Starship flames ascend—  
+Mars-bound dreams bloom into smoke,  
+stars still out of reach.  
 ```
 
 Reference:
 
-
-
-https://www.diariodeibiza.es/economia/2025/06/17/gobierno-aprueba-informe-causas-gran-apagon-28-abril-118705143.html
+https://www.digitaltrends.com/space/watch-spacex-test-starship-engine-ahead-of-10th-flight-test/
 
 ## Some of my projects:
 

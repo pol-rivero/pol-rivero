@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Starship flames ascend—  
-Mars-bound dreams bloom into smoke,  
-stars still out of reach.  
+Blazing data storm—  
+Seven terabits rage fierce,  
+Servers gasp for air.  
 ```
 
 Reference:
 
-https://www.digitaltrends.com/space/watch-spacex-test-starship-engine-ahead-of-10th-flight-test/
+
+
+https://cybernews.com/security/record-shattering-ddos-attack-nears-10tbps/
 
 ## Some of my projects:
 

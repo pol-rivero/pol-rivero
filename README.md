@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Blazing data storm—  
-Seven terabits rage fierce,  
-Servers gasp for air.  
+Skyward flames erupt—  
+Starship's dreams ignite the night,  
+ashes birth new dawn.  
 ```
 
 Reference:
 
-
-
-https://cybernews.com/security/record-shattering-ddos-attack-nears-10tbps/
+https://www.digitaltrends.com/space/watch-spacex-test-starship-engine-ahead-of-10th-flight-test/
 
 ## Some of my projects:
 

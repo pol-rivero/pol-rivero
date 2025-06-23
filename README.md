@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Skyward flames erupt—  
-Starship's dreams ignite the night,  
-ashes birth new dawn.  
+Flood of shadows rise—  
+seven terabits unleashed,  
+web buckles and bends.  
 ```
 
 Reference:
 
-https://www.digitaltrends.com/space/watch-spacex-test-starship-engine-ahead-of-10th-flight-test/
+https://cybernews.com/security/record-shattering-ddos-attack-nears-10tbps/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Flood of shadows rise—  
-seven terabits unleashed,  
-web buckles and bends.  
+Atlas cuts the sky—  
+Kuiper's orbit takes flight,  
+Musk's stars challenged now.  
 ```
 
 Reference:
 
-https://cybernews.com/security/record-shattering-ddos-attack-nears-10tbps/
+https://spaceflightnow.com/2025/06/22/live-coverage-ula-to-launch-kuiper-2-mission-on-atlas-5-rocket-from-cape-canaveral/
 
 ## Some of my projects:
 

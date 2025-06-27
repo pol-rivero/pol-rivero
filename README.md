@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Robots roam unchained—  
-DeepMind grants them offline minds,  
-beyond clouds they stride.  
+Spacecraft silent now—  
+Dreams drift beneath ocean waves,  
+Mission lost at sea.  
 ```
 
 Reference:
 
-https://arstechnica.com/google/2025/06/google-releases-first-cloud-free-ai-robotics-model/
+
+
+https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/
 
 ## Some of my projects:
 

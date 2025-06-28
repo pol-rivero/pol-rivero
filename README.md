@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Spacecraft silent now—  
-Dreams drift beneath ocean waves,  
-Mission lost at sea.  
+Blue screen fades to black  
+An era of dread departs—  
+Windows bids goodbye  
 ```
 
 Reference:
 
 
 
-https://www.wired.com/story/exploration-company-mission-possible-spacecraft-orbit-lost/
+https://www.ndtv.com/world-news/microsoft-is-ending-its-infamous-windows-blue-screen-of-death-8773419
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Blue screen fades to black  
-An era of dread departs—  
-Windows bids goodbye  
+Blue fades into black—  
+Windows crashes quietly,  
+end of an era.  
 ```
 
 Reference:

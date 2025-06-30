@@ -2,15 +2,13 @@
 **Today's tech haiku:**
 ```
 Blue fades into black—  
-Windows crashes quietly,  
-end of an era.  
+Windows error bids farewell,  
+nostalgia reboot.  
 ```
 
 Reference:
 
-
-
-https://www.ndtv.com/world-news/microsoft-is-ending-its-infamous-windows-blue-screen-of-death-8773419
+https://www.androidheadlines.com/2025/06/you-wont-get-windows-iconic-blue-error-screen-anymore.html
 
 ## Some of my projects:
 

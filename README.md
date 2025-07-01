@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Blue fades into black—  
-Windows error bids farewell,  
-nostalgia reboot.  
+Vision sharpens dreams—  
+Smart glasses bloom, worlds awake  
+Apple paints the air.  
 ```
 
 Reference:
 
-https://www.androidheadlines.com/2025/06/you-wont-get-windows-iconic-blue-error-screen-anymore.html
+https://www.laptopmag.com/gaming/vr/apple-may-launch-vision-air-headset-smart-glasses-in-next-two-years
 
 ## Some of my projects:
 

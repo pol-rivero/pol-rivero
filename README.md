@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Vision sharpens dreams—  
-Smart glasses bloom, worlds awake  
-Apple paints the air.  
+Hidden tax surprise—  
+senators puzzled, disowned.  
+Wind and sun await.  
 ```
 
 Reference:
 
-https://www.laptopmag.com/gaming/vr/apple-may-launch-vision-air-headset-smart-glasses-in-next-two-years
+
+
+http://coloradosun.com/2025/06/30/colorado-clean-energy-cuts-u-s-senate-budget/
 
 ## Some of my projects:
 

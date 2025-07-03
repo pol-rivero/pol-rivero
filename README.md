@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Hidden tax surprise—  
-senators puzzled, disowned.  
-Wind and sun await.  
+Silent bots swarm web,  
+Cloudflare shields in shadow fight—  
+Guardians arise.  
 ```
 
 Reference:
 
-
-
-http://coloradosun.com/2025/06/30/colorado-clean-energy-cuts-u-s-senate-budget/
+https://www.businessinsider.com/cloudflare-block-ai-crawlers-by-default-payment-for-access-2025-6
 
 ## Some of my projects:
 

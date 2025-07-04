@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent bots swarm web,  
-Cloudflare shields in shadow fight—  
-Guardians arise.  
+Silent spy exposed—  
+Passwords spilled in plain daylight;  
+Trust betrayed by stealth.  
 ```
 
 Reference:
 
-https://www.businessinsider.com/cloudflare-block-ai-crawlers-by-default-payment-for-access-2025-6
+https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/
 
 ## Some of my projects:
 

@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Silent spy exposed—  
-Passwords spilled in plain daylight;  
-Trust betrayed by stealth.  
+Prompts shaping visions—  
+AI crafts lifelike worlds now  
+India awakes.  
 ```
 
 Reference:
 
-https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/
+
+
+https://www.techworm.net/2025/06/google-launches-veo-3-on-vertex-ai.html
 
 ## Some of my projects:
 

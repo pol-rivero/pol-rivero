@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Prompts shaping visions—  
-AI crafts lifelike worlds now  
-India awakes.  
+Silent stalker hides—  
+Betrayed secrets spill and flow,  
+Trust fractured unseen.  
 ```
 
 Reference:
 
-
-
-https://www.techworm.net/2025/06/google-launches-veo-3-on-vertex-ai.html
+https://techcrunch.com/2025/07/02/data-breach-reveals-catwatchful-stalkerware-spying-on-thousands-android-phones/
 
 ## Some of my projects:
 

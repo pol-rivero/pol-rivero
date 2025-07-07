@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Silent stalker hides—  
-Betrayed secrets spill and flow,  
-Trust fractured unseen.  
+Silent spy revealed—  
+Passwords scatter to the wind,  
+Trust shattered in stealth.  
 ```
 
 Reference:

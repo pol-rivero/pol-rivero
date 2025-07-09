@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Prompts breathe life anew—  
-AI crafts scenes rich and clear,  
-Videos bloom now.  
+Inbox floods retreat—  
+One-click freedom brings relief,  
+Subscriptions tamed now.  
 ```
 
 Reference:
 
-
-
-https://www.techworm.net/2025/06/google-launches-veo-3-on-vertex-ai.html
+https://9to5google.com/2025/07/08/gmail-manage-subscriptions/
 
 ## Some of my projects:
 

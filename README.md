@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Inbox floods retreat—  
-One-click freedom brings relief,  
-Subscriptions tamed now.  
+Inbox fills with noise—  
+One tab brings silent order,  
+Emails fade away.
 ```
 
 Reference:
+
+
 
 https://9to5google.com/2025/07/08/gmail-manage-subscriptions/
 

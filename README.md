@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Inbox fills with noise—  
-One tab brings silent order,  
-Emails fade away.
+Gravity unbound—  
+Drugs crafted in cosmic labs,  
+Healing from the stars.  
 ```
 
 Reference:
 
-
-
-https://9to5google.com/2025/07/08/gmail-manage-subscriptions/
+https://www.channelnewsasia.com/business/varda-space-raises-187-million-accelerate-development-drugs-space-5231741
 
 ## Some of my projects:
 

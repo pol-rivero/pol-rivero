@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Gravity unbound—  
-Drugs crafted in cosmic labs,  
-Healing from the stars.  
+Silent satellites,
+Dancing threat in orbit's dark—
+Mysteries unfold.
 ```
 
 Reference:
 
-https://www.channelnewsasia.com/business/varda-space-raises-187-million-accelerate-development-drugs-space-5231741
+
+
+http://theconversation.com/spacecraft-equipped-with-a-solar-sail-could-deliver-earlier-warnings-of-space-weather-threats-to-earths-technologies-259877
 
 ## Some of my projects:
 

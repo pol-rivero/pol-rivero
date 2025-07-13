@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Silent satellites,
-Dancing threat in orbit's dark—
-Mysteries unfold.
+Killer satellites—
+Silent dancers roam above,
+Orbit's shadow play.
 ```
 
 Reference:

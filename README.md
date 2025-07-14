@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Killer satellites—
-Silent dancers roam above,
-Orbit's shadow play.
+Silent sails unfold—  
+solar wind whispers warning,  
+storms revealed in time.  
 ```
 
 Reference:
-
-
 
 http://theconversation.com/spacecraft-equipped-with-a-solar-sail-could-deliver-earlier-warnings-of-space-weather-threats-to-earths-technologies-259877
 

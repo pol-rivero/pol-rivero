@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Silent sails unfold—  
-solar wind whispers warning,  
-storms revealed in time.  
+Chrome and Android blend,  
+Seamless paths for apps to flow—  
+One device, one world.
 ```
 
 Reference:
 
-http://theconversation.com/spacecraft-equipped-with-a-solar-sail-could-deliver-earlier-warnings-of-space-weather-threats-to-earths-technologies-259877
+
+
+https://news.az/news/google-confirms-plans-to-merge-chrome-os-and-android-into-one-unified-platform
 
 ## Some of my projects:
 

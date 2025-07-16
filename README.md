@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chrome and Android blend,  
-Seamless paths for apps to flow—  
-One device, one world.
+Nvidia warns loud—  
+memory hammers at the gates,  
+bits drift in silence.  
 ```
 
 Reference:
 
-
-
-https://news.az/news/google-confirms-plans-to-merge-chrome-os-and-android-into-one-unified-platform
+https://www.itsecuritynews.info/gpuhammer-first-rowhammer-attack-targeting-nvidia-gpus/
 
 ## Some of my projects:
 

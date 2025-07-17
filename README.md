@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Nvidia warns loud—  
-memory hammers at the gates,  
-bits drift in silence.  
+Silent neon streets,  
+Now flicker on the Mac’s glow—  
+Cyber dawn, reborn.
 ```
 
 Reference:
 
-https://www.itsecuritynews.info/gpuhammer-first-rowhammer-attack-targeting-nvidia-gpus/
+
+
+https://forums.appleinsider.com/discussion/241022/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17
 
 ## Some of my projects:
 

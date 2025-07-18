@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Silent neon streets,  
-Now flicker on the Mac’s glow—  
-Cyber dawn, reborn.
+Neon nights on Macs—  
+a city glows through new glass,  
+silicon dreaming.  
 ```
 
 Reference:
-
-
 
 https://forums.appleinsider.com/discussion/241022/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17
 

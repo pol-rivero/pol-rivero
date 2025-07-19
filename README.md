@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Neon nights on Macs—  
-a city glows through new glass,  
-silicon dreaming.  
+Secret code unveiled,  
+Innovation wrapped in court—  
+Apple draws a line.  
 ```
 
 Reference:
 
-https://forums.appleinsider.com/discussion/241022/cyberpunk-2077-ultimate-edition-coming-to-apple-silicon-macs-on-july-17
+https://www.macrumors.com/2025/07/17/apple-sues-jon-prosser-ios-26-leaks/
 
 ## Some of my projects:
 

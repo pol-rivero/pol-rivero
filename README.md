@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Secret code unveiled,  
-Innovation wrapped in court—  
-Apple draws a line.  
+In Tokyo, minds raced—  
+AI swift, but humans dream.  
+One coder prevailed.
 ```
 
 Reference:
 
-https://www.macrumors.com/2025/07/17/apple-sues-jon-prosser-ios-26-leaks/
+
+
+https://www.thehansindia.com/technology/tech-news/human-coder-triumphs-over-openai-in-10-hour-atcoder-showdown-989395
 
 ## Some of my projects:
 

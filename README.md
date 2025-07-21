@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-In Tokyo, minds raced—  
-AI swift, but humans dream.  
-One coder prevailed.
+Human coder wins—  
+ten hours, mind against machine,  
+will outpaces code.
 ```
 
 Reference:

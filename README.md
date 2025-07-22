@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Human coder wins—  
-ten hours, mind against machine,  
-will outpaces code.
+Ten hours, mind and code—  
+Man outpaces the machine,  
+Flesh conquers the wire.
 ```
 
 Reference:
 
 
 
-https://www.thehansindia.com/technology/tech-news/human-coder-triumphs-over-openai-in-10-hour-atcoder-showdown-989395
+https://www.businessinsider.nl/a-programmer-beat-an-openai-tool-at-coding-he-says-the-ai-made-him-push-himself-to-win/
 
 ## Some of my projects:
 

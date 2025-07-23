@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Ten hours, mind and code—  
-Man outpaces the machine,  
-Flesh conquers the wire.
+AI summaries
+sip the essence of the web—
+fewer clicks ripple.
 ```
 
 Reference:
 
 
 
-https://www.businessinsider.nl/a-programmer-beat-an-openai-tool-at-coding-he-says-the-ai-made-him-push-himself-to-win/
+https://www.theregister.com/2025/07/22/google_ai_overviews_suppress_search/
 
 ## Some of my projects:
 

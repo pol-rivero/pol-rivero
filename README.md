@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-AI summaries
-sip the essence of the web—
-fewer clicks ripple.
+One plan shields three screens—  
+AppleCare joins hands, protects  
+Tech comfort, bundled.
 ```
 
 Reference:
 
 
 
-https://www.theregister.com/2025/07/22/google_ai_overviews_suppress_search/
+https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/
 
 ## Some of my projects:
 

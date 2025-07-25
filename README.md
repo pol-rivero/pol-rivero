@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-One plan shields three screens—  
-AppleCare joins hands, protects  
-Tech comfort, bundled.
+Grouped by Gemini,  
+Search drifts into themed gardens—  
+Old web rearranged.  
 ```
 
 Reference:
 
-
-
-https://techcrunch.com/2025/07/23/apple-launches-19-99-monthly-applecare-one-subscription-with-coverage-for-three-devices/
+https://searchengineland.com/google-web-guide-for-ai-organized-search-results-459439
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Grouped by Gemini,  
-Search drifts into themed gardens—  
-Old web rearranged.  
+Silent satellites,  
+One glitch silences the stars—  
+Signal drifts, returns.  
 ```
 
 Reference:
 
-https://searchengineland.com/google-web-guide-for-ai-organized-search-results-459439
+https://www.dailymail.co.uk/wires/reuters/article-14940667/UPDATE-1-Ukraine-says-Starlinks-global-outage-hit-military-communications.html
 
 ## Some of my projects:
 

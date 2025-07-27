@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent satellites,  
-One glitch silences the stars—  
-Signal drifts, returns.  
+August whispers near—  
+A new mind wakes in the cloud,  
+GPT-5 awaits.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-14940667/UPDATE-1-Ukraine-says-Starlinks-global-outage-hit-military-communications.html
+https://www.androidheadlines.com/2025/07/openai-gpt-5-launch-chatgpt-ai-model.html
 
 ## Some of my projects:
 

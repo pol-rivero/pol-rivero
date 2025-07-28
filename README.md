@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-August whispers near—  
-A new mind wakes in the cloud,  
-GPT-5 awaits.  
+Starlink goes dark night—  
+Constellations blink, then dawn,  
+Earth regains its web.  
 ```
 
 Reference:
 
-https://www.androidheadlines.com/2025/07/openai-gpt-5-launch-chatgpt-ai-model.html
+https://www.dailymail.co.uk/wires/reuters/article-14940667/UPDATE-1-Ukraine-says-Starlinks-global-outage-hit-military-communications.html
 
 ## Some of my projects:
 

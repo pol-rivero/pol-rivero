@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starlink goes dark night—  
-Constellations blink, then dawn,  
-Earth regains its web.  
+Orbital ballet—  
+Fifty thousand stories spin,  
+War and peace in stars.  
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/wires/reuters/article-14940667/UPDATE-1-Ukraine-says-Starlinks-global-outage-hit-military-communications.html
+https://www.staradvertiser.com/2025/07/26/hawaii-news/space-force-gets-leadership-change-in-hawaii-as-commander-promoted/
 
 ## Some of my projects:
 

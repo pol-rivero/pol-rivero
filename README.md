@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Orbital ballet—  
-Fifty thousand stories spin,  
-War and peace in stars.  
+AI softly clicks through—  
+robot or human, blurred lines  
+test our own control.  
 ```
 
 Reference:
 
-https://www.staradvertiser.com/2025/07/26/hawaii-news/space-force-gets-leadership-change-in-hawaii-as-commander-promoted/
+
+
+https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/
 
 ## Some of my projects:
 

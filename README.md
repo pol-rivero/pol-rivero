@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-AI softly clicks through—  
-robot or human, blurred lines  
-test our own control.  
+Earth's pulse from afar,  
+US, India join hands—watch  
+ice and land whisper.  
 ```
 
 Reference:
 
 
 
-https://arstechnica.com/information-technology/2025/07/openais-chatgpt-agent-casually-clicks-through-i-am-not-a-robot-verification-test/
+https://www.newsdrum.in/national/countdown-begins-for-nisar-mission-isro-9603510
 
 ## Some of my projects:
 

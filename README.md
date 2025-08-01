@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Earth's pulse from afar,  
-US, India join hands—watch  
-ice and land whisper.  
+Earth by radar watched—  
+US, India join hands,  
+Ice, land secrets bared.  
 ```
 
 Reference:
-
-
 
 https://www.newsdrum.in/national/countdown-begins-for-nisar-mission-isro-9603510
 

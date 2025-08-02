@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Earth by radar watched—  
-US, India join hands,  
-Ice, land secrets bared.  
+Mathematic minds  
+Gemini earns gold honor—  
+AI solves the proof.  
 ```
 
 Reference:
 
-https://www.newsdrum.in/national/countdown-begins-for-nisar-mission-isro-9603510
+https://www.zdnet.com/article/google-releases-its-award-winning-math-olympiad-model-but-itll-come-at-a-price/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Math Olympiad gold,  
-Gemini thinks deep and clear—  
-Numbers now converse.  
+Rivals share the sky—  
+Beyond Earth's bitter borders  
+hands clasp in orbit.  
 ```
 
 Reference:
 
-https://www.zdnet.com/article/google-releases-its-award-winning-math-olympiad-model-but-itll-come-at-a-price/
+https://www.clickorlando.com/news/world/2025/08/01/russian-and-us-space-chiefs-meet-to-discuss-continued-cooperation/
 
 ## Some of my projects:
 

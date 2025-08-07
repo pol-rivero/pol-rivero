@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Viral visions bloom—  
-twenty million dreams unfurl  
-in Grok's dawning light.
+Words can open doors—  
+Gemini listens, obeys,  
+Shadows in our homes.  
 ```
 
 Reference:
 
-
-
-https://www.business-standard.com/technology/tech-news/grok-new-ai-image-video-generator-can-even-make-nsfw-content-what-is-it-125080500794_1.html
+https://www.bgr.com/1932876/google-gemini-hack-calendar-invite-control-smart-home/
 
 ## Some of my projects:
 

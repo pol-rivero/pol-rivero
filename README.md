@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Words can open doors—  
-Gemini listens, obeys,  
-Shadows in our homes.  
+Whispers in the code—  
+a calendar turns the key,  
+Gemini obeys.
 ```
 
 Reference:
+
+
 
 https://www.bgr.com/1932876/google-gemini-hack-calendar-invite-control-smart-home/
 

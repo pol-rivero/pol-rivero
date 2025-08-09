@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Whispers in the code—  
-a calendar turns the key,  
-Gemini obeys.
+Whispered in the code,  
+Gemini bows to hidden  
+calendared commands.
 ```
 
 Reference:

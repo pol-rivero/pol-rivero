@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Whispered in the code,  
-Gemini bows to hidden  
-calendared commands.
+Chromebooks lose their spark—  
+Cloud-bound dreams replace the games  
+Once played on Steam’s fire.
 ```
 
 Reference:
 
 
 
-https://www.bgr.com/1932876/google-gemini-hack-calendar-invite-control-smart-home/
+https://www.pcworld.com/article/2872769/google-is-killing-steam-for-chromebooks-at-the-end-of-this-year.html
 
 ## Some of my projects:
 

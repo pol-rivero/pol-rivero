@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chromebooks lose their spark—  
-Cloud-bound dreams replace the games  
-Once played on Steam’s fire.
+Moon’s silent surface—  
+nuclear power hums hope,  
+new race, not for arms.  
 ```
 
 Reference:
 
-
-
-https://www.pcworld.com/article/2872769/google-is-killing-steam-for-chromebooks-at-the-end-of-this-year.html
+https://arstechnica.com/space/2025/08/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why/
 
 ## Some of my projects:
 

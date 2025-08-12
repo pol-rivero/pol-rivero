@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moon’s silent surface—  
-nuclear power hums hope,  
-new race, not for arms.  
+Old posts sealed away—  
+history locked from AI,  
+memory guards time.  
 ```
 
 Reference:
 
-https://arstechnica.com/space/2025/08/nasa-plans-to-build-a-nuclear-reactor-on-the-moon-a-space-lawyer-explains-why/
+https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit
 
 ## Some of my projects:
 

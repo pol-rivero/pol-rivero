@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Old posts sealed away—  
-history locked from AI,  
-memory guards time.  
+You had mail once screamed,  
+Static groans fade to silence—  
+End of dial-up's song.
 ```
 
 Reference:
 
-https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit
+
+
+https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service
 
 ## Some of my projects:
 

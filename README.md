@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-You had mail once screamed,  
-Static groans fade to silence—  
-End of dial-up's song.
+Dial-up fades to dusk,  
+AOL whispers goodbye—  
+Echoes of "You've Got Mail."  
 ```
 
 Reference:
-
-
 
 https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service
 

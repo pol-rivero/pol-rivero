@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Dial-up fades to dusk,  
-AOL whispers goodbye—  
-Echoes of "You've Got Mail."  
+Tiny Gemma thrives—  
+Small parameters, vast reach,  
+AI in your palm.
 ```
 
 Reference:
 
-https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service
+
+
+https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
 
 ## Some of my projects:
 

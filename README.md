@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Spirals in the dark—  
-rockets etch dreams on night skies,  
-meteors in awe.
+Pocket model hums
+tiny weights teach giant tasks
+whispered tokens bloom
 ```
 
 Reference:
 
-
-
-https://6abc.com/post/ula-vulcan-rocket-spotted-skywatchers-philadelphia-region/17518953/
+https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
 
 ## Some of my projects:
 

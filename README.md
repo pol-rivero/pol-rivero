@@ -1,16 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Tiny Gemma thrives—  
-Small parameters, vast reach,  
-AI in your palm.
+Spirals in the dark—  
+rockets etch dreams on night skies,  
+meteors in awe.
 ```
 
 Reference:
 
 
 
-https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
+https://6abc.com/post/ula-vulcan-rocket-spotted-skywatchers-philadelphia-region/17518953/
 
 ## Some of my projects:
 

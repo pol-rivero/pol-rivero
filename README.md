@@ -2,8 +2,8 @@
 **Today's tech haiku:**
 ```
 Pocket model hums
-tiny weights teach giant tasks
-whispered tokens bloom
+Tiny brain, vast lexicon
+Phones teach it new tasks
 ```
 
 Reference:

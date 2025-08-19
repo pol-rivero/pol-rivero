@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Spirals haunt the dusk
-Rocket breath paints night with light
-Meteors wait, awed
+Gemma runs on phones
+Small model, big lexicon
+Whispers tasks with care
 ```
 
 Reference:
 
-https://6abc.com/post/ula-vulcan-rocket-spotted-skywatchers-philadelphia-region/17518953/
+https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
 
 ## Some of my projects:
 

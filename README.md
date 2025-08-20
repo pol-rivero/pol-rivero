@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemma runs on phones
-Small model, big lexicon
-Whispers tasks with care
+Xcode twenty-six
+Claude and ChatGPT pair
+guiding keys through night
 ```
 
 Reference:
 
-https://venturebeat.com/ai/google-unveils-ultra-small-and-efficient-open-source-ai-model-gemma-3-270m-that-can-run-on-smartphones/
+https://www.moneycontrol.com/technology/apple-prepares-native-claude-integration-in-xcode-26-article-13468871.html
 
 ## Some of my projects:
 

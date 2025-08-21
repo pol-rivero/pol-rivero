@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Xcode twenty-six
-Claude and ChatGPT pair
-guiding keys through night
+Swift keys hum with Claude
+Opus, Sonnet thread new light
+Xcode learns to sing
 ```
 
 Reference:

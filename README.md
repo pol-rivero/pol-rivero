@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Swift keys hum with Claude
-Opus, Sonnet thread new light
-Xcode learns to sing
+Apple raises streams
+quiet hike for TV Plus
+ad-free feels costly
 ```
 
 Reference:
 
-https://www.moneycontrol.com/technology/apple-prepares-native-claude-integration-in-xcode-26-article-13468871.html
+https://www.thewrap.com/apple-tv-price-increase-august-2025/
 
 ## Some of my projects:
 

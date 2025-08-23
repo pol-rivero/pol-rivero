@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Apple raises streams
-quiet hike for TV Plus
-ad-free feels costly
+Apple's stream price climbs
+ad-free nights cost a touch more
+twelve ninety-nine now
 ```
 
 Reference:

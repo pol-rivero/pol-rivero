@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apple's stream price climbs
-ad-free nights cost a touch more
-twelve ninety-nine now
+Hands hover on wheels,
+Roads test clever assistants;
+Trust brakes before dreams.
 ```
 
 Reference:
 
-https://www.thewrap.com/apple-tv-price-increase-august-2025/
+https://www.digit.fyi/driverless-vehicles-aaa/
 
 ## Some of my projects:
 

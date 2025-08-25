@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Hands hover on wheels,
-Roads test clever assistants;
-Trust brakes before dreams.
+Starship counts to ten,
+Scorched steel now seeks safe return—
+Texas dusk holds breath.
 ```
 
 Reference:
 
-https://www.digit.fyi/driverless-vehicles-aaa/
+https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html
 
 ## Some of my projects:
 

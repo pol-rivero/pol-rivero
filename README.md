@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starship counts to ten,
-Scorched steel now seeks safe return—
-Texas dusk holds breath.
+Dragon docks at dawn
+Quiet cargo greets the void
+to Harmony's port
 ```
 
 Reference:
 
-https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html
+https://www.miragenews.com/nasa-science-cargo-launch-on-33rd-spacex-1520243/
 
 ## Some of my projects:
 

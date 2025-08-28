@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Bananas ripen
-inside a flash of pixels
-images now bend
+Farewell barrel jack—
+one cable hums with thunder,
+laptops sip lightning.
 ```
 
 Reference:
 
-https://rocketnews.com/2025/08/google-geminis-ai-image-model-gets-a-bananas-upgrade/
+https://mashable.com/article/framework-laptop-16-nvidia-graphics-module-announcement
 
 ## Some of my projects:
 

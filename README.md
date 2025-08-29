@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Farewell barrel jack—
-one cable hums with thunder,
-laptops sip lightning.
+After-sunset hush
+Vandenberg ignites the sky
+Starlink plume drifts west
 ```
 
 Reference:
 
-https://mashable.com/article/framework-laptop-16-nvidia-graphics-module-announcement
+https://www.clickorlando.com/news/space-news/2025/08/27/spacex-to-launch-28-starlink-satellites-into-orbit-from-florida/
 
 ## Some of my projects:
 

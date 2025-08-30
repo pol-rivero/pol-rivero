@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-After-sunset hush
-Vandenberg ignites the sky
-Starlink plume drifts west
+Plugs bloom like ivy
+Adapters tangle the road
+Charge seeks a slim path
 ```
 
 Reference:
 
-https://www.clickorlando.com/news/space-news/2025/08/27/spacex-to-launch-28-starlink-satellites-into-orbit-from-florida/
+https://electrek.co/2025/08/28/gm-adding-nacs-to-evs-new-adapters/
 
 ## Some of my projects:
 

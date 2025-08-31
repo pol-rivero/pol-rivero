@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Plugs bloom like ivy
-Adapters tangle the road
-Charge seeks a slim path
+Homegrown minds awake
+Redmond cuts its tethered ties
+Two MAI models rise
 ```
 
 Reference:
 
-https://electrek.co/2025/08/28/gm-adding-nacs-to-evs-new-adapters/
+https://www.neowin.net/news/microsoft-reveals-two-in-house-ai-models-mai-voice-1-and-mai-1-preview/
 
 ## Some of my projects:
 

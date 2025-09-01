@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Homegrown minds awake
-Redmond cuts its tethered ties
-Two MAI models rise
+October's deadline—
+ten winters of windows close,
+upgrade or stand still.
 ```
 
 Reference:
 
-https://www.neowin.net/news/microsoft-reveals-two-in-house-ai-models-mai-voice-1-and-mai-1-preview/
+https://www.thurrott.com/windows/windows-11/325315/microsoft-releases-new-builds-to-all-four-windows-insider-preview-channels
 
 ## Some of my projects:
 

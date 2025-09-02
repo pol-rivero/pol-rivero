@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-October's deadline—
-ten winters of windows close,
-upgrade or stand still.
+Redmond blooms with code
+New models find their voices
+Partners turn rivals
 ```
 
 Reference:
 
-https://www.thurrott.com/windows/windows-11/325315/microsoft-releases-new-builds-to-all-four-windows-insider-preview-channels
+https://www.neowin.net/news/microsoft-reveals-two-in-house-ai-models-mai-voice-1-and-mai-1-preview/
 
 ## Some of my projects:
 

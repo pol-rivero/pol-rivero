@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Redmond blooms with code
-New models find their voices
-Partners turn rivals
+Courts loosen the grip,
+query dust shared on the wind—
+empire keeps its chrome.
 ```
 
 Reference:
 
-https://www.neowin.net/news/microsoft-reveals-two-in-house-ai-models-mai-voice-1-and-mai-1-preview/
+https://finance.yahoo.com/news/us-judge-orders-google-share-202024694.html
 
 ## Some of my projects:
 

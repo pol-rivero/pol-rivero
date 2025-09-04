@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Courts loosen the grip,
-query dust shared on the wind—
-empire keeps its chrome.
+Whispers of breach rise,
+but the inbox keeps its guard—
+passkeys light the lock.
 ```
 
 Reference:
 
-https://finance.yahoo.com/news/us-judge-orders-google-share-202024694.html
+https://www.forbes.com/sites/zakdoffman/2025/09/01/entirely-false-google-says-theres-no-warning-for-gmail-users/
 
 ## Some of my projects:
 

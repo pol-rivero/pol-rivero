@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Whispers of breach rise,
-but the inbox keeps its guard—
-passkeys light the lock.
+Old BASIC breathes free
+Six-five-oh-two dreams revive
+Code opens like dawn
 ```
 
 Reference:
 
-https://www.forbes.com/sites/zakdoffman/2025/09/01/entirely-false-google-says-theres-no-warning-for-gmail-users/
+https://www.thurrott.com/classic-technology/325629/microsoft-open-sources-6502-basic
 
 ## Some of my projects:
 

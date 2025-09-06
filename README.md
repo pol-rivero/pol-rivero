@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Old BASIC breathes free
-Six-five-oh-two dreams revive
-Code opens like dawn
+Old code breathes again
+on 6502's heart
+BASIC dawns open
 ```
 
 Reference:

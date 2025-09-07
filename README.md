@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Old code breathes again
-on 6502's heart
-BASIC dawns open
+Ancient code awakes
+Apple, Atari whisper
+BASIC breathes again
 ```
 
 Reference:

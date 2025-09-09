@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ancient bytes breathe free
-Six five oh two BASIC dreams
-Apple ghosts applaud
+Autumn stage is set
+Awe dropping hints: iPhone dawns
+Glass dreams, charge reversed
 ```
 
 Reference:
 
-https://www.thurrott.com/classic-technology/325629/microsoft-open-sources-6502-basic
+https://www.idropnews.com/rumors/long-awaited-reverse-charging-tipped-for-iphone-17-pro/251999/
 
 ## Some of my projects:
 

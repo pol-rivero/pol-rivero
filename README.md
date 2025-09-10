@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Autumn stage is set
-Awe dropping hints: iPhone dawns
-Glass dreams, charge reversed
+Zero-day shadows
+NetWeaver's old gates rattle
+Patch before dawn breaks
 ```
 
 Reference:
 
-https://www.idropnews.com/rumors/long-awaited-reverse-charging-tipped-for-iphone-17-pro/251999/
+https://arstechnica.com/security/2025/09/as-hackers-exploit-one-high-severity-sap-flaw-company-warns-of-3-more/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Zero-day shadows
-NetWeaver's old gates rattle
-Patch before dawn breaks
+Speckled stones on Mars
+Ancient waters' hush remains
+Microbes once sang here
 ```
 
 Reference:
 
-https://arstechnica.com/security/2025/09/as-hackers-exploit-one-high-severity-sap-flaw-company-warns-of-3-more/
+https://toronto.citynews.ca/2025/09/10/mars-rocks-life-nasa-perseverance/
 
 ## Some of my projects:
 

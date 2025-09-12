@@ -1,12 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Speckled stones on Mars
-Ancient waters' hush remains
-Microbes once sang here
+Poppyseed specks glow
+in Sapphire Canyon's cold bed,
+whisper of microbes
 ```
 
 Reference:
+
+
 
 https://toronto.citynews.ca/2025/09/10/mars-rocks-life-nasa-perseverance/
 

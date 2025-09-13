@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Poppyseed specks glow
-in Sapphire Canyon's cold bed,
-whisper of microbes
+Judges draw a line
+On trails of our daily steps
+Consent is the map
 ```
 
 Reference:
 
-
-
-https://toronto.citynews.ca/2025/09/10/mars-rocks-life-nasa-perseverance/
+https://news.bloomberglaw.com/litigation/verizons-47-million-fcc-penalty-upheld-by-second-circuit
 
 ## Some of my projects:
 

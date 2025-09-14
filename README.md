@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Judges draw a line
-On trails of our daily steps
-Consent is the map
+Ancient riverbed,
+Sapphire whispers of microbes,
+Red dust holds its breath.
 ```
 
 Reference:
 
-https://news.bloomberglaw.com/litigation/verizons-47-million-fcc-penalty-upheld-by-second-circuit
+https://toronto.citynews.ca/2025/09/10/mars-rocks-life-nasa-perseverance/
 
 ## Some of my projects:
 

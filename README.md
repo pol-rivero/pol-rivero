@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ancient riverbed,
-Sapphire whispers of microbes,
-Red dust holds its breath.
+Gmail gathers goods
+Purchases tab maps our waits
+Parcels whisper soon
 ```
 
 Reference:
 
-https://toronto.citynews.ca/2025/09/10/mars-rocks-life-nasa-perseverance/
+https://9to5google.com/2025/09/11/gmail-purchases/
 
 ## Some of my projects:
 

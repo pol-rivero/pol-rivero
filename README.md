@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gmail gathers goods
-Purchases tab maps our waits
-Parcels whisper soon
+Evening liftoff waits
+Cygnus on Falcon skyward
+Booms chase booster home
 ```
 
 Reference:
 
-https://9to5google.com/2025/09/11/gmail-purchases/
+https://internewscast.com/local-news/spacex-prepares-for-evening-rocket-launch-from-florida-coast/
 
 ## Some of my projects:
 

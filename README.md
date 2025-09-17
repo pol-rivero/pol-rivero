@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Evening liftoff waits
-Cygnus on Falcon skyward
-Booms chase booster home
+Cygnus waits in dusk
+engine hush stalls station's needs
+orbit holds its breath
 ```
 
 Reference:
 
-https://internewscast.com/local-news/spacex-prepares-for-evening-rocket-launch-from-florida-coast/
+https://www.gazeta.ru/science/news/2025/09/15/26730104.shtml
 
 ## Some of my projects:
 

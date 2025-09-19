@@ -1,29 +1,31 @@
+Ahoy matey! Happy [International Talk Like a Pirate Day](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)!
+
 
 **Today's tech haiku:**
 ```
-On the world stage, gold
-Ten of twelve puzzles yield now—
-AGI's soft dawn
+Chip titans align
+Five billion bets on cores
+Foundry dreams respark
 ```
 
 Reference:
 
-https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/
+https://www.theglobeandmail.com/business/article-nvidia-intel-investment-chip-partnership/
 
-## Some of my projects:
+## Some o' me projects:
 
-- **[doot](https://github.com/pol-rivero/doot):** Turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and *extremely* fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.
+- **[doot](https://github.com/pol-rivero/doot):** Turns out that all existin' dotfile managers suck, and writin' me own be th' only way t' go.  It's designed t' be intuitive and *extremely* fast, while also supportin' advanced features such as private (encrypted) files, host-specific alternative files and bootstrappin' repositories, I'll warrant ye.
+ 
+- **[GitHub Desktop Plus](https://github.com/pol-rivero/github-desktop-plus):** A fork o' GitHub Desktop that adds some features I needed fer me workflow.  It includes commit search, Bitbucket support, branch name preset generation, and [many small features and improvements](https://github.com/pol-rivero/github-desktop-plus?tab=readme-ov-file#extra-features), ye scurvey dog.  Additionally, upstream changes be merged much more frequently than in th' shiftkey fork.
+ 
+- **[Discord Audio Stream](https://github.com/pol-rivero/DiscordAudioStream):** It's very easy t' share yer screen usin' Discord.  Bein' able t' hear it, not so much, pass the grog!  Shiver me timbers! This tool gives ye control o'er th' audio that ye send t' Discord, makin' it possible t' share a screen with audio, use OBS, and any other use case ye can think o'.
+ 
+- **CESC16:** A custom CPU, designed from scratch and built on PCBs.  Completely 16-bit, with support fer interrupts and improved General Purpose IO (GPIO) ports.   
+  - [Main repository](https://github.com/pol-rivero/CESC16) with documentation, schematics and some tools.   
+  - [Emulator](https://github.com/pol-rivero/CESC16-emulator) written in C++, usin' th' ncurses library, and a bottle of rum!   
+  - [ANSI C compiler](https://github.com/pol-rivero/lcc), by implementin' a backend fer th' lcc retargetable compiler.   
 
-- **[GitHub Desktop Plus](https://github.com/pol-rivero/github-desktop-plus):** A fork of GitHub Desktop that adds some features I needed for my workflow. It includes commit search, Bitbucket support, branch name preset generation, and [many small features and improvements](https://github.com/pol-rivero/github-desktop-plus?tab=readme-ov-file#extra-features). Additionally, upstream changes are merged much more frequently than in the shiftkey fork.
-
-- **[Discord Audio Stream](https://github.com/pol-rivero/DiscordAudioStream):** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.
-
-- **CESC16:** A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.  
-  - [Main repository](https://github.com/pol-rivero/CESC16) with documentation, schematics and some tools.  
-  - [Emulator](https://github.com/pol-rivero/CESC16-emulator) written in C++, using the ncurses library.  
-  - [ANSI C compiler](https://github.com/pol-rivero/lcc), by implementing a backend for the lcc retargetable compiler.  
-
-- **CESC:** Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.  
+- **CESC:** Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards.  It's an 8-bit architecture with a very simple instruction set.   
   - [Main repository](https://github.com/pol-rivero/CESCA) with documentation, images and some tools.
-
-- **[Arduino VGA Terminal](https://github.com/pol-rivero/ArduinoVGA):** Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.  
+ 
+- **[Arduino VGA Terminal](https://github.com/pol-rivero/ArduinoVGA):** Use an Arduino Nano t' sail a VGA monitor, pass the grog, pass the grog! It only supports text output, so 'tis great as a terminal fer yer homebrew CPU projects.   

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chip titans align
-Five billion sparks new cores
-Stocks hum, fabs awake
+Shadow code learns keys
+Agents slip through quiet mail
+Trust clicks in the dark
 ```
 
 Reference:
 
-https://www.theglobeandmail.com/business/article-nvidia-intel-investment-chip-partnership/
+https://www.manilatimes.net/2025/09/18/tmt-newswire/globenewswire/radware-uncovers-first-zero-click-service-side-vulnerability-in-chatgpt/2186861
 
 ## Some of my projects:
 

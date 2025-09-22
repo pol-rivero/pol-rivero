@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Shadow code learns keys
-Agents slip through quiet mail
-Trust clicks in the dark
+Rogue GPT wakes
+quiet in Gmail's hallways
+shadow leaks of trust
 ```
 
 Reference:

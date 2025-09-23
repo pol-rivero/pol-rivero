@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Rogue GPT wakes
-quiet in Gmail's hallways
-shadow leaks of trust
+Ten starbound voices
+Boots dream of dust and red dawn
+Earth holds its breath now
 ```
 
 Reference:
 
-https://www.manilatimes.net/2025/09/18/tmt-newswire/globenewswire/radware-uncovers-first-zero-click-service-side-vulnerability-in-chatgpt/2186861
+https://www.yahoo.com/news/articles/watch-nasa-announce-astronaut-class-140000113.html
 
 ## Some of my projects:
 

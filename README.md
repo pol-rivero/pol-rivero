@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ten starbound voices
-Boots dream of dust and red dawn
-Earth holds its breath now
+Ten stars chosen now
+Moon maps in their steady hands
+Mars hums in their dreams
 ```
 
 Reference:
 
-https://www.yahoo.com/news/articles/watch-nasa-announce-astronaut-class-140000113.html
+https://www.newsday.com/news/nation/nasa-astronauts-moon-mars-o60840
 
 ## Some of my projects:
 

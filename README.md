@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ten stars chosen now
-Moon maps in their steady hands
-Mars hums in their dreams
+Moon path wakes again
+Four hearts in orbit rehearse
+for the landing's dawn
 ```
 
 Reference:
 
-https://www.newsday.com/news/nation/nasa-astronauts-moon-mars-o60840
+https://www.dailystar.co.uk/news/latest-news/astronauts-could-moon-2027-nasa-35952812
 
 ## Some of my projects:
 

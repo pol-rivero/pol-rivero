@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moon path wakes again
-Four hearts in orbit rehearse
-for the landing's dawn
+Robot hands pause, think;
+web-taught paths unfold ahead—
+bodies learn to plan.
 ```
 
 Reference:
 
-https://www.dailystar.co.uk/news/latest-news/astronauts-could-moon-2027-nasa-35952812
+https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search
 
 ## Some of my projects:
 

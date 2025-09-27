@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Robot hands pause, think;
-web-taught paths unfold ahead—
-bodies learn to plan.
+Chrome minds map the room
+Pausing to reason, then move
+Hands trace through cloud threads
 ```
 
 Reference:

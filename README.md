@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Chrome minds map the room
-Pausing to reason, then move
-Hands trace through cloud threads
+Overflow in stacks
+quiet routers take commands
+Patch before dawn breaks
 ```
 
 Reference:
 
-https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search
+https://thecyberexpress.com/cisco-ios-rce-vulnerability-cve-2025-20352/
 
 ## Some of my projects:
 

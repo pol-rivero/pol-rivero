@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Overflow in stacks
-quiet routers take commands
-Patch before dawn breaks
+Silent ports listen,
+Overflow slips through the wire—
+Patch before dawn’s light.
 ```
 
 Reference:

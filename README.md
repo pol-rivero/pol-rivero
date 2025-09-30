@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent ports listen,
-Overflow slips through the wire—
-Patch before dawn’s light.
+Sideloading lights dim,
+keys for each wandering app,
+Android's open fades.
 ```
 
 Reference:
 
-https://thecyberexpress.com/cisco-ios-rce-vulnerability-cve-2025-20352/
+https://www.notebookcheck.net/Google-s-new-rules-could-put-an-end-to-sideloading-and-alternative-app-stores-on-Android.1126948.0.html
 
 ## Some of my projects:
 

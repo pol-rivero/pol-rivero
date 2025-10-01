@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Sideloading lights dim,
-keys for each wandering app,
-Android's open fades.
+Open Android winds
+keys lock the forest of code
+F-Droid fades, unsung
 ```
 
 Reference:

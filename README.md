@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Open Android winds
-keys lock the forest of code
-F-Droid fades, unsung
+Prompted dreams take shape,
+friends scroll through flickers of thought,
+stories bloom from code.
 ```
 
 Reference:
 
-https://www.notebookcheck.net/Google-s-new-rules-could-put-an-end-to-sideloading-and-alternative-app-stores-on-Android.1126948.0.html
+https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/
 
 ## Some of my projects:
 

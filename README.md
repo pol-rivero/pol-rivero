@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Prompted dreams take shape,
-friends scroll through flickers of thought,
-stories bloom from code.
+Text blossoms to scenes
+Sora turns words to motion
+Friends scroll a new stream
 ```
 
 Reference:

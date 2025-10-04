@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Text blossoms to scenes
-Sora turns words to motion
-Friends scroll a new stream
+Locked gates on green droid
+Side roads now check your papers
+Freedom scans for trust
 ```
 
 Reference:
 
-https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/
+https://www.gizbot.com/apps/google-says-sideloading-isnt-going-away-but-apks-will-soon-need-verification-119365.html
 
 ## Some of my projects:
 

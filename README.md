@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Locked gates on green droid
-Side roads now check your papers
-Freedom scans for trust
+Falcons guard the sky
+National secrets riding
+Launch pads count to five
 ```
 
 Reference:
 
-https://www.gizbot.com/apps/google-says-sideloading-isnt-going-away-but-apks-will-soon-need-verification-119365.html
+https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/
 
 ## Some of my projects:
 

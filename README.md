@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Falcons guard the sky
-National secrets riding
-Launch pads count to five
+Five of seven flames
+Guardians entrust the sky
+Rivals count the stars
 ```
 
 Reference:

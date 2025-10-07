@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Five of seven flames
-Guardians entrust the sky
-Rivals count the stars
+AMD seals pact
+A six-gigawatt promise
+Shares vault premarket
 ```
 
 Reference:
 
-https://spacenews.com/spacex-lands-majority-of-u-s-national-security-launches-awarded-for-fiscal-year-2026/
+https://www.channelnewsasia.com/business/amd-signs-ai-chip-supply-deal-openai-gives-it-option-take-10-stake-5386646
 
 ## Some of my projects:
 

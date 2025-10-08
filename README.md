@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AMD seals pact
-A six-gigawatt promise
-Shares vault premarket
+Makers solder dawn
+Qualcomm at maker benches
+Robots learn to breathe
 ```
 
 Reference:
 
-https://www.channelnewsasia.com/business/amd-signs-ai-chip-supply-deal-openai-gives-it-option-take-10-stake-5386646
+https://www.techradar.com/pro/qualcomm-acquires-arduino-in-surprising-move-that-puts-it-right-on-the-edge-and-at-the-helm-of-a-33-million-strong-maker-community
 
 ## Some of my projects:
 

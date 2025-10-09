@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Makers solder dawn
-Qualcomm at maker benches
-Robots learn to breathe
+Unnamed heart at dawn
+New Shepard skims the blue edge
+Silence strapped in, stars
 ```
 
 Reference:
 
-https://www.techradar.com/pro/qualcomm-acquires-arduino-in-surprising-move-that-puts-it-right-on-the-edge-and-at-the-helm-of-a-33-million-strong-maker-community
+https://todayheadline.co/watch-blue-origin-launch-its-15th-space-tourism-mission-on-oct-8/
 
 ## Some of my projects:
 

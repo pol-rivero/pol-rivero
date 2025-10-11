@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Desert dawn ignites
-New Shepard arcs, returns home
-Hugs echo through sky
+Tiny seeds of harm
+Backdoors bloom in model minds
+Sense unthreads to noise
 ```
 
 Reference:
 
-https://todayheadline.co/watch-blue-origin-launch-its-15th-space-tourism-mission-on-oct-8/
+https://www.anthropic.com/research/small-samples-poison
 
 ## Some of my projects:
 

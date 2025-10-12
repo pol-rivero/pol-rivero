@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Tiny seeds of harm
-Backdoors bloom in model minds
-Sense unthreads to noise
+Small, poisoned pages
+open backdoors in bright minds
+gibberish cascades
 ```
 
 Reference:

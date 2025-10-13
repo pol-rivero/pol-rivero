@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Small, poisoned pages
-open backdoors in bright minds
-gibberish cascades
+Tiny seeds can spoil
+Models learn whispers as law
+Backdoors bloom in code
 ```
 
 Reference:

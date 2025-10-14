@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Tiny seeds can spoil
-Models learn whispers as law
-Backdoors bloom in code
+Starship wakes the dusk
+Winds hold breath at Starbase skies
+Flight eleven arcs
 ```
 
 Reference:
 
-https://www.anthropic.com/research/small-samples-poison
+https://todayheadline.co/watch-spacex-launch-its-starship-flight-11-megarocket-test-flight-on-oct-13/
 
 ## Some of my projects:
 

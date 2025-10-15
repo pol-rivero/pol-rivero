@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starship wakes the dusk
-Winds hold breath at Starbase skies
-Flight eleven arcs
+Flight eleven waits
+Starbase hums, window opens
+Heat blooms in the dark
 ```
 
 Reference:
 
-https://todayheadline.co/watch-spacex-launch-its-starship-flight-11-megarocket-test-flight-on-oct-13/
+https://eu.palmbeachpost.com/story/news/2025/10/12/spacex-starship-launch-watch-live/86603593007/
 
 ## Some of my projects:
 

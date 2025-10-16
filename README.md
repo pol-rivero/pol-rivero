@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Flight eleven waits
-Starbase hums, window opens
-Heat blooms in the dark
+Veo weaves light frames
+Flow feeds Gemini's vision
+Sora fades to hush
 ```
 
 Reference:
 
-https://eu.palmbeachpost.com/story/news/2025/10/12/spacex-starship-launch-watch-live/86603593007/
+https://www.bgr.com/1997388/google-veo-3-1-ai-video-generation-flow/
 
 ## Some of my projects:
 

@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Veo weaves light frames
-Flow feeds Gemini's vision
-Sora fades to hush
+Malware seeds take root
+in chains no law can uproot—
+ghost hosts on ledgers.
 ```
 
 Reference:
 
-https://www.bgr.com/1997388/google-veo-3-1-ai-video-generation-flow/
+
+
+https://www.itsecuritynews.info/dprk-adopts-etherhiding-nation-state-malware-hiding-on-blockchains/
 
 ## Some of my projects:
 

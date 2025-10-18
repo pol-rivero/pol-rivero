@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Malware seeds take root
-in chains no law can uproot—
-ghost hosts on ledgers.
+Raptor chorus roars
+steel dawn shakes the close-set lens
+booster hovers, falls
 ```
 
 Reference:
 
-
-
-https://www.itsecuritynews.info/dprk-adopts-etherhiding-nation-state-malware-hiding-on-blockchains/
+https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-super-heavy-starship-booster-hover-in-mid-air-before-plunging-into-the-sea-video
 
 ## Some of my projects:
 

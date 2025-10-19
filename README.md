@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Raptor chorus roars
-steel dawn shakes the close-set lens
-booster hovers, falls
+Camera braves fire
+Thirty-three raptors thunder
+Steel blossom takes flight
 ```
 
 Reference:

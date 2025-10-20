@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Camera braves fire
-Thirty-three raptors thunder
-Steel blossom takes flight
+Midnight wheels whisper,
+Orion meets its high bay—
+Moonbound heart in wait.
 ```
 
 Reference:
 
-https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-super-heavy-starship-booster-hover-in-mid-air-before-plunging-into-the-sea-video
+https://ca.news.yahoo.com/orion-spacecraft-makes-crucial-move-202956098.html
 
 ## Some of my projects:
 

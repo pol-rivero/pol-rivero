@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Midnight wheels whisper,
-Orion meets its high bay—
-Moonbound heart in wait.
+Orion rolls slow
+Seven miles of hush and steel,
+Moonbound hearts wait, bright.
 ```
 
 Reference:

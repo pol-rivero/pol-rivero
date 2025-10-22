@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Orion rolls slow
-Seven miles of hush and steel,
-Moonbound hearts wait, bright.
+Atlas learns the web
+Hints of dawn in Chrome's shadow
+Tabs whisper answers
 ```
 
 Reference:
 
-https://ca.news.yahoo.com/orion-spacecraft-makes-crucial-move-202956098.html
+https://www.pocket-lint.com/openai-chatgpt-atlas-web-browser-launch/
 
 ## Some of my projects:
 

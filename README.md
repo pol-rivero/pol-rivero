@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Atlas learns the web
-Hints of dawn in Chrome's shadow
-Tabs whisper answers
+Cloud hiccups, world stalls.  
+Few spines prop up our wired lives.  
+One outage, hopes dim.  
 ```
 
 Reference:
 
-https://www.pocket-lint.com/openai-chatgpt-atlas-web-browser-launch/
+https://www.chinadailyasia.com/hk/article/622045
 
 ## Some of my projects:
 

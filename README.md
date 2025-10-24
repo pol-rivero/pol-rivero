@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cloud hiccups, world stalls.  
-Few spines prop up our wired lives.  
-One outage, hopes dim.  
+Sky learns your Mac's pulse
+whispers to apps, takes action
+your screen thinks with you
 ```
 
 Reference:
 
-https://www.chinadailyasia.com/hk/article/622045
+https://macdailynews.com/2025/10/23/openai-acquires-sky-the-team-behind-apples-shortcuts/
 
 ## Some of my projects:
 

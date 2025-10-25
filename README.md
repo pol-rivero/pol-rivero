@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Sky learns your Mac's pulse
-whispers to apps, takes action
-your screen thinks with you
+Promises of speed,
+mask a shadowed detour route,
+all roads lead to eyes.
 ```
 
 Reference:
 
-https://macdailynews.com/2025/10/23/openai-acquires-sky-the-team-behind-apples-shortcuts/
+https://arstechnica.com/security/2025/10/this-browser-claims-perfect-privacies-protection-but-it-acts-like-malware/
 
 ## Some of my projects:
 

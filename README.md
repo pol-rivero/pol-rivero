@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Promises of speed,
-mask a shadowed detour route,
-all roads lead to eyes.
+A diamond light blinks,
+Mico listens, shifts its hue—
+Copilot grows warm.
 ```
 
 Reference:
 
-https://arstechnica.com/security/2025/10/this-browser-claims-perfect-privacies-protection-but-it-acts-like-malware/
+https://www.tomsguide.com/ai/copilot/forget-clippy-meet-mico-microsofts-friendlier-face-for-copilots-fall-release
 
 ## Some of my projects:
 

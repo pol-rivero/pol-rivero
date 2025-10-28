@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-New diamond blinks blue,
-Mico learns our little quirks—
-Clippy’s ghost smiles on.
+Shifting gem-like face
+Mico listens, colors bloom—
+Clippy waves from lore
 ```
 
 Reference:
-
-
 
 https://www.tomsguide.com/ai/copilot/forget-clippy-meet-mico-microsofts-friendlier-face-for-copilots-fall-release
 

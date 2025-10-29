@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Shifting gem-like face
-Mico listens, colors bloom—
-Clippy waves from lore
+Eighty billion sparks
+Westinghouse wakes old atoms
+Quiet cores hum clean
 ```
 
 Reference:
 
-https://www.tomsguide.com/ai/copilot/forget-clippy-meet-mico-microsofts-friendlier-face-for-copilots-fall-release
+https://www.juniorminingnetwork.com/junior-miner-news/press-releases/581-tsx/cco/190153-united-states-government-brookfield-and-cameco-announce-transformational-partnership-to-deliver-long-term-value-using-westinghouse-nuclear-reactor-technology.html
 
 ## Some of my projects:
 

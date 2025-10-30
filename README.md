@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Eighty billion sparks
-Westinghouse wakes old atoms
-Quiet cores hum clean
+From blur, frames awake
+AI lifts low res to crisp
+Old clips touch 4K
 ```
 
 Reference:
 
-https://www.juniorminingnetwork.com/junior-miner-news/press-releases/581-tsx/cco/190153-united-states-government-brookfield-and-cameco-announce-transformational-partnership-to-deliver-long-term-value-using-westinghouse-nuclear-reactor-technology.html
+https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates
 
 ## Some of my projects:
 

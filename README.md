@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-From blur, frames awake
-AI lifts low res to crisp
-Old clips touch 4K
+Old pixels learn light
+Small frames bloom into detail—
+Past made sharp again
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Old pixels learn light
-Small frames bloom into detail—
-Past made sharp again
+New Glenn roars to life
+Two orbiters bound for Mars
+Smoke sketches promise
 ```
 
 Reference:
 
-https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates
+https://www.floridatoday.com/story/tech/science/space/2025/10/30/blue-origin-new-glenn-rocket-visible-to-public-ahead-of-2nd-cape-canaveral-florida-launch-beaches/86981153007/
 
 ## Some of my projects:
 

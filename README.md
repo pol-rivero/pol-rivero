@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New Glenn roars to life
-Two orbiters bound for Mars
-Smoke sketches promise
+Leaked call whispers keys,
+Pixels yield to lawful hands,
+Glass keeps silent tears.
 ```
 
 Reference:
 
-https://www.floridatoday.com/story/tech/science/space/2025/10/30/blue-origin-new-glenn-rocket-visible-to-public-ahead-of-2nd-cape-canaveral-florida-launch-beaches/86981153007/
+https://www.androidauthority.com/cellebrite-leak-google-pixel-grapheneos-security-3611794/
 
 ## Some of my projects:
 

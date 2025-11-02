@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Leaked call whispers keys,
-Pixels yield to lawful hands,
-Glass keeps silent tears.
+Backup moonscape dreams
+Starship stalls, plans multiply
+Dust waits for a ride
 ```
 
 Reference:
 
-https://www.androidauthority.com/cellebrite-leak-google-pixel-grapheneos-security-3611794/
+https://www.devdiscourse.com/article/technology/3679409-spacexs-streamlined-plan-for-lunar-expedition
 
 ## Some of my projects:
 

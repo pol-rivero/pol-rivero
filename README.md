@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Backup moonscape dreams
-Starship stalls, plans multiply
-Dust waits for a ride
+Engines taste the night,
+New Glenn breathes flame for Mars twins,
+Silence reads the smoke.
 ```
 
 Reference:
 
-https://www.devdiscourse.com/article/technology/3679409-spacexs-streamlined-plan-for-lunar-expedition
+https://www.floridatoday.com/story/tech/science/space/2025/10/30/blue-origin-new-glenn-rocket-visible-to-public-ahead-of-2nd-cape-canaveral-florida-launch-beaches/86981153007/
 
 ## Some of my projects:
 

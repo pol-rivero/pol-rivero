@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Engines taste the night,
-New Glenn breathes flame for Mars twins,
-Silence reads the smoke.
+Haven tests its heart
+on the path to private skies
+Falcon seeds the night
 ```
 
 Reference:
 
-https://www.floridatoday.com/story/tech/science/space/2025/10/30/blue-origin-new-glenn-rocket-visible-to-public-ahead-of-2nd-cape-canaveral-florida-launch-beaches/86981153007/
+https://spacecoastdaily.com/2025/10/spacex-scheduled-for-early-sunday-morning-rocket-launch-from-cape-canaveral/
 
 ## Some of my projects:
 

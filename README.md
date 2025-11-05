@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Haven tests its heart
-on the path to private skies
-Falcon seeds the night
+Solar servers spin
+Racks in orbit feed AI
+Silence hums with code
 ```
 
 Reference:
 
-https://spacecoastdaily.com/2025/10/spacex-scheduled-for-early-sunday-morning-rocket-launch-from-cape-canaveral/
+https://analyticsindiamag.com/ai-news-updates/google-is-sending-its-tpus-to-space-to-build-solar-powered-data-centres/
 
 ## Some of my projects:
 

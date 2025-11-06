@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Solar servers spin
-Racks in orbit feed AI
-Silence hums with code
+Skyward server farms
+drink sun to feed thinking clouds—
+orbits hum with code
 ```
 
 Reference:
 
-https://analyticsindiamag.com/ai-news-updates/google-is-sending-its-tpus-to-space-to-build-solar-powered-data-centres/
+https://www.androidheadlines.com/2025/11/google-launch-ai-data-centers-space-orbit-project-suncatcher.html
 
 ## Some of my projects:
 

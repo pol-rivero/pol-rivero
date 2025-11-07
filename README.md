@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Skyward server farms
-drink sun to feed thinking clouds—
-orbits hum with code
+Silent shards drift by,
+Space junk halts a homeward path—
+Earth waits, breath held tight.
 ```
 
 Reference:
 
-https://www.androidheadlines.com/2025/11/google-launch-ai-data-centers-space-orbit-project-suncatcher.html
+https://www.yahoo.com/news/articles/astronauts-stranded-spacecraft-hit-suspected-071642609.html
 
 ## Some of my projects:
 

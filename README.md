@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent shards drift by,
-Space junk halts a homeward path—
-Earth waits, breath held tight.
+Malicious pixels
+through WhatsApp to Galaxy
+Landfall breathes in dark
 ```
 
 Reference:
 
-https://www.yahoo.com/news/articles/astronauts-stranded-spacecraft-hit-suspected-071642609.html
+https://newsflash.one/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/
 
 ## Some of my projects:
 

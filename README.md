@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Malicious pixels
-through WhatsApp to Galaxy
-Landfall breathes in dark
+Ten moons of silence,
+Spyware sips our secret streams—
+no tap, photos fall.
 ```
 
 Reference:

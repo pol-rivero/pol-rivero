@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ten moons of silence,
-Spyware sips our secret streams—
-no tap, photos fall.
+Day skies fall silent—
+rockets dream in hangars, wait
+for the moon’s green light.
 ```
 
 Reference:
 
-https://newsflash.one/2025/11/07/landfall-spyware-abused-zero-day-to-hack-samsung-galaxy-phones/
+https://gizmodo.com/government-shutdown-grounds-daytime-launches-for-spacex-and-other-private-space-companies-2000683084
 
 ## Some of my projects:
 

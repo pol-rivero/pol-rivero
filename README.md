@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Day skies fall silent—
-rockets dream in hangars, wait
-for the moon’s green light.
+Daylight rockets wait  
+Night skies claim their thundered arcs  
+Shutdown dims the sky  
 ```
 
 Reference:

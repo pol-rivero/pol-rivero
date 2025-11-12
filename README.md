@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Daylight rockets wait  
-Night skies claim their thundered arcs  
-Shutdown dims the sky  
+Clouds hold whispered code
+Phones bloom with silent learning
+Private storms of light
 ```
 
 Reference:
 
-https://gizmodo.com/government-shutdown-grounds-daytime-launches-for-spacex-and-other-private-space-companies-2000683084
+https://9to5google.com/2025/11/11/google-private-ai-compute-pixel/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Clouds hold whispered code
-Phones bloom with silent learning
-Private storms of light
+Smishing lights the dark,
+Google hunts the Lighthouse thieves,
+Trust texted, undone.
 ```
 
 Reference:
 
-https://9to5google.com/2025/11/11/google-private-ai-compute-pixel/
+https://www.theverge.com/news/818554/google-lighthouse-text-spam-lawsuit
 
 ## Some of my projects:
 

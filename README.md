@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Smishing lights the dark,
-Google hunts the Lighthouse thieves,
-Trust texted, undone.
+Agent hands the cart,
+whispers to stores and checkouts,
+Clicks bloom into buys.
 ```
 
 Reference:
 
-https://www.theverge.com/news/818554/google-lighthouse-text-spam-lawsuit
+https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/
 
 ## Some of my projects:
 

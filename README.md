@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Agent hands the cart,
-whispers to stores and checkouts,
-Clicks bloom into buys.
+Debris haunts their path
+Handover done, they linger
+Earth calls through static
 ```
 
 Reference:
 
-https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/
+https://english.news.cn/20251111/ff7051762b7a4ded8584f1499d92afef/c.html
 
 ## Some of my projects:
 

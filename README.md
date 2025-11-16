@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Debris haunts their path
-Handover done, they linger
-Earth calls through static
+Shenzhou waits in dusk
+the station hums, scarred by dust
+Home slips one week late
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Future carts converse
-Google's agent calls the store
-Checkout clicks itself
+Debris whispers past
+Homecoming waits in starlight
+Station waits, hearts slow
 ```
 
 Reference:
 
-https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/
+http://www.news.cn/photo/20251114/5746568b7cdc4aa7ae514bed3d805ebb/c.html
 
 ## Some of my projects:
 

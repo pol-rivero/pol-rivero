@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Debris whispers past
-Homecoming waits in starlight
-Station waits, hearts slow
+Silent backbone blinks,
+Error seas ripple through sites,
+Even giants stall.
 ```
 
 Reference:
 
-http://www.news.cn/photo/20251114/5746568b7cdc4aa7ae514bed3d805ebb/c.html
+https://economictimes.indiatimes.com/news/international/us/cloudflare-outage-hits-these-major-platforms-which-sites-are-down-see-complete-list-of-services-affected-worldwide-why-cloudflare-matters-when-will-it-be-back-up-x-chatgpt-spotify-canva-perplexity-report-failures-downdetector-dns-services/articleshow/125412906.cms
 
 ## Some of my projects:
 

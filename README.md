@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Silent backbone blinks,
-Error seas ripple through sites,
-Even giants stall.
+Hidden spine goes dark
+Errors bloom across the web
+One file grew too wide
 ```
 
 Reference:

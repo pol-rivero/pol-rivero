@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Hidden spine goes dark
-Errors bloom across the web
-One file grew too wide
+Ancient caves preserved,
+lamps lit by code in the dark,
+grues hum softly, free.
 ```
 
 Reference:
 
-https://economictimes.indiatimes.com/news/international/us/cloudflare-outage-hits-these-major-platforms-which-sites-are-down-see-complete-list-of-services-affected-worldwide-why-cloudflare-matters-when-will-it-be-back-up-x-chatgpt-spotify-canva-perplexity-report-failures-downdetector-dns-services/articleshow/125412906.cms
+https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ancient caves preserved,
-lamps lit by code in the dark,
-grues hum softly, free.
+Texas predawn steel
+Booster buckles during tests
+Moonbound hopes endure
 ```
 
 Reference:
 
-https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/
+https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-version-3-super-heavy-starship-booster-buckles-under-pressure-during-initial-tests
 
 ## Some of my projects:
 

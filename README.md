@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Texas predawn steel
-Booster buckles during tests
-Moonbound hopes endure
+Predawn steel sighs, bends—
+Super Heavy buckles, dreams
+of moons bide their time.
 ```
 
 Reference:

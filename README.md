@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Predawn steel sighs, bends—
-Super Heavy buckles, dreams
-of moons bide their time.
+Ancient caves speak free
+Zork's lantern lit for the Net
+Grues lurk in plaintext
 ```
 
 Reference:
 
-https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-version-3-super-heavy-starship-booster-buckles-under-pressure-during-initial-tests
+https://arstechnica.com/gaming/2025/11/microsoft-makes-zork-i-ii-and-iii-open-source-under-mit-license/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Stainless giant sighs
-Pressure buckles dawn-lit ribs
-Moon hopes hold their breath
+Lost key seals ballots
+Verifiable silence
+Trust needs a spare key.
 ```
 
 Reference:
 
-https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-version-3-super-heavy-starship-booster-buckles-under-pressure-during-initial-tests
+https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/
 
 ## Some of my projects:
 

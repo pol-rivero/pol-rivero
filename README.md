@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Lost key seals ballots
-Verifiable silence
-Trust needs a spare key.
+Starliner grounded,
+uncrewed lessons, careful hands,
+Dragon bears our hopes.
 ```
 
 Reference:
 
-https://arstechnica.com/security/2025/11/cryptography-group-cancels-election-results-after-official-loses-secret-key/
+
+
+https://www.messenger-inquirer.com/ap/ap_national_news/boeings-troubled-capsule-wont-carry-astronauts-on-next-space-station-flight/article_6f2f8457-3632-5580-a772-67f4cd40c0de.html
 
 ## Some of my projects:
 

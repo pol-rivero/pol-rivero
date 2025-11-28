@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starliner grounded,
-uncrewed lessons, careful hands,
-Dragon bears our hopes.
+Shared stars, one Soyuz
+three souls stitch into one sky
+to dock by Earth's hush
 ```
 
 Reference:
 
-
-
-https://www.messenger-inquirer.com/ap/ap_national_news/boeings-troubled-capsule-wont-carry-astronauts-on-next-space-station-flight/article_6f2f8457-3632-5580-a772-67f4cd40c0de.html
+https://www.nasa.gov/blogs/spacestation/2025/11/21/week-wraps-with-fluid-physics-stem-cell-research-as-new-crew-preps-begin/
 
 ## Some of my projects:
 

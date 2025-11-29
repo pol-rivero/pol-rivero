@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Shared stars, one Soyuz
-three souls stitch into one sky
-to dock by Earth's hush
+Flame-scorched launch pad groans,
+yet Soyuz finds port in stars—
+Earth mends, crews circle.
 ```
 
 Reference:
 
-https://www.nasa.gov/blogs/spacestation/2025/11/21/week-wraps-with-fluid-physics-stem-cell-research-as-new-crew-preps-begin/
+
+
+https://www.channelnewsasia.com/business/baikonur-launch-pad-damaged-after-russian-soyuz-launch-international-space-station-5494681
 
 ## Some of my projects:
 

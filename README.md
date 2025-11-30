@@ -1,14 +1,12 @@
 
 **Today's tech haiku:**
 ```
-Flame-scorched launch pad groans,
-yet Soyuz finds port in stars—
-Earth mends, crews circle.
+Fire lifts dreams skyward
+Baikonur scarred by ascent
+Stars dock; Earth bears wounds
 ```
 
 Reference:
-
-
 
 https://www.channelnewsasia.com/business/baikonur-launch-pad-damaged-after-russian-soyuz-launch-international-space-station-5494681
 

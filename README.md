@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Fire lifts dreams skyward
-Baikonur scarred by ascent
-Stars dock; Earth bears wounds
+Stars take what they will
+Soyuz rises, earth sighs and
+scorched steel remembers
 ```
 
 Reference:

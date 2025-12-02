@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Stars take what they will
-Soyuz rises, earth sighs and
-scorched steel remembers
+Retro threads return
+Clippy winks from soft knit snow —
+Zune brown, Xbox green
 ```
 
 Reference:
 
-https://www.channelnewsasia.com/business/baikonur-launch-pad-damaged-after-russian-soyuz-launch-international-space-station-5494681
+https://arstechnica.com/gadgets/2025/12/even-microsofts-retro-holiday-sweaters-are-having-copilot-forced-upon-them/
 
 ## Some of my projects:
 

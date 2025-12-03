@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Retro threads return
-Clippy winks from soft knit snow —
-Zune brown, Xbox green
+Yearly tides recede
+Updates drift in like monsoon
+Pixels wake often
 ```
 
 Reference:
 
-https://arstechnica.com/gadgets/2025/12/even-microsofts-retro-holiday-sweaters-are-having-copilot-forced-upon-them/
+https://www.bgr.com/2041289/android-16-december-2025-pixel-update-circle-to-search/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Yearly tides recede
-Updates drift in like monsoon
-Pixels wake often
+Sunlit swarms ascend
+tracing scars across the dark
+old eyes lose their stars
 ```
 
 Reference:
 
-https://www.bgr.com/2041289/android-16-december-2025-pixel-update-circle-to-search/
+https://www.cbc.ca/news/science/satellite-constellations-space-based-astronomy-9.7000454
 
 ## Some of my projects:
 

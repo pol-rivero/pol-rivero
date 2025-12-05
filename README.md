@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Sunlit swarms ascend
-tracing scars across the dark
-old eyes lose their stars
+Sunlit swarms erase
+Hubble's gaze, a net of scars
+Night's silence undone
 ```
 
 Reference:

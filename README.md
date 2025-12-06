@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Mirrors crowd the night
-Bright satellites scar the dark
-Eyes lose ancient light
+Sunlit satellites
+Hubble blinks at mirrored scars
+Deep time dims with glare
 ```
 
 Reference:

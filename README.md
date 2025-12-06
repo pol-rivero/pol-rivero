@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Sunlit swarms erase
-Hubble's gaze, a net of scars
-Night's silence undone
+Mirrors crowd the night
+Bright satellites scar the dark
+Eyes lose ancient light
 ```
 
 Reference:

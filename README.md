@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Sunlit satellites
-Hubble blinks at mirrored scars
-Deep time dims with glare
+Starlight veiled by swarms
+Hubble blinks at mirrored wings
+Orbits drown the dark
 ```
 
 Reference:

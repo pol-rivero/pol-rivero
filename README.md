@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Starlight veiled by swarms
-Hubble blinks at mirrored wings
-Orbits drown the dark
+Sunlit swarms drift by
+Hubble blinks through scarred twilight—
+Night maps with bright scars
 ```
 
 Reference:

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Sunlit swarms drift by
-Hubble blinks through scarred twilight—
-Night maps with bright scars
+Open agents grow
+MCP threads intertwine
+One commons to roam
 ```
 
 Reference:
 
-https://www.cbc.ca/news/science/satellite-constellations-space-based-astronomy-9.7000454
+https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 
 ## Some of my projects:
 

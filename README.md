@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Open agents grow
-MCP threads intertwine
-One commons to roam
+Old scout around Mars
+slips into red silence, lost—
+we hold breath for dawn
 ```
 
 Reference:
 
-https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+https://spacenews.com/nasa-loses-contact-with-maven-mars-orbiter/
 
 ## Some of my projects:
 

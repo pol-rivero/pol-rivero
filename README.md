@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Old scout around Mars
-slips into red silence, lost—
-we hold breath for dawn
+Under the penguin,
+agents learn to share a tongue—
+standards stitch the spark.
 ```
 
 Reference:
 
-https://spacenews.com/nasa-loses-contact-with-maven-mars-orbiter/
+https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Under the penguin,
-agents learn to share a tongue—
-standards stitch the spark.
+Bootprints in red dust
+seeking whispers under stones
+are we alone here?
 ```
 
 Reference:
 
-https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+https://todayheadline.co/1st-human-missions-to-mars-should-hunt-for-signs-of-life-report-says/
 
 ## Some of my projects:
 

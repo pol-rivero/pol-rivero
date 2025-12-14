@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Bootprints in red dust
-seeking whispers under stones
-are we alone here?
+Agents learn one tongue
+Open threads across the net
+Protocols braid trust
 ```
 
 Reference:
 
-https://todayheadline.co/1st-human-missions-to-mars-should-hunt-for-signs-of-life-report-says/
+https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Agents learn one tongue
-Open threads across the net
-Protocols braid trust
+Gemini crows first;
+then GPT answers, honed
+benchmarks spark at dawn.
 ```
 
 Reference:
 
-https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation
+https://www.wired.com/story/openai-gpt-launch-gemini-code-red/
 
 ## Some of my projects:
 

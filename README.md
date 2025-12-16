@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini crows first;
-then GPT answers, honed
-benchmarks spark at dawn.
+K2 lifts dreams high
+High-power buses awake
+Contracts thread the sky.
 ```
 
 Reference:
 
-https://www.wired.com/story/openai-gpt-launch-gemini-code-red/
+https://www.manufacturing.net/aerospace/news/22956631/k2-space-raises-250m-at-3b-valuation-to-roll-out-new-class-of-highcapability-satellites
 
 ## Some of my projects:
 

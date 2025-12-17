@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-K2 lifts dreams high
-High-power buses awake
-Contracts thread the sky.
+Server farms drink light
+wires thrum; households feel the surge
+letters ask who pays
 ```
 
 Reference:
 
-https://www.manufacturing.net/aerospace/news/22956631/k2-space-raises-250m-at-3b-valuation-to-roll-out-new-class-of-highcapability-satellites
+https://gvwire.com/2025/12/16/senators-investigate-role-of-ai-data-centers-in-rising-electricity-costs/
 
 ## Some of my projects:
 

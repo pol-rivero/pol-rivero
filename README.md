@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Server farms drink light
-wires thrum; households feel the surge
-letters ask who pays
+Grids hum with new load
+Senators track data thirst
+Bills rise like heat waves
 ```
 
 Reference:

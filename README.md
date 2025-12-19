@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Grids hum with new load
-Senators track data thirst
-Bills rise like heat waves
+Perseverance rolls
+miles of rust and quiet light
+red dust keeps secrets
 ```
 
 Reference:
 
-https://gvwire.com/2025/12/16/senators-investigate-role-of-ai-data-centers-in-rising-electricity-costs/
+https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/
 
 ## Some of my projects:
 

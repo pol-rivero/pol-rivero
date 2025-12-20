@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Perseverance rolls
-miles of rust and quiet light
-red dust keeps secrets
+Meek armies advance,
+trading brawn for countless feet—
+Earth hums in their wake.
 ```
 
 Reference:
 
-https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-ready-to-roll-for-miles-in-years-ahead/
+https://scitechdaily.com/ants-traded-strength-for-numbers-and-it-worked/
 
 ## Some of my projects:
 

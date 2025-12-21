@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Meek armies advance,
-trading brawn for countless feet—
-Earth hums in their wake.
+Not fangs, but countless—
+soft steps till the soil is theirs;
+numbers wear down stone.
 ```
 
 Reference:

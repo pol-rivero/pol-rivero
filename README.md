@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Not fangs, but countless—
-soft steps till the soil is theirs;
-numbers wear down stone.
+Meek armies of ants
+trade might for teeming numbers—
+soil hums with their rule
 ```
 
 Reference:

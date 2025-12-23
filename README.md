@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Meek armies of ants
-trade might for teeming numbers—
-soil hums with their rule
+Moonbound breaths hold still
+Orion hums, clocks start-stop
+Countdown dreams the arc
 ```
 
 Reference:
 
-https://scitechdaily.com/ants-traded-strength-for-numbers-and-it-worked/
+https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/
 
 ## Some of my projects:
 

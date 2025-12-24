@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moonbound breaths hold still
-Orion hums, clocks start-stop
-Countdown dreams the arc
+Long March booster falls,
+reusable dreams slip once—
+sky keeps its secrets.
 ```
 
 Reference:
 
-https://www.nasa.gov/image-article/artemis-ii-crew-rehearse-launch-day-demonstration/
+http://hkcna.hk/docDetail.jsp?id=101198512&channel=2813
 
 ## Some of my projects:
 

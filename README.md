@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Booster falls to sea
-second try, smoke meets salt spray
-dreams arc, rise again
+Boosters fall to Earth,
+then rise as tickers on STAR—
+steel and symbols soar.
 ```
 
 Reference:
 
-https://www.freemalaysiatoday.com/category/world/2025/12/23/chinas-second-attempt-at-completing-a-reusable-rocket-test-fails
+http://hkcna.hk/docDetail.jsp?id=101198512&channel=2813
 
 ## Some of my projects:
 

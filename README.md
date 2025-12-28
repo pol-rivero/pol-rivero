@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Boosters fall to Earth,
-then rise as tickers on STAR—
-steel and symbols soar.
+Reused rockets rise
+STAR market clears a fast lane
+Booster lands, lifts up
 ```
 
 Reference:

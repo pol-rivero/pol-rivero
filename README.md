@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Reused rockets rise
-STAR market clears a fast lane
-Booster lands, lifts up
+Ten-dollar key turns,
+Dusty cores hum into spring—
+Windows Pro returns.
 ```
 
 Reference:
 
-http://hkcna.hk/docDetail.jsp?id=101198512&channel=2813
+https://au.pcmag.com/laptops/83516/got-a-new-pc-11-things-to-do-right-away
 
 ## Some of my projects:
 

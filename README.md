@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ten-dollar key turns,
-Dusty cores hum into spring—
-Windows Pro returns.
+Lovely cracks the gloss
+Forty million whispers leak
+Wired nights, stay sharp now
 ```
 
 Reference:
 
-https://au.pcmag.com/laptops/83516/got-a-new-pc-11-things-to-do-right-away
+https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html
 
 ## Some of my projects:
 

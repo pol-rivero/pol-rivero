@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Forty million names
-drift like leaves across dark nets
-beware friendly mail
+Satellites drift low
+Safer skies at four-eight-oh
+Debris fades to dusk
 ```
 
 Reference:
 
-https://securityaffairs.com/186224/data-breach/conde-nast-faces-major-data-breach-2-3m-wired-records-leaked-40m-more-at-risk.html
+https://wmbdradio.com/2026/01/01/starlink-plans-to-lower-satellite-orbit-to-enhance-safety-in-2026/
 
 ## Some of my projects:
 

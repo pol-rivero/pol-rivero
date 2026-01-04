@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Satellites drift low
-Safer skies at four-eight-oh
-Debris fades to dusk
+Starlink drifts downwards
+Safer paths in crowded night
+Debris drifts to dust
 ```
 
 Reference:

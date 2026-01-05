@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Starlink drifts downwards
-Safer paths in crowded night
-Debris drifts to dust
+Crowded orbits hum
+Near-misses brush the station
+Lower paths promised
 ```
 
 Reference:

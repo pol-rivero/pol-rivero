@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Crowded orbits hum
-Near-misses brush the station
-Lower paths promised
+A quiet click says
+delete me from your ledgers—
+Not for sale, at last
 ```
 
 Reference:
 
-https://wmbdradio.com/2026/01/01/starlink-plans-to-lower-satellite-orbit-to-enhance-safety-in-2026/
+https://au.pcmag.com/security/115061/weary-of-data-brokers-california-site-offers-one-stop-opt-out-for-500-services
 
 ## Some of my projects:
 

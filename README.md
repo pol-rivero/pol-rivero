@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-A quiet click says
-delete me from your ledgers—
-Not for sale, at last
+Gemini whispers
+the living room learns to search
+with clips and pictures
 ```
 
 Reference:
 
-https://au.pcmag.com/security/115061/weary-of-data-brokers-california-site-offers-one-stop-opt-out-for-500-services
+https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/
 
 ## Some of my projects:
 

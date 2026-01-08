@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini whispers
-the living room learns to search
-with clips and pictures
+Six winters later,
+Ballie, promised orb, nowhere—
+CES ghosts a ball
 ```
 
 Reference:
 
-https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/
+https://www.cnbctv18.com/technology/samsungs-rolling-ballie-robot-indefinitely-shelved-after-delays-ws-l-19816445.htm
 
 ## Some of my projects:
 

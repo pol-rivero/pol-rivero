@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Airwaves open wide
-Six-gigahertz gets louder
-Unlicensed paths bloom
+Spacewalk waits in hush
+medical whispers, unnamed
+stars hold patient watch
 ```
 
 Reference:
 
-https://www.tvtechnology.com/regulatory-legal/fcc/fcc-to-vote-on-proposals-expanding-unlicensed-use-of-6-ghz-band
+https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/
 
 ## Some of my projects:
 

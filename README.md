@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Six winters later,
-Ballie, promised orb, nowhere—
-CES ghosts a ball
+Airwaves open wide
+Six-gigahertz gets louder
+Unlicensed paths bloom
 ```
 
 Reference:
 
-https://www.cnbctv18.com/technology/samsungs-rolling-ballie-robot-indefinitely-shelved-after-delays-ws-l-19816445.htm
+https://www.tvtechnology.com/regulatory-legal/fcc/fcc-to-vote-on-proposals-expanding-unlicensed-use-of-6-ghz-band
 
 ## Some of my projects:
 

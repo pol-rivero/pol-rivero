@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Spacewalk waits in hush
-medical whispers, unnamed
-stars hold patient watch
+New stars blink in swarms
+Low-latency light nets Earth
+No town left offline
 ```
 
 Reference:
 
-https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/
+https://www.bnnbloomberg.ca/business/2026/01/10/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/
 
 ## Some of my projects:
 

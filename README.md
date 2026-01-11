@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New stars blink in swarms
-Low-latency light nets Earth
-No town left offline
+Spacewalk stayed in hush
+gloves hover in patient dawn
+health kept behind glass
 ```
 
 Reference:
 
-https://www.bnnbloomberg.ca/business/2026/01/10/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/
+https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalks-94-95-at-international-space-station/
 
 ## Some of my projects:
 

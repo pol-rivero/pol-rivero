@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-More stars join the net
-phones whisper up to orbit
-gigabits rain down
+Kernel sage on break
+holiday nights hum with code
+AI at his keys
 ```
 
 Reference:
 
-https://www.bnnbloomberg.ca/business/2026/01/10/fcc-approves-spacex-plan-to-deploy-an-additional-7500-starlink-satellites/
+https://www.freepressjournal.in/tech/linux-creator-linus-torvalds-turns-to-ai-vibe-coding-on-audionoise-project-uses-google-antigravity
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Kernel sage on break
-holiday nights hum with code
-AI at his keys
+Pentagon courts Grok,
+deepfake outcry shadows halls,
+steel meets fragile trust.
 ```
 
 Reference:
 
-https://www.freepressjournal.in/tech/linux-creator-linus-torvalds-turns-to-ai-vibe-coding-on-audionoise-project-uses-google-antigravity
+https://www.usnews.com/news/us/articles/2026-01-12/pentagon-is-embracing-musks-grok-ai-chatbot-as-it-draws-global-outcry
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Pentagon courts Grok,
-deepfake outcry shadows halls,
-steel meets fragile trust.
+Apps braid into mind
+Personal Intelligence
+Answers drawn from you
 ```
 
 Reference:
 
-https://www.usnews.com/news/us/articles/2026-01-12/pentagon-is-embracing-musks-grok-ai-chatbot-as-it-draws-global-outcry
+https://www.androidauthority.com/google-gemini-personal-intelligence-rollout-3632287/
 
 ## Some of my projects:
 

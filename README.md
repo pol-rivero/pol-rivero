@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Apps braid into mind
-Personal Intelligence
-Answers drawn from you
+Whispers ride the air
+Fast Pair left an open key
+Patch your quiet world
 ```
 
 Reference:
 
-https://www.androidauthority.com/google-gemini-personal-intelligence-rollout-3632287/
+https://www.tomsguide.com/audio/headphones/hundreds-of-millions-of-earbuds-headphones-and-speakers-vulnerable-to-tracking-and-eavesdropping-what-to-do-right-now
 
 ## Some of my projects:
 

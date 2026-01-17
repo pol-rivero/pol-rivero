@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Whispers ride the air
-Fast Pair left an open key
-Patch your quiet world
+Commons ink new deals—
+knowledge feeds the hungry mines,
+open wisdom paid.
 ```
 
 Reference:
 
-https://www.tomsguide.com/audio/headphones/hundreds-of-millions-of-earbuds-headphones-and-speakers-vulnerable-to-tracking-and-eavesdropping-what-to-do-right-now
+https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/
 
 ## Some of my projects:
 

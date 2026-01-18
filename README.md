@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Commons ink new deals—
-knowledge feeds the hungry mines,
-open wisdom paid.
+Commons turns a page,
+Giants license our footnotes—
+AI drinks from wells.
 ```
 
 Reference:

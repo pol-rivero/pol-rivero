@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Commons turns a page,
-Giants license our footnotes—
-AI drinks from wells.
+Shadow stacks on dock
+Judge orders data erased
+Mirrors keep the moon
 ```
 
 Reference:
 
-https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/
+https://www.webpronews.com/us-court-orders-annas-archive-to-delete-worldcat-data-over-piracy/
 
 ## Some of my projects:
 

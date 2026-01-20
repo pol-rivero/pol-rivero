@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Shadow stacks on dock
-Judge orders data erased
-Mirrors keep the moon
+Farewell, glass and steel
+ROG dreams drift to code
+Chips learn a new path
 ```
 
 Reference:
 
-https://www.webpronews.com/us-court-orders-annas-archive-to-delete-worldcat-data-over-piracy/
+https://www.gizmochina.com/2026/01/18/asus-smartphone-strategy-update-ai-focus-2026/
 
 ## Some of my projects:
 

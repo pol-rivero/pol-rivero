@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Farewell, glass and steel
-ROG dreams drift to code
-Chips learn a new path
+Phones fall quiet now,
+Asus turns to silicon,
+dreams of minds, not calls.
 ```
 
 Reference:

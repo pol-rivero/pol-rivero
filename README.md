@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Phones fall quiet now,
-Asus turns to silicon,
-dreams of minds, not calls.
+Optic swarms weave light
+LEO, MEO span the globe
+Six terabits sing
 ```
 
 Reference:
 
-https://www.gizmochina.com/2026/01/18/asus-smartphone-strategy-update-ai-focus-2026/
+https://www.pcmag.com/news/blue-origin-plans-a-faster-starlink-competitor-in-terawave?test_uuid=04IpBmWGZleS0I0J3epvMrC&test_variant=B
 
 ## Some of my projects:
 

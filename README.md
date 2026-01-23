@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Optic swarms weave light
-LEO, MEO span the globe
-Six terabits sing
+Trailer stirs the dark
+Artemis wakes our long night
+Four hearts arc the moon
 ```
 
 Reference:
 
-https://www.pcmag.com/news/blue-origin-plans-a-faster-starlink-competitor-in-terawave?test_uuid=04IpBmWGZleS0I0J3epvMrC&test_variant=B
+https://www.arcamax.com/knowledge/scienceandtech/technews/s-3987689
 
 ## Some of my projects:
 

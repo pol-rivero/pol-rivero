@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Trailer stirs the dark
-Artemis wakes our long night
-Four hearts arc the moon
+Market gates close now
+bots barred from bidding our wills
+hands-off carts go still
 ```
 
 Reference:
 
-https://www.arcamax.com/knowledge/scienceandtech/technews/s-3987689
+https://www.webpronews.com/ebay-bans-ai-shopping-bots-and-scrapers-from-february-2026/
 
 ## Some of my projects:
 

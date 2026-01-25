@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Market gates close now
-bots barred from bidding our wills
-hands-off carts go still
+New joint venture blooms
+Guarding data, code, and feed
+Ban threat fades stateside
 ```
 
 Reference:
 
-https://www.webpronews.com/ebay-bans-ai-shopping-bots-and-scrapers-from-february-2026/
+https://rocketnews.com/2026/01/heres-what-you-should-know-about-the-us-tiktok-deal/
 
 ## Some of my projects:
 

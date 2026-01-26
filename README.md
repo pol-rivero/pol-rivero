@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New joint venture blooms
-Guarding data, code, and feed
-Ban threat fades stateside
+Wiper wind whispers,
+grid holds fast in winter light—
+darkness kept at bay.
 ```
 
 Reference:
 
-https://rocketnews.com/2026/01/heres-what-you-should-know-about-the-us-tiktok-deal/
+https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/
 
 ## Some of my projects:
 

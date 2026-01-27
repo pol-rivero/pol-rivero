@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Wiper wind whispers,
-grid holds fast in winter light—
-darkness kept at bay.
+Keys slipped through locked doors
+BitLocker trust cracks open
+Silence hums like fear
 ```
 
 Reference:
 
-https://techcrunch.com/2026/01/23/researchers-say-russian-government-hackers-were-behind-attempted-poland-power-outage/
+https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/
 
 ## Some of my projects:
 

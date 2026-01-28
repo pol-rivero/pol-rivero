@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Keys slipped through locked doors
-BitLocker trust cracks open
-Silence hums like fear
+Portal sweeps the sky
+Phased arrays catch falling light
+Earth drinks data rain
 ```
 
 Reference:
 
-https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/
+https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/
 
 ## Some of my projects:
 

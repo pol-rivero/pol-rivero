@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Portal sweeps the sky
-Phased arrays catch falling light
-Earth drinks data rain
+Cars slow; bots take stage
+Silicon sinews learn fast
+Wheels dream Optimus
 ```
 
 Reference:
 
-https://techcrunch.com/2026/01/27/northwood-space-secures-a-100m-series-b-and-a-50m-space-force-contract/
+https://electrek.co/2026/01/28/tesla-tsla-brand-value-crashed/
 
 ## Some of my projects:
 

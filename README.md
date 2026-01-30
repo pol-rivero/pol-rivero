@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cars slow; bots take stage
-Silicon sinews learn fast
-Wheels dream Optimus
+Marshmallow castles
+spawn from prompts, new worlds breathing
+DeepMind dreams to play
 ```
 
 Reference:
 
-https://electrek.co/2026/01/28/tesla-tsla-brand-value-crashed/
+https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/
 
 ## Some of my projects:
 

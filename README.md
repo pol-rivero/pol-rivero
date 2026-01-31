@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Marshmallow castles
-spawn from prompts, new worlds breathing
-DeepMind dreams to play
+Tourist flames go dim
+Engines hush, eyes turn moonward
+Footprints before views
 ```
 
 Reference:
 
-https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/
+https://www.devdiscourse.com/article/technology/3788032-update-2-blue-origin-shutters-new-shepard-rocket-program-to-focus-on-moon-lander-development
 
 ## Some of my projects:
 

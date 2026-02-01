@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Tourist flames go dim
-Engines hush, eyes turn moonward
-Footprints before views
+Tourists wait on Earth
+New Shepard sleeps for the Moon
+Glenn eyes orbital
 ```
 
 Reference:

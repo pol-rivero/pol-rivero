@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Shepard sleeps two years
-Moonward engines learn to dream
-Glenn eyes orbit's gate
+Notepad's updates turn
+trusted code into a door —
+night slips through the code
 ```
 
 Reference:
 
-https://www.devdiscourse.com/article/technology/3788032-update-2-blue-origin-shutters-new-shepard-rocket-program-to-focus-on-moon-lander-development
+https://betanews.com/article/notepad-reveals-its-updater-was-hijacked-by-state-sponsored-hackers/
 
 ## Some of my projects:
 

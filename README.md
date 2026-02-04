@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Notepad's updates turn
-trusted code into a door —
-night slips through the code
+Artemis waits, hush
+Hydrogen whispers: hold now
+March will light the sky
 ```
 
 Reference:
 
-https://betanews.com/article/notepad-reveals-its-updater-was-hijacked-by-state-sponsored-hackers/
+https://www.wfla.com/news/florida/nasa-targets-march-launch-of-moon-rocket-after-test-run-reveals-fuel-leaks/
 
 ## Some of my projects:
 

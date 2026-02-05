@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Artemis waits, hush
-Hydrogen whispers: hold now
-March will light the sky
+Lockdown Mode holds fast
+Agents reach the Mac by touch
+Secrets wait, sealed tight
 ```
 
 Reference:
 
-https://www.wfla.com/news/florida/nasa-targets-march-launch-of-moon-rocket-after-test-run-reveals-fuel-leaks/
+https://9to5mac.com/2026/02/04/lockdown-mode-prevented-fbi-from-getting-into-reporter-iphone/
 
 ## Some of my projects:
 

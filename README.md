@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lockdown Mode holds fast
-Agents reach the Mac by touch
-Secrets wait, sealed tight
+Quick Share meets AirDrop
+Photos cross the garden wall
+Androids trade in light
 ```
 
 Reference:
 
-https://9to5mac.com/2026/02/04/lockdown-mode-prevented-fbi-from-getting-into-reporter-iphone/
+https://www.androidauthority.com/google-android-airdrop-expansion-3638222/
 
 ## Some of my projects:
 

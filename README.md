@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Quick Share meets AirDrop
-Photos cross the garden wall
-Androids trade in light
+Agents forge a loom,
+Rust threads weaving C from thought—
+Doom boots, no hands' touch.
 ```
 
 Reference:
 
-https://www.androidauthority.com/google-android-airdrop-expansion-3638222/
+https://www.indiatoday.in/technology/news/story/after-saas-scare-anthropic-launches-new-claude-ai-with-agent-teams-that-build-c-compilers-on-their-own-2863917-2026-02-06
 
 ## Some of my projects:
 

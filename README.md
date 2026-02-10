@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Sixteen minds conspire
-to forge C from whispered code,
-agents dream in loops
+Lyrics behind glass
+The counter ticks toward hush
+Pay to sing along
 ```
 
 Reference:
 
-https://www.indiatoday.in/technology/news/story/after-saas-scare-anthropic-launches-new-claude-ai-with-agent-teams-that-build-c-compilers-on-their-own-2863917-2026-02-06
+https://gadgetsnow.indiatimes.com/apps/youtube-music-limits-full-lyrics-access-to-these-users/articleshow/128067558.cms
 
 ## Some of my projects:
 

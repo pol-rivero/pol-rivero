@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lyrics behind glass
-The counter ticks toward hush
-Pay to sing along
+Search keeps vigil now,
+Passports, licenses, numbers—
+When found, links go dark.
 ```
 
 Reference:
 
-https://gadgetsnow.indiatimes.com/apps/youtube-music-limits-full-lyrics-access-to-these-users/articleshow/128067558.cms
+https://tech.yahoo.com/ai/gemini/articles/google-now-remove-even-more-141052529.html
 
 ## Some of my projects:
 

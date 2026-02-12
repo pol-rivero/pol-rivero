@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Search keeps vigil now,
-Passports, licenses, numbers—
-When found, links go dark.
+Starbase wakes with frost
+V3 sings in cryo hush
+steel remembers fire
 ```
 
 Reference:
 
-https://tech.yahoo.com/ai/gemini/articles/google-now-remove-even-more-141052529.html
+https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/
 
 ## Some of my projects:
 

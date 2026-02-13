@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starbase wakes with frost
-V3 sings in cryo hush
-steel remembers fire
+Long-awaited streams
+meet Vision Pro's native glass,
+shorts to VR seas
 ```
 
 Reference:
 
-https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/
+https://9to5mac.com/2026/02/12/youtube-launches-native-app-for-apple-vision-pro/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Long-awaited streams
-meet Vision Pro's native glass,
-shorts to VR seas
+At last, YouTube app
+opens in Vision Pro now
+Shorts, 3D, VR
 ```
 
 Reference:

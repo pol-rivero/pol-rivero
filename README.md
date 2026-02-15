@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-At last, YouTube app
-opens in Vision Pro now
-Shorts, 3D, VR
+Hydrogen whispers
+seals tested by engineers
+confidence through checks
 ```
 
 Reference:
 
-https://9to5mac.com/2026/02/12/youtube-launches-native-app-for-apple-vision-pro/
+https://rocketnews.com/2026/02/following-confidence-test-nasa-continues-artemis-ii-data-review-2/
 
 ## Some of my projects:
 

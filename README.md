@@ -2,13 +2,13 @@
 **Today's tech haiku:**
 ```
 Hydrogen whispers
-seals tested by engineers
-confidence through checks
+through the SLS cold seals,
+the Moon waits, again.
 ```
 
 Reference:
 
-https://rocketnews.com/2026/02/following-confidence-test-nasa-continues-artemis-ii-data-review-2/
+https://www.infranken.de/ueberregional/newsticker-national/wissenschaft/bemannte-nasa-mondmission-probleme-auch-bei-weiterem-test-art-6321803
 
 ## Some of my projects:
 

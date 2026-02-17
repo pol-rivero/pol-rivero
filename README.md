@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Hydrogen whispers
-through the SLS cold seals,
-the Moon waits, again.
+The Moon waits again
+Fickle hydrogen stalls flight
+Patience leaks through seals
 ```
 
 Reference:
 
-https://www.infranken.de/ueberregional/newsticker-national/wissenschaft/bemannte-nasa-mondmission-probleme-auch-bei-weiterem-test-art-6321803
+https://rocketnews.com/2026/02/following-confidence-test-nasa-continues-artemis-ii-data-review-2/
 
 ## Some of my projects:
 

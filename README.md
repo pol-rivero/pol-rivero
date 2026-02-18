@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-The Moon waits again
-Fickle hydrogen stalls flight
-Patience leaks through seals
+Moon waits, seals still weep
+Hydrogen hisses its doubts
+Launch slips through our hands
 ```
 
 Reference:

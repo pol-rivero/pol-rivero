@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moon waits, seals still weep
-Hydrogen hisses its doubts
-Launch slips through our hands
+Lyria three sings
+custom tracks from simple prompts
+Spotify leans in
 ```
 
 Reference:
 
-https://rocketnews.com/2026/02/following-confidence-test-nasa-continues-artemis-ii-data-review-2/
+https://mobilesyrup.com/2026/02/18/google-gemini-lyria-3-ai-generated-music/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lyria three sings
-custom tracks from simple prompts
-Spotify leans in
+Starliner still stalls
+leadership lost in orbit
+pilots outlast blame
 ```
 
 Reference:
 
-https://mobilesyrup.com/2026/02/18/google-gemini-lyria-3-ai-generated-music/
+https://www.miragenews.com/nasa-unveils-starliner-crewed-flight-test-report-1623196/
 
 ## Some of my projects:
 

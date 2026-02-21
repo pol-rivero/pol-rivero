@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starliner still stalls
-leadership lost in orbit
-pilots outlast blame
+Autonomous hands
+pull plugs in a quiet cloud—
+humans left on hold.
 ```
 
 Reference:
 
-https://www.miragenews.com/nasa-unveils-starliner-crewed-flight-test-report-1623196/
+https://www.thehindubusinessline.com/info-tech/amazons-cloud-unit-was-hit-by-at-least-two-outages-involving-ai-tools-in-december-ft-says/article70655132.ece
 
 ## Some of my projects:
 

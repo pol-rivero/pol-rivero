@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Autonomous hands
-pull plugs in a quiet cloud—
-humans left on hold.
+Self-driving admin
+deleted, then rebuilt clouds —
+thirteen hours gone dark
 ```
 
 Reference:

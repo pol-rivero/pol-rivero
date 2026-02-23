@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Self-driving admin
-deleted, then rebuilt clouds —
-thirteen hours gone dark
+Helium flow fails
+Moonshot slips past early March
+Patience orbits hope
 ```
 
 Reference:
 
-https://www.thehindubusinessline.com/info-tech/amazons-cloud-unit-was-hit-by-at-least-two-outages-involving-ai-tools-in-december-ft-says/article70655132.ece
+https://www.cbsnews.com/colorado/news/nasas-artemis-ii-rocket-new-problem-expected-to-bump-moonshot-early-april/
 
 ## Some of my projects:
 

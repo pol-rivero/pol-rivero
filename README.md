@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Helium flow fails
-Moonshot slips past early March
-Patience orbits hope
+Helium hush breaks,
+Four souls wait where night now blooms,
+Moon holds its breath, late.
 ```
 
 Reference:

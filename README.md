@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Helium hush breaks,
-Four souls wait where night now blooms,
-Moon holds its breath, late.
+Assembly lines bloom
+In north Houston’s Foxconn halls
+Minis made at home
 ```
 
 Reference:
 
-https://www.cbsnews.com/colorado/news/nasas-artemis-ii-rocket-new-problem-expected-to-bump-moonshot-early-april/
+https://www.devdiscourse.com/article/technology/3815335-update-1-apple-to-shift-some-mac-mini-production-to-houston-from-asia-wsj-reports
 
 ## Some of my projects:
 

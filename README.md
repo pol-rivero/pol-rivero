@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Assembly lines bloom
-In north Houston’s Foxconn halls
-Minis made at home
+Racks hum like beehives
+six gigawatts for AI
+partners feed the cloud
 ```
 
 Reference:
 
-https://www.devdiscourse.com/article/technology/3815335-update-1-apple-to-shift-some-mac-mini-production-to-houston-from-asia-wsj-reports
+https://itnewsonline.com/GlobeNewswire/AMD-and-Meta-Announce-Expanded-Strategic-Partnership-to-Deploy-6-Gigawatts-of-AMD-GPUs/116301
 
 ## Some of my projects:
 

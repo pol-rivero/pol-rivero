@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Racks hum like beehives
-six gigawatts for AI
-partners feed the cloud
+Nano Banana
+spins new images, swifter
+through Gemini's gleam
 ```
 
 Reference:
 
-https://itnewsonline.com/GlobeNewswire/AMD-and-Meta-Announce-Expanded-Strategic-Partnership-to-Deploy-6-Gigawatts-of-AMD-GPUs/116301
+https://9to5google.com/2026/02/26/nano-banana-2-gemini-app/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Nano Banana
-spins new images, swifter
-through Gemini's gleam
+Agents weave the clicks
+Reading screens, chaining models—
+Work flows while we think
 ```
 
 Reference:
 
-https://9to5google.com/2026/02/26/nano-banana-2-gemini-app/
+https://www.geo.tv/latest/653119-discover-perplexity-computer-improving-workflows-with-multiple-ai-models
 
 ## Some of my projects:
 

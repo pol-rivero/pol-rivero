@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Agents weave the clicks
-Reading screens, chaining models—
-Work flows while we think
+Silent cursors move,
+agents weave through blinking panes—
+work clicks into place.
 ```
 
 Reference:

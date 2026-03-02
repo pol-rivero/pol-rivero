@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent cursors move,
-agents weave through blinking panes—
-work clicks into place.
+Before qubits wake
+Chrome shields the web with new math
+Big keys, quiet proof
 ```
 
 Reference:
 
-https://www.geo.tv/latest/653119-discover-perplexity-computer-improving-workflows-with-multiple-ai-models
+https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/
 
 ## Some of my projects:
 

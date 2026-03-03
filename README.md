@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Before qubits wake
-Chrome shields the web with new math
-Big keys, quiet proof
+Ryzen desktops wake
+NPUs enter sockets
+local dreams take shape
 ```
 
 Reference:
 
-https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/
+https://me.pcmag.com/en/processors/35662/amd-packs-an-npu-into-ryzen-desktop-processors-built-for-ai
 
 ## Some of my projects:
 

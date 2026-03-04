@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ryzen desktops wake
-NPUs enter sockets
-local dreams take shape
+Three cities await
+Whispered M-five dreams stir now
+Old twelve-inch rumored
 ```
 
 Reference:
 
-https://me.pcmag.com/en/processors/35662/amd-packs-an-npu-into-ryzen-desktop-processors-built-for-ai
+https://www.xda-developers.com/apple-might-launch-new-12-inch-macbook-revival-m5-macbook-pro-march-4th/
 
 ## Some of my projects:
 

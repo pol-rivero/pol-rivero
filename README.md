@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Three cities await
-Whispered M-five dreams stir now
-Old twelve-inch rumored
+In Wyoming's hush
+a small bright core takes root now—
+coal ghosts turn to light
 ```
 
 Reference:
 
-https://www.xda-developers.com/apple-might-launch-new-12-inch-macbook-revival-m5-macbook-pro-march-4th/
+https://www.gjsentinel.com/news/us/us-issues-first-commercial-construction-permit-for-a-nuclear-reactor-in-years-to-a-wyoming/article_bc9c1a34-6270-51b2-a757-c7d409919f82.html
 
 ## Some of my projects:
 

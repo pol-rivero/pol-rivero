@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In Wyoming's hush
-a small bright core takes root now—
-coal ghosts turn to light
+Cart waits in silence.
+Lightning deals dim and clocks stall.
+Checkout spins, no price.
 ```
 
 Reference:
 
-https://www.gjsentinel.com/news/us/us-issues-first-commercial-construction-permit-for-a-nuclear-reactor-in-years-to-a-wyoming/article_bc9c1a34-6270-51b2-a757-c7d409919f82.html
+https://www.tomsguide.com/computing/live/amazon-is-down-live-outage-report-as-users-cant-check-out-see-product-reviews-and-more
 
 ## Some of my projects:
 

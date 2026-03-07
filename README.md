@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Cart waits in silence.
-Lightning deals dim and clocks stall.
-Checkout spins, no price.
+Ding-dong, stage goes dark
+SLS sheds heavy dreams
+Centaur lights the path
 ```
 
 Reference:
 
-https://www.tomsguide.com/computing/live/amazon-is-down-live-outage-report-as-users-cant-check-out-see-product-reviews-and-more
+https://spaceflightnow.com/2026/03/07/nasa-contract-confirms-selection-of-ulas-centaur-5-as-new-upper-stage-for-the-sls-rocket/
 
 ## Some of my projects:
 

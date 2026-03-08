@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ding-dong, stage goes dark
-SLS sheds heavy dreams
-Centaur lights the path
+Silver dart finds stone
+A kiss that shortens orbits
+Practice to save home
 ```
 
 Reference:
 
-https://spaceflightnow.com/2026/03/07/nasa-contract-confirms-selection-of-ulas-centaur-5-as-new-upper-stage-for-the-sls-rocket/
+https://www.news4jax.com/tech/2026/03/06/spacecrafts-impact-changed-asteroids-orbit-around-the-sun-in-a-save-the-earth-test-study-finds/
 
 ## Some of my projects:
 

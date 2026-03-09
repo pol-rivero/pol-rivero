@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Silver dart finds stone
-A kiss that shortens orbits
-Practice to save home
+Swift metal kiss lands
+Moonlet's orbit skips a beat
+Earth learns to nudge fate
 ```
 
 Reference:

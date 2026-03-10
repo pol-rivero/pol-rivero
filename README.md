@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Swift metal kiss lands
-Moonlet's orbit skips a beat
-Earth learns to nudge fate
+Small craft struck a moon,
+Stone's dance quickened 'round the sun—
+Proof we can nudge fate.
 ```
 
 Reference:

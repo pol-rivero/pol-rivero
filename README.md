@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Small craft struck a moon,
-Stone's dance quickened 'round the sun—
-Proof we can nudge fate.
+New moonship ascends
+booster returns on bright wings
+rivals eye gray seas
 ```
 
 Reference:
 
-https://www.news4jax.com/tech/2026/03/06/spacecrafts-impact-changed-asteroids-orbit-around-the-sun-in-a-save-the-earth-test-study-finds/
+http://en.people.cn/n3/2026/0211/c90000-20425004.html
 
 ## Some of my projects:
 

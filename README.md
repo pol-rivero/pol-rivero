@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-New moonship ascends
-booster returns on bright wings
-rivals eye gray seas
+Moon ship tests the night
+China's booster falls, then flies
+Race for lunar dawn
 ```
 
 Reference:

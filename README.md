@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moon ship tests the night
-China's booster falls, then flies
-Race for lunar dawn
+Gemini guides roads
+3D turns bloom ahead now
+Ask Maps what you seek
 ```
 
 Reference:
 
-http://en.people.cn/n3/2026/0211/c90000-20425004.html
+https://www.engadget.com/ai/google-maps-brings-a-3d-map-to-your-driving-directions-123000843.html
 
 ## Some of my projects:
 

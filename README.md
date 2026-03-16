@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Five-minute flash charge
-Range whispers across the moors
-Silence fills the road
+Five-minute lightning
+Flash fills cells to seventy
+Four-nine-seven miles
 ```
 
 Reference:

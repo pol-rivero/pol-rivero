@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Five-minute lightning
-Flash fills cells to seventy
-Four-nine-seven miles
+Gemini whispers,
+roads braid into living maps—
+ask, and cities speak.
 ```
 
 Reference:
 
-https://www.businesstimes.com.sg/international/global/byd-launch-new-premium-ev-europe-can-charge-minutes
+https://www.engadget.com/ai/google-maps-brings-a-3d-map-to-your-driving-directions-123000843.html
 
 ## Some of my projects:
 

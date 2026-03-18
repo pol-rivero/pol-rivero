@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Gemini whispers,
-roads braid into living maps—
-ask, and cities speak.
+Proof you are human
+Sybil storms meet cryptic gates—
+one key, one request
 ```
 
 Reference:
 
-https://www.engadget.com/ai/google-maps-brings-a-3d-map-to-your-driving-directions-123000843.html
+https://www.coindesk.com/tech/2026/03/17/sam-altman-s-world-teams-up-with-coinbase-to-prove-there-is-a-real-person-behind-every-ai-transaction
 
 ## Some of my projects:
 

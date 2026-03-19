@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Proof you are human
-Sybil storms meet cryptic gates—
-one key, one request
+Agents flood the gates
+World ID proves the human
+Sybil tides recede
 ```
 
 Reference:

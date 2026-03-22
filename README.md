@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Sunrise of servers
-Constellations hum with code
-Night sky hosts our clouds
+Space Force shifts the path
+Vulcan's boosters wait in hush
+Falcon Nine bears time
 ```
 
 Reference:
 
-https://spacenews.com/blue-origin-joins-the-orbital-data-center-race/
+https://www.space.com/space-exploration/launches-spacecraft/us-space-force-moves-gps-launch-to-spacex-falcon-9-due-to-vulcan-rocket-glitch
 
 ## Some of my projects:
 

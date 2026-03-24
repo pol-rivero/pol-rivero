@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Vulcan's boosters pause,
-Falcon 9 takes the watch, swift;
-GPS rides now.
+Pixels learn to dream,
+but artists hold the off switch—
+trailers blink, then hush.
 ```
 
 Reference:
 
-https://www.space.com/space-exploration/launches-spacecraft/us-space-force-moves-gps-launch-to-spacex-falcon-9-due-to-vulcan-rocket-glitch
+https://www.digitaltrends.com/computing/nvidia-dlss-5-might-be-the-future-of-graphics-and-i-still-want-a-giant-off-button/
 
 ## Some of my projects:
 

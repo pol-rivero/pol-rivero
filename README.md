@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Pixels learn to dream,
-but artists hold the off switch—
-trailers blink, then hush.
+Code hums on my lap
+Discord and Telegram bridge
+laptop mind replies
 ```
 
 Reference:
 
-https://www.digitaltrends.com/computing/nvidia-dlss-5-might-be-the-future-of-graphics-and-i-still-want-a-giant-off-button/
+https://indianexpress.com/article/technology/artificial-intelligence/what-is-claude-code-channels-anthropic-openclaw-ai-agents-10595037/
 
 ## Some of my projects:
 

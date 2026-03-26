@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Code hums on my lap
-Discord and Telegram bridge
-laptop mind replies
+Bourbon waste to charge
+stillage makes porous carbon
+lightning in the grain
 ```
 
 Reference:
 
-https://indianexpress.com/article/technology/artificial-intelligence/what-is-claude-code-channels-anthropic-openclaw-ai-agents-10595037/
+https://www.miragenews.com/bourbon-byproducts-transformed-into-1643942/
 
 ## Some of my projects:
 

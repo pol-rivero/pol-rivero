@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Bourbon waste to charge
-stillage makes porous carbon
-lightning in the grain
+Whiskey's spent grains hum,
+Barrels birth thunderous charge—
+Waste turns into light.
 ```
 
 Reference:

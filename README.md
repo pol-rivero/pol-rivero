@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Whiskey's spent grains hum,
-Barrels birth thunderous charge—
-Waste turns into light.
+Plugins bloom in code
+workflows weave through teams hands-free
+marketplace doors swing
 ```
 
 Reference:
 
-https://www.miragenews.com/bourbon-byproducts-transformed-into-1643942/
+https://windowsreport.com/openai-expands-codex-with-shareable-plugins-and-team-workflow-tools/
 
 ## Some of my projects:
 

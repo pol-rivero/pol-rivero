@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Plugins bloom in code
-workflows weave through teams hands-free
-marketplace doors swing
+Codex grows new hands
+Plugins braid team workflows swift
+Claude Code feels the breeze
 ```
 
 Reference:

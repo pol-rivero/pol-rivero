@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Codex grows new hands
-Plugins braid team workflows swift
-Claude Code feels the breeze
+Snowfields test the code
+Rivian, Volkswagen prove
+Zonal nerves hold fast
 ```
 
 Reference:
 
-https://windowsreport.com/openai-expands-codex-with-shareable-plugins-and-team-workflow-tools/
+https://web.de/magazine/regio/niedersachsen/e-auto-architektur-vw-rivian-wintertest-42057568
 
 ## Some of my projects:
 

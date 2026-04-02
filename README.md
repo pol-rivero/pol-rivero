@@ -1,23 +1,29 @@
-# About me
 
-I make blazingly fast quantum-resistant AI smart contracts for the Metaverse in Rust 🦀 🚀, using AGI agents with a lot of the LLM and AI. I'm also self-taught and the visionary founder of Sugma, the world's first decentralized AI marketplace for AI-generated AI NFT wallpapers 🚀 🌕 (currently in pre-pre-alpha).
+**Today's tech haiku:**
+```
+April moon waits, coy—
+rumor or roar come Fool's Day?
+leaks sealed, hearts ascend.
+```
 
-At Sugma we believe that DeFi 💰 and AI-generated NFTs 🤡 will be the future of the Metaverse 📉📉. That's why we use Web 3.0 and 6G technology to craft AI-generated NFTs of AI-generated AI smart contracts. Our NFTs are so unique that they are the only AI in the world that AI NFT smart contracts on their blockchain 🤯.  
-See our mission statement in [this video](https://youtu.be/cvh0nX08nRw).
+Reference:
 
+https://www.newsbytesapp.com/news/science/nasa-eyes-april-1-launch-for-artemis-ii-moon-mission/story
 
-## Contact me
+## Some of my projects:
 
-- [Twitter](https://twitter.com)
-- [LinkedIn](https://www.linkedin.com/company/facebook)
-- [Quora](https://www.quora.com/Whats-the-easiest-way-to-make-money-online)
-- [Mastodon](https://www.threads.net/@smartello/post/DCxHArYTIWf)
-- [Email](mailto:GM.vikram.rahul.abishek.pranav.rajesh@gmail.hotmail.com)
-- [GitHub](https://github.com/mTvare6/hello-world.rs)
-- [Facebook](https://www.facebook.com/LinkedIn)
-- [TikTok](https://www.tiktok.com)
-- [Hacker News](https://news.ycombinator.com)
-- [Google+](https://plus.google.com)
-- [MySpace](https://myspace.com)
-- [Vimeo](https://vimeo.com)
-- [Dark Web](https://es.wikipedia.org/wiki/Torrija)
+- **[doot](https://github.com/pol-rivero/doot):** Turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and *extremely* fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.
+
+- **[GitHub Desktop Plus](https://github.com/pol-rivero/github-desktop-plus):** A fork of GitHub Desktop that adds some features I needed for my workflow. It includes commit search, Bitbucket support, branch name preset generation, and [many small features and improvements](https://github.com/pol-rivero/github-desktop-plus?tab=readme-ov-file#extra-features). Additionally, upstream changes are merged much more frequently than in the shiftkey fork.
+
+- **[Discord Audio Stream](https://github.com/pol-rivero/DiscordAudioStream):** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.
+
+- **CESC16:** A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.  
+  - [Main repository](https://github.com/pol-rivero/CESC16) with documentation, schematics and some tools.  
+  - [Emulator](https://github.com/pol-rivero/CESC16-emulator) written in C++, using the ncurses library.  
+  - [ANSI C compiler](https://github.com/pol-rivero/lcc), by implementing a backend for the lcc retargetable compiler.  
+
+- **CESC:** Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.  
+  - [Main repository](https://github.com/pol-rivero/CESCA) with documentation, images and some tools.
+
+- **[Arduino VGA Terminal](https://github.com/pol-rivero/ArduinoVGA):** Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.  

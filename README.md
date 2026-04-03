@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-April moon waits, coy—
-rumor or roar come Fool's Day?
-leaks sealed, hearts ascend.
+Victor Glover dreams
+first Black pilot round the Moon
+we follow to know
 ```
 
 Reference:
 
-https://www.newsbytesapp.com/news/science/nasa-eyes-april-1-launch-for-artemis-ii-moon-mission/story
+https://www.newsweek.com/artemis-ii-launch-nasa-live-video-time-crew-11770152
 
 ## Some of my projects:
 

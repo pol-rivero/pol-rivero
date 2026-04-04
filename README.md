@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Victor Glover dreams
-first Black pilot round the Moon
-we follow to know
+Moon dreams count their coins
+Scissors hover over stars
+Science holds its breath
 ```
 
 Reference:
 
-https://www.newsweek.com/artemis-ii-launch-nasa-live-video-time-crew-11770152
+https://www.seattletimes.com/nation-world/nation-politics/trump-again-looks-to-cut-nasa-budget-by-billions-of-dollars/
 
 ## Some of my projects:
 

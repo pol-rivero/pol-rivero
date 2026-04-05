@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moon dreams count their coins
-Scissors hover over stars
-Science holds its breath
+Stars watch, systems hum,
+but one small waste valve reminds
+the body's orbit.
 ```
 
 Reference:
 
-https://www.seattletimes.com/nation-world/nation-politics/trump-again-looks-to-cut-nasa-budget-by-billions-of-dollars/
+https://keyt.com/news/national-world/cnn-other/2026/04/04/more-than-half-way-to-the-moon-the-artemis-ii-astronauts-are-grappling-with-a-toilet-problem-3/
 
 ## Some of my projects:
 

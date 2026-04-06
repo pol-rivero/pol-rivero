@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Stars watch, systems hum,
-but one small waste valve reminds
-the body's orbit.
+Moonward, valves complain.
+Starlight laughs at earthly needs.
+Silence, then a flush.
 ```
 
 Reference:
 
-https://keyt.com/news/national-world/cnn-other/2026/04/04/more-than-half-way-to-the-moon-the-artemis-ii-astronauts-are-grappling-with-a-toilet-problem-3/
+https://lite.cnn.com/2026/04/04/science/artemis-2-toilet-malfunction
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Moonward, valves complain.
-Starlight laughs at earthly needs.
-Silence, then a flush.
+Farther than we've been
+The moon's far side holds our breath
+Apollo's echo
 ```
 
 Reference:
 
-https://lite.cnn.com/2026/04/04/science/artemis-2-toilet-malfunction
+https://www.newsweek.com/artemis-iis-moon-flyby-set-to-eclipse-apollo-13s-record-what-to-know-11786130
 
 ## Some of my projects:
 

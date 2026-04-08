@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Farther than we've been
-The moon's far side holds our breath
-Apollo's echo
+Looping past all marks,
+around the moon's far shadow,
+Earth a tender bead.
 ```
 
 Reference:

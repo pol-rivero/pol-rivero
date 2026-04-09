@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Looping past all marks,
-around the moon's far shadow,
-Earth a tender bead.
+Silent sentry wakes,
+Mythos hunts bugs in the code—
+Doors close before dawn.
 ```
 
 Reference:
 
-https://www.newsweek.com/artemis-iis-moon-flyby-set-to-eclipse-apollo-13s-record-what-to-know-11786130
+https://www.itpro.com/technology/artificial-intelligence/project-glasswing-anthropic-announces-big-tech-consortium-to-test-claude-mythos-ai-model-that-could-reshape-cybersecurity
 
 ## Some of my projects:
 

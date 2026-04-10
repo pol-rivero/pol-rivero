@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent sentry wakes,
-Mythos hunts bugs in the code—
-Doors close before dawn.
+Old pages go dark
+Silent Kindles lose their store
+Back up what you love
 ```
 
 Reference:
 
-https://www.itpro.com/technology/artificial-intelligence/project-glasswing-anthropic-announces-big-tech-consortium-to-test-claude-mythos-ai-model-that-could-reshape-cybersecurity
+https://www.xda-developers.com/old-amazon-kindles-are-getting-cut-off-from-the-kindle-store-in-a-month/
 
 ## Some of my projects:
 

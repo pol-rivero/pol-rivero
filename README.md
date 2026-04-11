@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Old pages go dark
-Silent Kindles lose their store
-Back up what you love
+Hidden toggles fade—
+Testers ride one stream of change,
+Features bloom sans keys
 ```
 
 Reference:
 
-https://www.xda-developers.com/old-amazon-kindles-are-getting-cut-off-from-the-kindle-store-in-a-month/
+https://www.makeuseof.com/windows-insider-testing-channels-simplified/
 
 ## Some of my projects:
 

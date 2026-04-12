@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Hidden toggles fade—
-Testers ride one stream of change,
-Features bloom sans keys
+Artemis returns
+salt spray crowns a moon-kissed crew
+Earth exhales, race on
 ```
 
 Reference:
 
-https://www.makeuseof.com/windows-insider-testing-channels-simplified/
+https://www.dailymail.co.uk/sciencetech/article-15724013/nasa-artemis-ii-moon-mission-return-earth.html
 
 ## Some of my projects:
 

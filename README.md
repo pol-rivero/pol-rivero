@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Artemis returns
-salt spray crowns a moon-kissed crew
-Earth exhales, race on
+Artemis comes home,
+Salt spray crowns a silver ship,
+Stars watch splashdown's ring.
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/sciencetech/article-15724013/nasa-artemis-ii-moon-mission-return-earth.html
+https://lasillarota.com/mundo/2026/4/10/artemis-ii-ameriza-con-exito-tras-mision-historica-la-luna-594040.html
 
 ## Some of my projects:
 

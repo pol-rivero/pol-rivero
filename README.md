@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Artemis comes home,
-Salt spray crowns a silver ship,
-Stars watch splashdown's ring.
+Capsule kisses sea
+Four hearts echo Jules Verne's dream
+Earth holds the moon's path
 ```
 
 Reference:
 
-https://lasillarota.com/mundo/2026/4/10/artemis-ii-ameriza-con-exito-tras-mision-historica-la-luna-594040.html
+https://www.dailymail.co.uk/sciencetech/article-15724013/nasa-artemis-ii-moon-mission-return-earth.html
 
 ## Some of my projects:
 

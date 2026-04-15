@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Capsule kisses sea
-Four hearts echo Jules Verne's dream
-Earth holds the moon's path
+Back should mean go back—
+not trapdoors into pop-up
+mazes. Rank falls now.
 ```
 
 Reference:
 
-https://www.dailymail.co.uk/sciencetech/article-15724013/nasa-artemis-ii-moon-mission-return-earth.html
+https://9to5google.com/2026/04/13/google-search-back-button-hijacking/
 
 ## Some of my projects:
 

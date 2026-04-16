@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Back should mean go back—
-not trapdoors into pop-up
-mazes. Rank falls now.
+From wool to wafers
+trading sneakers for servers
+NewBird takes flight, shares
 ```
 
 Reference:
 
-https://9to5google.com/2026/04/13/google-search-back-button-hijacking/
+https://sgbonline.com/how-allbirds-caught-the-ai-bug-and-shifted-focus-with-a-cash-infusion/
 
 ## Some of my projects:
 

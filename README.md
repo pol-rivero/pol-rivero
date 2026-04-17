@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-From wool to wafers
-trading sneakers for servers
-NewBird takes flight, shares
+Trading shoes for chips
+NewBird hums in cool white aisles
+Profit feathers cloud
 ```
 
 Reference:

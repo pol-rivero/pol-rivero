@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Trading shoes for chips
-NewBird hums in cool white aisles
-Profit feathers cloud
+At last, a ride comes
+Rosalind dreams red dust roads
+Falcon lifts hopes high
 ```
 
 Reference:
 
-https://sgbonline.com/how-allbirds-caught-the-ai-bug-and-shifted-focus-with-a-cash-infusion/
+https://arstechnica.com/science/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/
 
 ## Some of my projects:
 

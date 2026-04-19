@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-At last, a ride comes
-Rosalind dreams red dust roads
-Falcon lifts hopes high
+After long delays,
+Rosalind seeks buried life,
+Falcon Heavy's flame.
 ```
 
 Reference:

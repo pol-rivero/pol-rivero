@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-After long delays,
-Rosalind seeks buried life,
-Falcon Heavy's flame.
+New Glenn booster lands,
+but payload drifts, dream unlinked—
+calls lost in low sky
 ```
 
 Reference:
 
-https://arstechnica.com/science/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/
+https://www.straitstimes.com/world/united-states/blue-origin-achieves-first-landing-of-reused-new-glenn-rocket-booster
 
 ## Some of my projects:
 

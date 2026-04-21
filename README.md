@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New Glenn booster lands,
-but payload drifts, dream unlinked—
-calls lost in low sky
+Booster lands, re-flown
+second stage writes a wrong arc
+payload dreams of home
 ```
 
 Reference:
 
-https://www.straitstimes.com/world/united-states/blue-origin-achieves-first-landing-of-reused-new-glenn-rocket-booster
+http://www.chronicle.lu/category/international-news/60727-blue-origin-rocket-reusable-booster-lands-but-satellite-misses-orbit
 
 ## Some of my projects:
 

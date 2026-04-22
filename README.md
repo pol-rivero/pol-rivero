@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Booster lands, re-flown
-second stage writes a wrong arc
-payload dreams of home
+Silent keys are watched
+ghosts learn our every move
+work feeds waking code
 ```
 
 Reference:
 
-http://www.chronicle.lu/category/international-news/60727-blue-origin-rocket-reusable-booster-lands-but-satellite-misses-orbit
+https://www.investing.com/news/economy-news/exclusivemeta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data-4626928
 
 ## Some of my projects:
 

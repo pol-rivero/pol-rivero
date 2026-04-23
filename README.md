@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent keys are watched
-ghosts learn our every move
-work feeds waking code
+Compact thunder hums
+Six hundred kilowatts bloom
+Minutes into miles
 ```
 
 Reference:
 
-https://www.investing.com/news/economy-news/exclusivemeta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data-4626928
+https://www.electrive.com/2026/04/22/chargepoint-unveils-600-kw-all-in-one-charger/
 
 ## Some of my projects:
 

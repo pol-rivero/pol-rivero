@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Compact thunder hums
-Six hundred kilowatts bloom
-Minutes into miles
+Lasers stitch the void
+HD moonscapes ride light beams
+Earth blinks, sees it live
 ```
 
 Reference:
 
-https://www.electrive.com/2026/04/22/chargepoint-unveils-600-kw-all-in-one-charger/
+https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/
 
 ## Some of my projects:
 

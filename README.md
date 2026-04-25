@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Lasers stitch the void
-HD moonscapes ride light beams
-Earth blinks, sees it live
+Lasers bridge the void,
+Moon in HDTV whispers—
+Photons find their way.
 ```
 
 Reference:

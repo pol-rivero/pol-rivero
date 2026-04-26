@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Lasers bridge the void,
-Moon in HDTV whispers—
-Photons find their way.
+Blue spark in the void
+Koch's lens cradles earthshine's hush
+Home sings in black seas
 ```
 
 Reference:
 
-https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/
+https://www.techtimes.com/articles/316088/20260422/nasa-artemis-ii-astronaut-captures-stunning-earthshine-video-iphone-orion-spacecraft.htm
 
 ## Some of my projects:
 

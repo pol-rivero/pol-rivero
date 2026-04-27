@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Blue spark in the void
-Koch's lens cradles earthshine's hush
-Home sings in black seas
+Blue ember in night
+Orion's window cradles
+home's fragile earthshine
 ```
 
 Reference:

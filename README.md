@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Blue ember in night
-Orion's window cradles
-home's fragile earthshine
+Mode seven blooms new
+old pixels stretch to widescreen
+childhood loads from save
 ```
 
 Reference:
 
-https://www.techtimes.com/articles/316088/20260422/nasa-artemis-ii-astronaut-captures-stunning-earthshine-video-iphone-orion-spacecraft.htm
+https://www.xda-developers.com/zsnes-iconic-emulator-ever-back-from-the-dead-impressive-new-features/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Mode seven blooms new
-old pixels stretch to widescreen
-childhood loads from save
+Mode seven returns
+old pixels on GPU
+widescreen dreams rewind
 ```
 
 Reference:

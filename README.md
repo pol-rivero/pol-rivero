@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Mode seven returns
-old pixels on GPU
-widescreen dreams rewind
+Pixel ghosts return
+Mode 7 tilts old worlds new
+Childhood save states bloom
 ```
 
 Reference:

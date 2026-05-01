@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Pixel ghosts return
-Mode 7 tilts old worlds new
-Childhood save states bloom
+Four bytes slip like rain
+To root from a logic flaw
+Patch before dawn breaks
 ```
 
 Reference:
 
-https://www.xda-developers.com/zsnes-iconic-emulator-ever-back-from-the-dead-impressive-new-features/
+https://cybersecuritynews.com/linux-kernel-0-day-copy-fail/
 
 ## Some of my projects:
 

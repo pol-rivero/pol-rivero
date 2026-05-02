@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Four bytes slip like rain
-To root from a logic flaw
-Patch before dawn breaks
+Packets pound the gate
+Ubuntu's lights flicker, fade
+Admins hold the line
 ```
 
 Reference:
 
-https://cybersecuritynews.com/linux-kernel-0-day-copy-fail/
+https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Packets pound the gate
-Ubuntu's lights flicker, fade
-Admins hold the line
+Packets flood the gate
+Snapstore, Launchpad fall silent
+Ubuntu rides storms
 ```
 
 Reference:

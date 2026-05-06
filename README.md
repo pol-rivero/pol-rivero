@@ -1,14 +1,16 @@
 
 **Today's tech haiku:**
 ```
-Fork wears borrowed name
-Windows song in Mac attire
-Don Ho guards the mark
+Signed ghosts ride the disk —
+backdoors bloom in trusted light,
+April's quiet breach.
 ```
 
 Reference:
 
-https://www.neowin.net/news/notepad-creator-issues-warning-to-users-about-an-unauthorized-macos-fork/
+
+
+https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/
 
 ## Some of my projects:
 

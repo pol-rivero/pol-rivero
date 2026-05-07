@@ -1,16 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Signed ghosts ride the disk —
-backdoors bloom in trusted light,
-April's quiet breach.
+AI pilots learn
+from galaxies of gamers —
+EVE charts new futures
 ```
 
 Reference:
 
-
-
-https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/
+https://mcvuk.com/business-news/industry-news-studio-behind-eve-online-goes-independent-rebrands-as-fenris-creations/
 
 ## Some of my projects:
 

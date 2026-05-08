@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-AI pilots learn
-from galaxies of gamers —
-EVE charts new futures
+Silent wrist of dawn
+Guides breath, steps with hidden mind
+No clock, only care
 ```
 
 Reference:
 
-https://mcvuk.com/business-news/industry-news-studio-behind-eve-online-goes-independent-rebrands-as-fenris-creations/
+https://www.androidcentral.com/wearables/fitbit/google-fitbit-air-launch-specs-price
 
 ## Some of my projects:
 

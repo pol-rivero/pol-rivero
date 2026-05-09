@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent wrist of dawn
-Guides breath, steps with hidden mind
-No clock, only care
+Thin air on Mars hums—
+rotors kiss the speed of sound,
+dust lifts, futures fly.
 ```
 
 Reference:
 
-https://www.androidcentral.com/wearables/fitbit/google-fitbit-air-launch-specs-price
+https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/
 
 ## Some of my projects:
 

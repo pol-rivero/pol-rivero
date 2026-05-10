@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Thin air on Mars hums—
-rotors kiss the speed of sound,
-dust lifts, futures fly.
+Thin air on Mars hums
+rotors graze the sonic skin
+red dust holds its breath
 ```
 
 Reference:

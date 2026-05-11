@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Thin air on Mars hums
-rotors graze the sonic skin
-red dust holds its breath
+Silent band whispers
+AI counts breaths, guides the pulse
+No screen, only you
 ```
 
 Reference:
 
-https://www.nasa.gov/solar-system/planets/mars/nasa-pushes-next-gen-mars-helicopter-rotor-blades-past-mach-1/
+https://www.androidcentral.com/wearables/fitbit/google-fitbit-air-launch-specs-price
 
 ## Some of my projects:
 

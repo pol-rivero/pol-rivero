@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Silent band whispers
-AI counts breaths, guides the pulse
-No screen, only you
+Neo on a roll
+Apple doubles the build plans
+Stock vanishes fast
 ```
 
 Reference:
 
-https://www.androidcentral.com/wearables/fitbit/google-fitbit-air-launch-specs-price
+https://www.howtogeek.com/apple-might-drop-599-macbook-neo/
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Neo on a roll
-Apple doubles the build plans
-Stock vanishes fast
+Green bubble truce now
+encrypted whispers crossing
+RCS binds phones
 ```
 
 Reference:
 
-https://www.howtogeek.com/apple-might-drop-599-macbook-neo/
+https://www.macobserver.com/news/apple-releases-new-ios-26-5-release-candidate-with-new-build-number/
 
 ## Some of my projects:
 

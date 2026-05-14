@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Green bubble truce now
-encrypted whispers crossing
-RCS binds phones
+Orbital labs hum
+Crystals bloom in weightless night
+Hopes descend to Earth
 ```
 
 Reference:
 
-https://www.macobserver.com/news/apple-releases-new-ios-26-5-release-candidate-with-new-build-number/
+https://www.cnhinews.com/news/article_339831a5-e538-5847-be8a-95a74a4875f0.html
 
 ## Some of my projects:
 

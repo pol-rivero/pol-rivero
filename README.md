@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Orbital labs hum
-Crystals bloom in weightless night
-Hopes descend to Earth
+Old Radeon cards
+Gain frames from FSR's light,
+July wakes pixels.
 ```
 
 Reference:
 
-https://www.cnhinews.com/news/article_339831a5-e538-5847-be8a-95a74a4875f0.html
+https://www.neowin.net/news/amd-announces-fsr-41-upscaler-for-rx-7000-and-rx-6000-gpus/
 
 ## Some of my projects:
 

@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Medicine meets void
-Microgravity refines
-Cures brewed among stars
+Drugs sail in silence
+crystals learn weightless order
+cures bloom above Earth
 ```
 
 Reference:

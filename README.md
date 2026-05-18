@@ -1,9 +1,9 @@
 
 **Today's tech haiku:**
 ```
-Drugs sail in silence
-crystals learn weightless order
-cures bloom above Earth
+In orbit, drugs bloom
+Microgravity shapes them
+Hope reenters Earth
 ```
 
 Reference:

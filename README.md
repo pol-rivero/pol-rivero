@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-In orbit, drugs bloom
-Microgravity shapes them
-Hope reenters Earth
+Steel colossus wakes,
+South Texas dusk holds its breath—
+flame roots kiss new pad.
 ```
 
 Reference:
 
-https://www.cnhinews.com/news/article_339831a5-e538-5847-be8a-95a74a4875f0.html
+https://www.indiatoday.in/science/story/starship-super-heavy-ready-for-launch-rehearsal-as-spacex-preps-for-flight-12-2910048-2026-05-11
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Seven months of hush,
-Starship wakes at Starbase, roars—
-Texas sky holds breath.
+Psyche skims Mars' face
+gravity's hand, borrowed fire
+to a metal heart
 ```
 
 Reference:
 
-https://www.indiatoday.in/science/story/starship-super-heavy-ready-for-launch-rehearsal-as-spacex-preps-for-flight-12-2910048-2026-05-11
+https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/
 
 ## Some of my projects:
 

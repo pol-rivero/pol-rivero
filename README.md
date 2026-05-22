@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Psyche skims Mars' face
-gravity's hand, borrowed fire
-to a metal heart
+Qubits greet the dawn
+grants braid with equity stakes
+shares rise with cold light
 ```
 
 Reference:
 
-https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/
+https://uk.finance.yahoo.com/news/us-award-2-billion-quantum-102758753.html
 
 ## Some of my projects:
 

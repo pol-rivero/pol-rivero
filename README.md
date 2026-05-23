@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Qubits greet the dawn
-grants braid with equity stakes
-shares rise with cold light
+Psyche grazes Mars
+Huygens wakes in rust and light
+Slingshot dreams to ore
 ```
 
 Reference:
 
-https://uk.finance.yahoo.com/news/us-award-2-billion-quantum-102758753.html
+https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/
 
 ## Some of my projects:
 

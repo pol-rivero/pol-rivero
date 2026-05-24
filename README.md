@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Psyche grazes Mars
-Huygens wakes in rust and light
-Slingshot dreams to ore
+Starship scorches sky
+first great roar of twenty-six
+earth learns new paths home
 ```
 
 Reference:
 
-https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/
+https://www.elespanol.com/omicrono/defensa-y-espacio/20260521/elon-musk-va-cambiar-normas-espacio-quiere-hacer-lanzamientos-anuales-dentro-anos/1003744254783_0.html
 
 ## Some of my projects:
 

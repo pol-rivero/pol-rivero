@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Starship scorches sky
-first great roar of twenty-six
-earth learns new paths home
+From launch to landing
+Starship roars round half the world
+Dreams touch heat and foam
 ```
 
 Reference:
 
-https://www.elespanol.com/omicrono/defensa-y-espacio/20260521/elon-musk-va-cambiar-normas-espacio-quiere-hacer-lanzamientos-anuales-dentro-anos/1003744254783_0.html
+https://ca.news.yahoo.com/launch-landing-1st-starship-launch-104034847.html
 
 ## Some of my projects:
 

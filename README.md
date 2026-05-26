@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-From launch to landing
-Starship roars round half the world
-Dreams touch heat and foam
+Ink on silicon
+a shepherd warns gentle wolves—
+guard the soul of code
 ```
 
 Reference:
 
-https://ca.news.yahoo.com/launch-landing-1st-starship-launch-104034847.html
+https://www.france24.com/en/europe/20260525-pope-leo-xiv-ai-manifesto-ethical-risks-global-impact
 
 ## Some of my projects:
 

@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Ink on silicon
-a shepherd warns gentle wolves—
-guard the soul of code
+New moon buggies roll,
+Tracks across uncharted dust,
+Base dreams ride on steel.
 ```
 
 Reference:
 
-https://www.france24.com/en/europe/20260525-pope-leo-xiv-ai-manifesto-ethical-risks-global-impact
+https://www.ktvb.com/article/news/nation-world/nasa-moon-base-project-planned-lunar-missions/507-5c44736c-6430-490a-91a5-8b7cf0d320ef
 
 ## Some of my projects:
 

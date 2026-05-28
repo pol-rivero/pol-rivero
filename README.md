@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-New moon buggies roll,
-Tracks across uncharted dust,
-Base dreams ride on steel.
+South pole shadows gleam,
+NASA stakes a quiet camp
+as we aim for Mars.
 ```
 
 Reference:
 
-https://www.ktvb.com/article/news/nation-world/nasa-moon-base-project-planned-lunar-missions/507-5c44736c-6430-490a-91a5-8b7cf0d320ef
+https://trendingamerican.com/nasa-reveals-first-phase-of-permanent-moon-base-plan-with-blue-origin-lander/
 
 ## Some of my projects:
 

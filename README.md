@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-South pole shadows gleam,
-NASA stakes a quiet camp
-as we aim for Mars.
+Arc G3 ignites
+handheld skies with AI speed,
+AMD looks back
 ```
 
 Reference:
 
-https://trendingamerican.com/nasa-reveals-first-phase-of-permanent-moon-base-plan-with-blue-origin-lander/
+https://www.notebookcheck.net/Intel-Arc-G3-Extreme-and-Arc-G3-tipped-to-arrive-earlier-than-initially-anticipated.1307120.0.html
 
 ## Some of my projects:
 

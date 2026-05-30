@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Arc G3 ignites
-handheld skies with AI speed,
-AMD looks back
+Arc sparks in our palms
+handheld nights hum with new heat
+Team Red feels the wind
 ```
 
 Reference:
 
-https://www.notebookcheck.net/Intel-Arc-G3-Extreme-and-Arc-G3-tipped-to-arrive-earlier-than-initially-anticipated.1307120.0.html
+https://windowsreport.com/acer-unveils-predator-atlas-8-as-one-of-the-first-intel-arc-g3-handhelds/
 
 ## Some of my projects:
 

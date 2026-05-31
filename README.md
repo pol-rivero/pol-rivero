@@ -1,14 +1,14 @@
 
 **Today's tech haiku:**
 ```
-Arc sparks in our palms
-handheld nights hum with new heat
-Team Red feels the wind
+Free scrub for your sink
+Eyes on mops teach steel to shine
+Ghost hands learn our mess
 ```
 
 Reference:
 
-https://windowsreport.com/acer-unveils-predator-atlas-8-as-one-of-the-first-intel-arc-g3-handhelds/
+https://dnyuz.com/2026/05/29/this-startup-wants-to-clean-your-dirty-dishes-and-clutter-to-help-train-ai/
 
 ## Some of my projects:
 

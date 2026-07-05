@@ -3,9 +3,6 @@
 import os
 from datetime import date, datetime, timedelta
 
-import requests
-from openai import OpenAI
-
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
 

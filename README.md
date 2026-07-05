@@ -1,18 +1,11 @@
-
-## Some of my projects:
-
-- **[Desktop Plus](https://github.com/desktop-plus/desktop-plus):** A GitHub Desktop fork that adds some features I needed for my workflow. It includes commit search, Bitbucket/GitLab support, multiple stashes per branch, and many small features and improvements. Additionally, I keep it up to date with the latest upstream releases, unlike the shiftkey fork which is no longer maintained.
-
-- **[doot](https://github.com/pol-rivero/doot):** It turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and *extremely* fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.
-
-- **[Discord Audio Stream](https://github.com/pol-rivero/DiscordAudioStream):** It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.
-
-- **CESC16:** A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.  
-  - [Main repository](https://github.com/pol-rivero/CESC16) with documentation, schematics and some tools.  
-  - [Emulator](https://github.com/pol-rivero/CESC16-emulator) written in C++, using the ncurses library.  
-  - [ANSI C compiler](https://github.com/pol-rivero/lcc), by implementing a backend for the lcc retargetable compiler.  
-
-- **CESC:** Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.  
-  - [Main repository](https://github.com/pol-rivero/CESCA) with documentation, images and some tools.
-
-- **[Arduino VGA Terminal](https://github.com/pol-rivero/ArduinoVGA):** Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.  
+<div>
+  <img src="rows/heading.svg" width="100%" alt="Some of my projects">
+  <a href="https://github.com/desktop-plus/desktop-plus"><img src="rows/desktop-plus.svg" width="100%" alt="Desktop Plus | A GitHub Desktop fork with commit search, Bitbucket/GitLab support, multiple stashes per branch and more."></a>
+  <a href="https://github.com/pol-rivero/doot"><img src="rows/doot.svg" width="100%" alt="doot | An intuitive and extremely fast dotfile manager with encrypted files, host-specific alternatives and bootstrapping."></a>
+  <a href="https://github.com/pol-rivero/DiscordAudioStream"><img src="rows/discord-audio-stream.svg" width="100%" alt="Discord Audio Stream | Control the audio you send to Discord to share a screen with audio, use OBS, and more."></a>
+  <a href="https://github.com/pol-rivero/CESC16"><img src="rows/cesc16.svg" width="100%" alt="CESC16 | A custom 16-bit CPU designed from scratch and built on PCBs, with interrupts and GPIO ports."></a>
+  <a href="https://github.com/pol-rivero/CESC16-emulator"><img src="rows/cesc16-emulator.svg" width="100%" alt="CESC16 emulator written in C++ using the ncurses library."></a>
+  <a href="https://github.com/pol-rivero/lcc"><img src="rows/cesc16-lcc.svg" width="100%" alt="CESC16 ANSI C compiler, an lcc backend."></a>
+  <a href="https://github.com/pol-rivero/CESCA"><img src="rows/cesca.svg" width="100%" alt="CESC | An 8-bit CPU inspired by Ben Eater's SAP-1 and built on breadboards."></a>
+  <a href="https://github.com/pol-rivero/ArduinoVGA"><img src="rows/arduino-vga.svg" width="100%" alt="Arduino VGA Terminal | Drive a VGA monitor from an Arduino Nano as a text terminal."></a>
+</div>

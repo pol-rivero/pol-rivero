@@ -1,0 +1,250 @@
+#!/usr/bin/env python3
+"""
+Generate the README project rows as individual SVG files under rows/ and
+assemble the README markdown that stitches them together.
+
+Each project is rendered as its own SVG (HTML inside a <foreignObject>) so that
+it can be wrapped in its own link. The row images are embedded as <img> in the
+README, and GitHub serves them as static images, so:
+  * every asset (icons) must be inlined as a base64 data URI, and
+  * links inside a row are NOT clickable -- the whole row is wrapped in an <a>
+    in the assembled README instead.
+"""
+
+import base64
+import math
+import os
+from collections import namedtuple
+
+ROOT = os.path.dirname(os.path.realpath(__file__))
+ASSETS = os.path.join(ROOT, "assets")
+ICONS = os.path.join(ASSETS, "icons")
+ROWS_DIR = os.path.join(ROOT, "rows")
+
+
+def b64_png(name):
+    with open(os.path.join(ICONS, name), "rb") as f:
+        return "data:image/png;base64," + base64.b64encode(f.read()).decode()
+
+
+def b64_svg(name):
+    with open(os.path.join(ICONS, name), "rb") as f:
+        return "data:image/svg+xml;base64," + base64.b64encode(f.read()).decode()
+
+
+desktopPlus = b64_png("desktop-plus.png")
+chip = b64_png("generic-microchip.png")
+terminal = b64_png("generic-terminal.png")
+discord = b64_svg("discord-audio-stream.svg")
+
+
+STYLE = """
+      * { margin: 0; padding: 0; box-sizing: border-box; text-decoration: none; list-style: none; }
+      .body {
+        --text: #c9d1d9;
+        --muted: #8b949e;
+        --accent: #58a6ff;
+        --accent-3: #56d364;
+        color: var(--text);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 1.6;
+        padding: 12px 16px;
+        animation: rise 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+      }
+      .project { display: flex; align-items: flex-start; gap: 18px; }
+      .icon { width: 52px; height: 52px; flex-shrink: 0; object-fit: contain; margin-top: 2px; }
+      .content { flex: 1; min-width: 0; }
+      h2 { font-size: 22px; font-weight: 700; color: var(--text); }
+      .name { font-weight: 700; font-size: 16px; color: var(--accent); }
+      .desc { color: var(--muted); margin-top: 2px; }
+      em { color: var(--text); font-style: italic; }
+      .subrow { padding-left: 70px; }
+      .sub { padding-left: 4px; }
+      .sub li { color: var(--muted); padding-left: 16px; position: relative; }
+      .sub li::before {
+        content: ""; position: absolute; left: 2px; top: 11px;
+        width: 5px; height: 5px; border-radius: 50%; background: var(--accent-3);
+      }
+      .sub a { color: var(--accent); font-weight: 500; }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @media (prefers-color-scheme: light) {
+        .body { --text: #1f2328; --muted: #59636e; --accent: #0969da; --accent-3: #1a7f37; }
+      }
+      @media (prefers-reduced-motion) { .body { animation: none; } }
+"""
+
+TITLE_H = 25.6  # rendered height of the .name line (16px * 1.6)
+LINE_H = 24     # rendered height of one body line (15px * 1.6)
+
+
+def _pad_style(pad):
+    if pad == (12, 12):
+        return ""
+    fmt = lambda v: f"{v}px" if v else "0"
+    return f' style="padding: {fmt(pad[0])} 16px {fmt(pad[1])}"'
+
+
+def svg(height, body_inner, body_class="", pad=(12, 12)):
+    cls = ("body " + body_class).strip()
+    return (
+        f'<svg fill="none" viewBox="0 0 880 {height}" width="880" height="{height}" '
+        f'xmlns="http://www.w3.org/2000/svg">\n'
+        f'  <foreignObject width="100%" height="100%">\n'
+        f'  <div xmlns="http://www.w3.org/1999/xhtml">\n'
+        f'    <style>{STYLE}    </style>\n'
+        f'    <div class="{cls}"{_pad_style(pad)}>\n{body_inner}\n    </div>\n'
+        f'  </div>\n'
+        f'  </foreignObject>\n'
+        f'</svg>\n'
+    )
+
+
+def project_row(icon, name, desc, sub_html="", sub_lines=0, cpl=88, pad=(12, 12), trim=0):
+    """A project: icon on the left, name + description (+ optional first sub-line).
+
+    Height is derived from an estimate of how many lines `desc` wraps to
+    (`cpl` = chars per line). `trim` crops empty line-height leading off the
+    bottom of the canvas to tighten the gap to whatever follows.
+    """
+    desc_lines = max(1, math.ceil(len(desc) / cpl))
+    content = TITLE_H + 2 + desc_lines * LINE_H
+    if sub_html:
+        content += 8 + sub_lines * LINE_H
+    height = math.ceil(pad[0] + pad[1] + max(content, 52)) - trim
+    inner = (
+        f'      <img class="icon" src="{icon}" alt=""/>\n'
+        f'      <div class="content">\n'
+        f'        <span class="name">{name}</span>\n'
+        f'        <div class="desc">{desc}</div>\n'
+        f'{sub_html}'
+        f'      </div>'
+    )
+    return svg(height, inner, "project", pad)
+
+
+def sub_row(li_html, text_len, cpl=80, pad=(12, 12), lift=0):
+    """A standalone continuation line, indented to align under a project's text.
+
+    `lift` pulls the line up by N px (negative top margin into the empty line
+    leading) and crops the same amount off the bottom, tightening both the gap
+    above and the row footprint without clipping any glyphs.
+    """
+    lines = max(1, math.ceil(text_len / cpl))
+    height = math.ceil(pad[0] + pad[1] + lines * LINE_H) - lift
+    subrow_style = f' style="margin-top: -{lift}px"' if lift else ""
+    inner = (
+        f'      <div class="subrow"{subrow_style}>\n'
+        f'        <ul class="sub">{li_html}</ul>\n'
+        f'      </div>'
+    )
+    return svg(height, inner, pad=pad)
+
+
+EMULATOR = "Emulator written in C++, using the ncurses library."
+LCC = "ANSI C compiler, by implementing a backend for the lcc retargetable compiler."
+
+# A row is one SVG file plus how the README links/labels it. `href` is None for
+# rows that are not clickable (the heading). `alt` is the image alt text.
+Row = namedtuple("Row", "file svg href alt")
+
+ROWS = [
+    Row(
+        "heading.svg",
+        svg(60, '      <h2>Some of my projects</h2>'),
+        None,
+        "Some of my projects",
+    ),
+    Row(
+        "desktop-plus.svg",
+        project_row(
+            desktopPlus, "Desktop Plus",
+            "A GitHub Desktop fork that adds some features I needed for my workflow. It includes commit search, Bitbucket/GitLab support, multiple stashes per branch, and many small features and improvements. Additionally, I keep it up to date with the latest upstream releases, since the shiftkey fork is no longer maintained.",
+        ),
+        "https://github.com/desktop-plus/desktop-plus",
+        "Desktop Plus | A GitHub Desktop fork with commit search, Bitbucket/GitLab support, multiple stashes per branch and more.",
+    ),
+    Row(
+        "doot.svg",
+        project_row(
+            terminal, "doot",
+            "It turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and <em>extremely</em> fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.",
+        ),
+        "https://github.com/pol-rivero/doot",
+        "doot | An intuitive and extremely fast dotfile manager with encrypted files, host-specific alternatives and bootstrapping.",
+    ),
+    Row(
+        "discord-audio-stream.svg",
+        project_row(
+            discord, "Discord Audio Stream",
+            "It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.",
+        ),
+        "https://github.com/pol-rivero/DiscordAudioStream",
+        "Discord Audio Stream | Control the audio you send to Discord to share a screen with audio, use OBS, and more.",
+    ),
+    Row(
+        "cesc16.svg",
+        project_row(
+            chip, "CESC16",
+            "A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.",
+            sub_html='        <ul class="sub"><li>Main repository with documentation, schematics and some tools.</li></ul>\n',
+            sub_lines=1,
+            pad=(12, 0),
+            trim=4,
+        ),
+        "https://github.com/pol-rivero/CESC16",
+        "CESC16 | A custom 16-bit CPU designed from scratch and built on PCBs, with interrupts and GPIO ports.",
+    ),
+    Row(
+        "cesc16-emulator.svg",
+        sub_row(f"<li>{EMULATOR}</li>", text_len=len(EMULATOR), pad=(0, 2), lift=2),
+        "https://github.com/pol-rivero/CESC16-emulator",
+        "CESC16 emulator written in C++ using the ncurses library.",
+    ),
+    Row(
+        "cesc16-lcc.svg",
+        sub_row(f"<li>{LCC}</li>", text_len=len(LCC), pad=(2, 12), lift=2),
+        "https://github.com/pol-rivero/lcc",
+        "CESC16 ANSI C compiler, an lcc backend.",
+    ),
+    Row(
+        "cesca.svg",
+        project_row(
+            chip, "CESC",
+            "Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.",
+            sub_html='        <ul class="sub"><li>Main repository with documentation, images and some tools.</li></ul>\n',
+            sub_lines=1,
+        ),
+        "https://github.com/pol-rivero/CESCA",
+        "CESC | An 8-bit CPU inspired by Ben Eater's SAP-1 and built on breadboards.",
+    ),
+    Row(
+        "arduino-vga.svg",
+        project_row(
+            chip, "Arduino VGA Terminal",
+            "Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.",
+        ),
+        "https://github.com/pol-rivero/ArduinoVGA",
+        "Arduino VGA Terminal | Drive a VGA monitor from an Arduino Nano as a text terminal.",
+    ),
+]
+
+
+def generate():
+    """Write every row SVG to rows/ and return the assembled README markdown."""
+    os.makedirs(ROWS_DIR, exist_ok=True)
+    lines = ["<div>"]
+    for row in ROWS:
+        with open(os.path.join(ROWS_DIR, row.file), "w", encoding="utf-8") as f:
+            f.write(row.svg)
+        img = f'<img src="rows/{row.file}" width="100%" alt="{row.alt}">'
+        lines.append(f'  <a href="{row.href}">{img}</a>' if row.href else f"  {img}")
+    lines.append("</div>")
+    return "\n".join(lines) + "\n"
+
+
+if __name__ == "__main__":
+    generate()
+    for row in ROWS:
+        height = row.svg.split('viewBox="0 0 880 ')[1].split('"')[0]
+        print(f"{row.file:28} h={height:>4}")

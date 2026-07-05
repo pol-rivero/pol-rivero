@@ -1,34 +1,39 @@
-# Python script to render the README.md file from the template
+# Renders README.md.
+#
+# On a "special" day (a special/MM-DD.md template exists for today) that template
+# is used. Otherwise the project rows are (re)generated as SVGs and the README is
+# assembled from them by generate_svgs.generate().
 
 import os
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
+
+import generate_svgs
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
 
-def get_template_name():
-    special_template = "special/" + date.today().strftime("%m-%d") + ".md"
-    if os.path.isfile(special_template):
-        return special_template
-    return "TEMPLATE.md"
+def special_template():
+    """Return today's special template content (formatted), or None."""
+    path = os.path.join(current_dir, "special", date.today().strftime("%m-%d") + ".md")
+    if not os.path.isfile(path):
+        return None
+    with open(path, "r", encoding="utf-8") as f:
+        return format_template(f.read())
 
-def get_template():
-    input_file = os.path.join(current_dir, get_template_name())
-    with open(input_file, "r", encoding="utf-8") as f:
-        content = f.read()
-    return content
 
 def format_template(content):
-    content = content.replace("$[CURRENT_YEAR]", datetime.now().strftime("%Y"))
-    return content
+    return content.replace("$[CURRENT_YEAR]", datetime.now().strftime("%Y"))
+
 
 def main():
-    template = get_template()
-    content = format_template(template)
+    content = special_template()
+    if content is None:
+        content = generate_svgs.generate()
 
     output_file = os.path.join(current_dir, "README.md")
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(content)
+
 
 if __name__ == "__main__":
     main()

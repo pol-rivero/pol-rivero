@@ -1,7 +1,7 @@
 
 ## Some of my projects:
 
-- **[GitHub Desktop Plus](https://github.com/pol-rivero/github-desktop-plus):** A fork of GitHub Desktop that adds some features I needed for my workflow. It includes commit search, Bitbucket support, branch name preset generation, and [many small features and improvements](https://github.com/pol-rivero/github-desktop-plus?tab=readme-ov-file#extra-features). Additionally, upstream changes are merged much more frequently than in the shiftkey fork.
+- **[GitHub Desktop Plus](https://github.com/pol-rivero/github-desktop-plus):** A GitHub Desktop fork that adds some features I needed for my workflow. It includes commit search, Bitbucket/GitLab support, multiple stashes per branch, and many small features and improvements. Additionally, I keep it up to date with the latest upstream releases, unlike the shiftkey fork which is no longer maintained.
 
 - **[doot](https://github.com/pol-rivero/doot):** It turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and *extremely* fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.
 

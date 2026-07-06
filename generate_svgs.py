@@ -57,17 +57,17 @@ discord = b64_svg("discord-audio-stream.svg")
 
 
 # A rendering profile. `width` is the SVG canvas width; `icon`/`gap` size the
-# logo and its spacing; `desc_cpl`/`sub_cpl` are the (deliberately conservative)
-# chars-per-line estimates used to guess how many lines text wraps to.
-Profile = namedtuple("Profile", "name width icon gap desc_cpl sub_cpl")
+# logo and its spacing. Line counts are estimated per profile by simulating the
+# browser's word wrap with font metrics (see wrap_lines).
+Profile = namedtuple("Profile", "name width icon gap")
 
 # One canvas width per viewport band so the image never has to scale far from
 # 1:1 (which is what shrinks the text). DESKTOP is the default (widest); the
 # others are picked by <picture> media queries below their max-width.
-DESKTOP = Profile("desktop", 880, 52, 18, 88, 80)
-MEDIUM = Profile("medium", 760, 48, 18, 75, 68)
-SMALL = Profile("small", 600, 44, 16, 59, 53)
-MOBILE = Profile("mobile", 400, 40, 14, 38, 34)
+DESKTOP = Profile("desktop", 880, 52, 18)
+MEDIUM = Profile("medium", 760, 48, 18)
+SMALL = Profile("small", 600, 44, 16)
+MOBILE = Profile("mobile", 400, 40, 14)
 
 # Responsive variants, smallest max-width first (the browser picks the first
 # matching <source>). DESKTOP is the fallback <img>, so it is not listed here.
@@ -135,6 +135,51 @@ STYLE_TEMPLATE = """
 
 TITLE_H = 25.6  # rendered height of the .name line (16px * 1.6)
 LINE_H = 24     # rendered height of one body line (15px * 1.6)
+FONT_PX = 15    # body font size
+
+# Per-character advance widths in 1/1000 em (standard Helvetica/Arial metrics,
+# the PDF base-14 tables). The README renders in whichever system UI font the
+# viewer has (SF, Segoe UI, Noto Sans, ...); Helvetica sits in the middle of
+# that pack, and WIDTH_SAFETY widens the estimate so a slightly wider font
+# still wraps where predicted (over-predicting a break only rounds a line
+# count up, never clips).
+WIDTH_SAFETY = 1.06
+CHAR_WIDTHS = {}
+for _chars, _w in [
+    ("'", 191), ("ijl", 222), ("|", 260), (" !,./:;[]\\ftI", 278),
+    ("-()`r", 333), ("{}", 334), ('"', 355), ("*", 389), ("^", 469),
+    ("cksvxyzJ", 500), ("0123456789abdeghnopqu#$_L?", 556), ("+<=>~", 584),
+    ("FTZ", 611), ("ABEKPSVXY&", 667), ("CDHNRUw", 722), ("GOQ", 778),
+    ("mM", 833), ("%", 889), ("W", 944), ("@", 1015),
+]:
+    for _c in _chars:
+        CHAR_WIDTHS[_c] = _w
+
+
+def _plain(html):
+    """Strip inline HTML tags so text can be measured / reused as img alt."""
+    return re.sub(r"<[^>]+>", "", html)
+
+
+def text_px(text):
+    em = sum(CHAR_WIDTHS.get(c, 722) for c in text) / 1000
+    return em * FONT_PX * WIDTH_SAFETY
+
+
+def wrap_lines(html, box_px):
+    """Estimate how many lines `html` occupies in a box `box_px` wide by
+    replaying the browser's greedy word wrap with the metrics above."""
+    words = _plain(html).split()
+    space = text_px(" ")
+    lines, line_px = 1, 0.0
+    for word in words:
+        word_px = text_px(word)
+        if line_px and line_px + space + word_px > box_px:
+            lines += 1
+            line_px = word_px
+        else:
+            line_px += (space if line_px else 0) + word_px
+    return lines
 
 
 def style(p):
@@ -171,6 +216,15 @@ def svg(p, height, body_inner, body_class="", pad=(12, 12), radius="8px"):
     )
 
 
+def _text_box(p):
+    """Width available to a project's text: canvas minus the .body horizontal
+    padding (16px each side) and the icon + gap column."""
+    return p.width - 2 * 16 - p.icon - p.gap
+
+
+SUB_INDENT = 20  # .sub ul padding-left (4) + li padding-left (16)
+
+
 def project_row(p, icon, name, desc, sub_text=None, pad=(12, 12), trim=0, radius="8px"):
     """A project: icon on the left, name + description (+ optional first sub-line).
 
@@ -179,12 +233,12 @@ def project_row(p, icon, name, desc, sub_text=None, pad=(12, 12), trim=0, radius
     the canvas to tighten the gap to whatever follows. `radius` sets the card's
     border-radius; rows stitched to a neighbour square off the shared edge.
     """
-    desc_lines = max(1, math.ceil(len(desc) / p.desc_cpl))
+    desc_lines = wrap_lines(desc, _text_box(p))
     content = TITLE_H + 2 + desc_lines * LINE_H
     sub_html = ""
     if sub_text:
-        sub_lines = max(1, math.ceil(len(sub_text) / p.sub_cpl))
-        content += 8 + sub_lines * LINE_H
+        sub_lines = wrap_lines(sub_text, _text_box(p) - SUB_INDENT)
+        content += sub_lines * LINE_H
         sub_html = f'        <ul class="sub"><li>{sub_text}</li></ul>\n'
     height = math.ceil(pad[0] + pad[1] + max(content, p.icon)) - trim
     inner = (
@@ -205,7 +259,7 @@ def sub_row(p, text, pad=(12, 12), lift=0, radius="8px"):
     leading) and crops the same amount off the bottom, tightening both the gap
     above and the row footprint without clipping any glyphs.
     """
-    lines = max(1, math.ceil(len(text) / p.sub_cpl))
+    lines = wrap_lines(text, _text_box(p) - SUB_INDENT)
     height = math.ceil(pad[0] + pad[1] + lines * LINE_H) - lift
     subrow_style = f' style="margin-top: -{lift}px"' if lift else ""
     inner = (
@@ -231,11 +285,6 @@ MAIN_REPO = "Main repository with documentation, images and some tools."
 # therefore derived from the same strings the SVG renders (see project/sub_project
 # below) so it carries the full text verbatim and can't drift out of sync.
 Row = namedtuple("Row", "file build href alt")
-
-
-def _plain(html):
-    """Strip inline HTML tags so SVG text can be reused verbatim as img alt."""
-    return re.sub(r"<[^>]+>", "", html)
 
 
 def project(file, icon, name, desc, href, sub_text=None, pad=(12, 12), trim=0, radius="8px"):
@@ -280,7 +329,9 @@ ROWS = [
         "cesc16.svg", chip, "CESC16",
         "A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.",
         "https://github.com/pol-rivero/CESC16",
-        sub_text=MAIN_REPO_16, pad=(12, 0), trim=4, radius="8px 8px 0 0",
+        # 4px bottom padding keeps the same breathing room above the stitched
+        # emulator row that the group was tuned with.
+        sub_text=MAIN_REPO_16, pad=(12, 4), radius="8px 8px 0 0",
     ),
     sub_project(
         "cesc16-emulator.svg", EMULATOR,

@@ -71,8 +71,8 @@ MOBILE = Profile("mobile", 400, 40, 14, 38, 34)
 # Responsive variants, smallest max-width first (the browser picks the first
 # matching <source>). DESKTOP is the fallback <img>, so it is not listed here.
 VARIANTS = [
-    (MOBILE, "(max-width: 500px)"),
-    (SMALL, "(max-width: 750px)"),
+    (MOBILE, "(max-width: 550px)"),
+    (SMALL, "(max-width: 900px)"),
     (MEDIUM, "(max-width: 1200px)"),
 ]
 

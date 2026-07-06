@@ -73,7 +73,7 @@ MOBILE = Profile("mobile", 400, 40, 14, 38, 34)
 VARIANTS = [
     (MOBILE, "(max-width: 500px)"),
     (SMALL, "(max-width: 750px)"),
-    (MEDIUM, "(max-width: 1000px)"),
+    (MEDIUM, "(max-width: 1200px)"),
 ]
 
 

@@ -108,7 +108,7 @@ STYLE_TEMPLATE = """
       .sub a { color: var(--accent); font-weight: 500; }
       @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
       @media (prefers-color-scheme: light) {
-        .body { --text: #1f2328; --muted: #59636e; --accent: #0969da; --accent-3: #1a7f37; }
+        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; }
       }
       @media (prefers-reduced-motion) { .body { animation: none; } }
 """

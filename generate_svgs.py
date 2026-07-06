@@ -13,10 +13,11 @@ README, and GitHub serves them as static images, so:
   * links inside a row are NOT clickable -- the whole row is wrapped in an <a>
     in the assembled README instead.
 
-Mobile: an <img> shows a fixed-width canvas scaled to fit, so a wide desktop
-canvas makes text tiny on phones. Each row is therefore rendered twice -- a wide
-DESKTOP profile and a narrow MOBILE profile (smaller icon, reflowed text) -- and
-the README uses <picture> to pick the mobile variant below 500px.
+Responsive: an <img> shows a fixed-width canvas scaled to fit, so a wide canvas
+makes text tiny on narrow screens. Each row is therefore rendered at several
+widths (DESKTOP / MEDIUM / SMALL / MOBILE, with smaller icons and reflowed text
+as they narrow), and the README uses <picture> media queries to pick the variant
+whose canvas is closest to the viewport (breakpoints at 500 / 750 / 1000px).
 
 Icons are read from assets/icons/ (96x96, pre-resized so this script needs only
 the Python standard library). If you replace the source art in assets/, refresh
@@ -36,9 +37,6 @@ ROOT = os.path.dirname(os.path.realpath(__file__))
 ASSETS = os.path.join(ROOT, "assets")
 ICONS = os.path.join(ASSETS, "icons")
 ROWS_DIR = os.path.join(ROOT, "rows")
-
-# Viewport width (px) at/below which the README serves the mobile row variants.
-MOBILE_BREAKPOINT = 500
 
 
 def b64_png(name):
@@ -62,8 +60,21 @@ discord = b64_svg("discord-audio-stream.svg")
 # chars-per-line estimates used to guess how many lines text wraps to.
 Profile = namedtuple("Profile", "name width icon gap desc_cpl sub_cpl")
 
+# One canvas width per viewport band so the image never has to scale far from
+# 1:1 (which is what shrinks the text). DESKTOP is the default (widest); the
+# others are picked by <picture> media queries below their max-width.
 DESKTOP = Profile("desktop", 880, 52, 18, 88, 80)
+MEDIUM = Profile("medium", 760, 48, 18, 75, 68)
+SMALL = Profile("small", 600, 44, 16, 59, 53)
 MOBILE = Profile("mobile", 400, 40, 14, 38, 34)
+
+# Responsive variants, smallest max-width first (the browser picks the first
+# matching <source>). DESKTOP is the fallback <img>, so it is not listed here.
+VARIANTS = [
+    (MOBILE, "(max-width: 500px)"),
+    (SMALL, "(max-width: 750px)"),
+    (MEDIUM, "(max-width: 1000px)"),
+]
 
 
 STYLE_TEMPLATE = """
@@ -273,23 +284,23 @@ ROWS = [
 
 
 def generate():
-    """Write every row SVG (desktop + mobile) and return the README markdown."""
-    mobile_dir = os.path.join(ROWS_DIR, "mobile")
-    os.makedirs(mobile_dir, exist_ok=True)
+    """Write every row SVG (all profiles) and return the README markdown."""
+    for profile, _ in VARIANTS:
+        os.makedirs(os.path.join(ROWS_DIR, profile.name), exist_ok=True)
 
     lines = ["<div>"]
     for row in ROWS:
         with open(os.path.join(ROWS_DIR, row.file), "w", encoding="utf-8") as f:
             f.write(row.build(DESKTOP))
-        with open(os.path.join(mobile_dir, row.file), "w", encoding="utf-8") as f:
-            f.write(row.build(MOBILE))
+
+        sources = ""
+        for profile, media in VARIANTS:
+            with open(os.path.join(ROWS_DIR, profile.name, row.file), "w", encoding="utf-8") as f:
+                f.write(row.build(profile))
+            sources += f'<source media="{media}" srcset="rows/{profile.name}/{row.file}">'
 
         img = f'<img src="rows/{row.file}" width="100%" alt="{row.alt}">'
-        picture = (
-            f'<picture>'
-            f'<source media="(max-width: {MOBILE_BREAKPOINT}px)" srcset="rows/mobile/{row.file}">'
-            f'{img}</picture>'
-        )
+        picture = f"<picture>{sources}{img}</picture>"
         lines.append(f'  <a href="{row.href}">{picture}</a>' if row.href else f"  {picture}")
     lines.append("</div>")
     return "\n".join(lines) + "\n"
@@ -297,7 +308,11 @@ def generate():
 
 if __name__ == "__main__":
     generate()
+    profiles = [DESKTOP, MEDIUM, SMALL, MOBILE]
+    print(f"{'':24} " + "  ".join(f"{p.name:>16}" for p in profiles))
     for row in ROWS:
-        d = row.build(DESKTOP).split('viewBox="0 0 ')[1].split('"')[0]
-        m = row.build(MOBILE).split('viewBox="0 0 ')[1].split('"')[0]
-        print(f"{row.file:24} desktop=[{d}]  mobile=[{m}]")
+        sizes = []
+        for p in profiles:
+            box = row.build(p).split('viewBox="0 0 ')[1].split('"')[0]
+            sizes.append(f"[{box}]")
+        print(f"{row.file:24} " + "  ".join(f"{s:>16}" for s in sizes))

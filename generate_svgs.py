@@ -84,6 +84,7 @@ STYLE_TEMPLATE = """
         --muted: #dce0e3;
         --accent: #58a6ff;
         --accent-3: #56d364;
+        --shimmer: #8fc0ff;
         color: var(--text);
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
         font-size: 15px;
@@ -92,10 +93,20 @@ STYLE_TEMPLATE = """
         animation: rise 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) both;
       }
       .project { display: flex; align-items: flex-start; gap: __GAP__px; }
-      .icon { width: __ICON__px; height: __ICON__px; flex-shrink: 0; object-fit: contain; margin-top: 2px; }
+      .icon {
+        width: __ICON__px; height: __ICON__px; flex-shrink: 0; object-fit: contain; margin-top: 2px;
+        animation: iconSettle 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) 0.1s both;
+      }
       .content { flex: 1; min-width: 0; }
       h2 { font-size: 22px; font-weight: 700; color: var(--text); }
-      .name { font-weight: 700; font-size: 16px; color: var(--accent); }
+      .name {
+        font-weight: 700; font-size: 16px; color: var(--accent);
+        background: linear-gradient(100deg, var(--accent) 30%, var(--shimmer) 50%, var(--accent) 70%);
+        background-size: 250% 100%;
+        -webkit-background-clip: text; background-clip: text;
+        -webkit-text-fill-color: transparent;
+        animation: shimmer 12s ease-in-out 1.2s infinite;
+      }
       .desc { color: var(--muted); margin-top: 2px; }
       em { color: var(--text); font-style: italic; }
       .subrow { padding-left: __SUBROW__px; }
@@ -107,10 +118,15 @@ STYLE_TEMPLATE = """
       }
       .sub a { color: var(--accent); font-weight: 500; }
       @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes iconSettle { from { transform: scale(0.92); } to { transform: scale(1); } }
+      @keyframes shimmer { 0% { background-position: 150% 0; } 15%, 100% { background-position: -50% 0; } }
       @media (prefers-color-scheme: light) {
-        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; }
+        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; --shimmer: #4d93e6; }
       }
-      @media (prefers-reduced-motion) { .body { animation: none; } }
+      @media (prefers-reduced-motion) {
+        .body, .icon, .name { animation: none; }
+        .name { background: none; -webkit-text-fill-color: var(--accent); }
+      }
 """
 
 TITLE_H = 25.6  # rendered height of the .name line (16px * 1.6)

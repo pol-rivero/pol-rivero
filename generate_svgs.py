@@ -31,6 +31,7 @@ Run standalone to regenerate the SVGs:  python3 generate_svgs.py
 import base64
 import math
 import os
+import re
 from collections import namedtuple
 
 ROOT = os.path.dirname(os.path.realpath(__file__))
@@ -85,6 +86,9 @@ STYLE_TEMPLATE = """
         --accent: #58a6ff;
         --accent-3: #56d364;
         --shimmer: #8fc0ff;
+        background: #0d1117;
+        border-radius: 8px;
+        min-height: 100%;
         color: var(--text);
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
         font-size: 15px;
@@ -121,7 +125,7 @@ STYLE_TEMPLATE = """
       @keyframes iconSettle { from { transform: scale(0.92); } to { transform: scale(1); } }
       @keyframes shimmer { 0% { background-position: 150% 0; } 15%, 100% { background-position: -50% 0; } }
       @media (prefers-color-scheme: light) {
-        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; --shimmer: #4d93e6; }
+        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; --shimmer: #4d93e6; background: #ffffff; }
       }
       @media (prefers-reduced-motion) {
         .body, .icon, .name { animation: none; }
@@ -142,34 +146,38 @@ def style(p):
     )
 
 
-def _pad_style(pad):
-    if pad == (12, 12):
-        return ""
-    fmt = lambda v: f"{v}px" if v else "0"
-    return f' style="padding: {fmt(pad[0])} 16px {fmt(pad[1])}"'
+def _body_style(pad, radius):
+    styles = []
+    if pad != (12, 12):
+        fmt = lambda v: f"{v}px" if v else "0"
+        styles.append(f"padding: {fmt(pad[0])} 16px {fmt(pad[1])}")
+    if radius != "8px":
+        styles.append(f"border-radius: {radius}")
+    return f' style="{"; ".join(styles)}"' if styles else ""
 
 
-def svg(p, height, body_inner, body_class="", pad=(12, 12)):
+def svg(p, height, body_inner, body_class="", pad=(12, 12), radius="8px"):
     cls = ("body " + body_class).strip()
     return (
-        f'<svg fill="none" viewBox="0 0 {p.width} {height}" width="{p.width}" height="{height}" '
+        f'<svg viewBox="0 0 {p.width} {height}" width="{p.width}" height="{height}" '
         f'xmlns="http://www.w3.org/2000/svg">\n'
         f'  <foreignObject width="100%" height="100%">\n'
-        f'  <div xmlns="http://www.w3.org/1999/xhtml">\n'
+        f'  <div xmlns="http://www.w3.org/1999/xhtml" style="height: 100%">\n'
         f'    <style>{style(p)}    </style>\n'
-        f'    <div class="{cls}"{_pad_style(pad)}>\n{body_inner}\n    </div>\n'
+        f'    <div class="{cls}"{_body_style(pad, radius)}>\n{body_inner}\n    </div>\n'
         f'  </div>\n'
         f'  </foreignObject>\n'
         f'</svg>\n'
     )
 
 
-def project_row(p, icon, name, desc, sub_text=None, pad=(12, 12), trim=0):
+def project_row(p, icon, name, desc, sub_text=None, pad=(12, 12), trim=0, radius="8px"):
     """A project: icon on the left, name + description (+ optional first sub-line).
 
     Height is derived from an estimate of how many lines the text wraps to for
     the given profile. `trim` crops empty line-height leading off the bottom of
-    the canvas to tighten the gap to whatever follows.
+    the canvas to tighten the gap to whatever follows. `radius` sets the card's
+    border-radius; rows stitched to a neighbour square off the shared edge.
     """
     desc_lines = max(1, math.ceil(len(desc) / p.desc_cpl))
     content = TITLE_H + 2 + desc_lines * LINE_H
@@ -187,10 +195,10 @@ def project_row(p, icon, name, desc, sub_text=None, pad=(12, 12), trim=0):
         f'{sub_html}'
         f'      </div>'
     )
-    return svg(p, height, inner, "project", pad)
+    return svg(p, height, inner, "project", pad, radius)
 
 
-def sub_row(p, text, pad=(12, 12), lift=0):
+def sub_row(p, text, pad=(12, 12), lift=0, radius="8px"):
     """A standalone continuation line, indented to align under a project's text.
 
     `lift` pulls the line up by N px (negative top margin into the empty line
@@ -205,7 +213,7 @@ def sub_row(p, text, pad=(12, 12), lift=0):
         f'        <ul class="sub"><li>{text}</li></ul>\n'
         f'      </div>'
     )
-    return svg(p, height, inner, pad=pad)
+    return svg(p, height, inner, pad=pad, radius=radius)
 
 
 EMULATOR = "Emulator written in C++, using the ncurses library."
@@ -217,7 +225,34 @@ MAIN_REPO = "Main repository with documentation, images and some tools."
 # A row is one SVG file plus how the README links/labels it. `build` renders the
 # SVG for a given Profile; `href` is None for non-clickable rows (the heading);
 # `alt` is the image alt text.
+#
+# The row reaches GitHub as an <img>, so a screen reader announces ONLY `alt` --
+# the text rendered inside the SVG is invisible to assistive tech. `alt` is
+# therefore derived from the same strings the SVG renders (see project/sub_project
+# below) so it carries the full text verbatim and can't drift out of sync.
 Row = namedtuple("Row", "file build href alt")
+
+
+def _plain(html):
+    """Strip inline HTML tags so SVG text can be reused verbatim as img alt."""
+    return re.sub(r"<[^>]+>", "", html)
+
+
+def project(file, icon, name, desc, href, sub_text=None, pad=(12, 12), trim=0, radius="8px"):
+    """A project row whose alt text is the full on-screen text (name + desc)."""
+    build = lambda p: project_row(p, icon, name, desc, sub_text=sub_text, pad=pad, trim=trim, radius=radius)
+    alt = f"{name}. {_plain(desc)}"
+    if sub_text:
+        alt += f" {_plain(sub_text)}"
+    return Row(file, build, href, alt)
+
+
+def sub_project(file, text, href, parent, pad=(12, 12), lift=0, radius="8px"):
+    """A continuation row; alt prefixes the full text with its parent project for
+    context, since a screen reader reaches it as a standalone link."""
+    build = lambda p: sub_row(p, text, pad=pad, lift=lift, radius=radius)
+    return Row(file, build, href, f"{parent}: {_plain(text)}")
+
 
 ROWS = [
     Row(
@@ -226,75 +261,47 @@ ROWS = [
         None,
         "Some of my projects",
     ),
-    Row(
-        "desktop-plus.svg",
-        lambda p: project_row(
-            p, desktopPlus, "Desktop Plus",
-            "A GitHub Desktop fork that adds some features I needed for my workflow. It includes commit search, Bitbucket/GitLab support, multiple stashes per branch, and many small features and improvements. Additionally, I keep it up to date with the latest upstream releases, since the shiftkey fork is no longer maintained.",
-        ),
+    project(
+        "desktop-plus.svg", desktopPlus, "Desktop Plus",
+        "A GitHub Desktop fork that adds some features I needed for my workflow. It includes commit search, Bitbucket/GitLab support, multiple stashes per branch, and many small features and improvements. Additionally, I keep it up to date with the latest upstream releases, since the shiftkey fork is no longer maintained.",
         "https://github.com/desktop-plus/desktop-plus",
-        "Desktop Plus | A GitHub Desktop fork with commit search, Bitbucket/GitLab support, multiple stashes per branch and more.",
     ),
-    Row(
-        "doot.svg",
-        lambda p: project_row(
-            p, terminal, "doot",
-            "It turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and <em>extremely</em> fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.",
-        ),
+    project(
+        "doot.svg", terminal, "doot",
+        "It turns out that all existing dotfile managers suck, and writing my own is the only way to go. It's designed to be intuitive and <em>extremely</em> fast, while also supporting advanced features such as private (encrypted) files, host-specific alternative files and bootstrapping repositories.",
         "https://github.com/pol-rivero/doot",
-        "doot | An intuitive and extremely fast dotfile manager with encrypted files, host-specific alternatives and bootstrapping.",
     ),
-    Row(
-        "discord-audio-stream.svg",
-        lambda p: project_row(
-            p, discord, "Discord Audio Stream",
-            "It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.",
-        ),
+    project(
+        "discord-audio-stream.svg", discord, "Discord Audio Stream",
+        "It's very easy to share your screen using Discord. Being able to hear it, not so much. This tool gives you control over the audio that you send to Discord, making it possible to share a screen with audio, use OBS, and any other use case you can think of.",
         "https://github.com/pol-rivero/DiscordAudioStream",
-        "Discord Audio Stream | Control the audio you send to Discord to share a screen with audio, use OBS, and more.",
     ),
-    Row(
-        "cesc16.svg",
-        lambda p: project_row(
-            p, chip, "CESC16",
-            "A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.",
-            sub_text=MAIN_REPO_16,
-            pad=(12, 0),
-            trim=4,
-        ),
+    project(
+        "cesc16.svg", chip, "CESC16",
+        "A custom CPU, designed from scratch and built on PCBs. Completely 16-bit, with support for interrupts and improved General Purpose IO (GPIO) ports.",
         "https://github.com/pol-rivero/CESC16",
-        "CESC16 | A custom 16-bit CPU designed from scratch and built on PCBs, with interrupts and GPIO ports.",
+        sub_text=MAIN_REPO_16, pad=(12, 0), trim=4, radius="8px 8px 0 0",
     ),
-    Row(
-        "cesc16-emulator.svg",
-        lambda p: sub_row(p, EMULATOR, pad=(0, 2), lift=2),
+    sub_project(
+        "cesc16-emulator.svg", EMULATOR,
         "https://github.com/pol-rivero/CESC16-emulator",
-        "CESC16 emulator written in C++ using the ncurses library.",
+        parent="CESC16", pad=(0, 2), lift=2, radius="0",
     ),
-    Row(
-        "cesc16-lcc.svg",
-        lambda p: sub_row(p, LCC, pad=(2, 12), lift=2),
+    sub_project(
+        "cesc16-lcc.svg", LCC,
         "https://github.com/pol-rivero/lcc",
-        "CESC16 ANSI C compiler, an lcc backend.",
+        parent="CESC16", pad=(2, 12), lift=2, radius="0 0 8px 8px",
     ),
-    Row(
-        "cesca.svg",
-        lambda p: project_row(
-            p, chip, "CESC",
-            "Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.",
-            sub_text=MAIN_REPO,
-        ),
+    project(
+        "cesca.svg", chip, "CESC",
+        "Previous CPU architecture, inspired by Ben Eater's SAP-1 and built on breadboards. It's an 8-bit architecture with a very simple instruction set.",
         "https://github.com/pol-rivero/CESCA",
-        "CESC | An 8-bit CPU inspired by Ben Eater's SAP-1 and built on breadboards.",
+        sub_text=MAIN_REPO,
     ),
-    Row(
-        "arduino-vga.svg",
-        lambda p: project_row(
-            p, chip, "Arduino VGA Terminal",
-            "Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.",
-        ),
+    project(
+        "arduino-vga.svg", chip, "Arduino VGA Terminal",
+        "Use an Arduino Nano to drive a VGA monitor. It only supports text output, so it's great as a terminal for your homebrew CPU projects.",
         "https://github.com/pol-rivero/ArduinoVGA",
-        "Arduino VGA Terminal | Drive a VGA monitor from an Arduino Nano as a text terminal.",
     ),
 ]
 

@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 880 24" width="880" height="24" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 880 24" width="880" height="24" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-  <div xmlns="http://www.w3.org/1999/xhtml">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="height: 100%">
     <style>
       * { margin: 0; padding: 0; box-sizing: border-box; text-decoration: none; list-style: none; }
       .body {
@@ -9,6 +9,9 @@
         --accent: #58a6ff;
         --accent-3: #56d364;
         --shimmer: #8fc0ff;
+        background: #0d1117;
+        border-radius: 8px;
+        min-height: 100%;
         color: var(--text);
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
         font-size: 15px;
@@ -45,14 +48,14 @@
       @keyframes iconSettle { from { transform: scale(0.92); } to { transform: scale(1); } }
       @keyframes shimmer { 0% { background-position: 150% 0; } 15%, 100% { background-position: -50% 0; } }
       @media (prefers-color-scheme: light) {
-        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; --shimmer: #4d93e6; }
+        .body { --text: #1f2328; --muted: #3d3e40; --accent: #0969da; --accent-3: #1a7f37; --shimmer: #4d93e6; background: #ffffff; }
       }
       @media (prefers-reduced-motion) {
         .body, .icon, .name { animation: none; }
         .name { background: none; -webkit-text-fill-color: var(--accent); }
       }
     </style>
-    <div class="body" style="padding: 0 16px 2px">
+    <div class="body" style="padding: 0 16px 2px; border-radius: 0">
       <div class="subrow" style="margin-top: -2px">
         <ul class="sub"><li>Emulator written in C++, using the ncurses library.</li></ul>
       </div>

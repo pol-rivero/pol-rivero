@@ -19,11 +19,11 @@ widths (DESKTOP / MEDIUM / SMALL / MOBILE, with smaller icons and reflowed text
 as they narrow), and the README uses <picture> media queries to pick the variant
 whose canvas is closest to the viewport (breakpoints at 500 / 750 / 1000px).
 
-Icons are read from assets/icons/ (96x96, pre-resized so this script needs only
-the Python standard library). If you replace the source art in assets/, refresh
-the 96px versions with ImageMagick, e.g.:
+Icons are read from assets/icons/ (96x96 lossless WebP, pre-resized so this
+script needs only the Python standard library). If you replace the source art,
+refresh the 96px icons with ImageMagick, e.g.:
 
-    magick assets/desktop-plus.png -resize 96x96 -strip assets/icons/desktop-plus.png
+    magick desktop-plus.png -resize 96x96 -strip -define webp:lossless=true assets/icons/desktop-plus.webp
 
 Run standalone to regenerate the SVGs:  python3 generate_svgs.py
 """
@@ -39,9 +39,9 @@ ICONS = os.path.join(ASSETS, "icons")
 ROWS_DIR = os.path.join(ROOT, "rows")
 
 
-def b64_png(name):
+def b64_webp(name):
     with open(os.path.join(ICONS, name), "rb") as f:
-        return "data:image/png;base64," + base64.b64encode(f.read()).decode()
+        return "data:image/webp;base64," + base64.b64encode(f.read()).decode()
 
 
 def b64_svg(name):
@@ -49,9 +49,9 @@ def b64_svg(name):
         return "data:image/svg+xml;base64," + base64.b64encode(f.read()).decode()
 
 
-desktopPlus = b64_png("desktop-plus.png")
-chip = b64_png("generic-microchip.png")
-terminal = b64_png("generic-terminal.png")
+desktopPlus = b64_webp("desktop-plus.webp")
+chip = b64_webp("generic-microchip.webp")
+terminal = b64_webp("generic-terminal.webp")
 discord = b64_svg("discord-audio-stream.svg")
 
 

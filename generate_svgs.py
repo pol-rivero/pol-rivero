@@ -80,8 +80,8 @@ VARIANTS = [
 STYLE_TEMPLATE = """
       * { margin: 0; padding: 0; box-sizing: border-box; text-decoration: none; list-style: none; }
       .body {
-        --text: #c9d1d9;
-        --muted: #8b949e;
+        --text: #f0f6fc;
+        --muted: #dce0e3;
         --accent: #58a6ff;
         --accent-3: #56d364;
         color: var(--text);
